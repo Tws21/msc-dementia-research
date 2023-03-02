@@ -1,0 +1,43 @@
+readcode,medcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild,description
+173A.00,5867,54394,0,186,3,Exercise induced asthma,February 2009,Exercise induced asthma
+173c.00,22752,717,0,37,0,Occupational asthma,February 2009,Occupational asthma
+173d.00,73522,221,0,1,0,Work aggravated asthma,February 2009,Work aggravated asthma
+1780,NA,NA,NA,NA,NA,NA,NA,Aspirin induced asthma
+1O2..00,11370,19157,0,48,0,Asthma confirmed,February 2009,Asthma confirmed
+2126200,10996,178716,0,57,0,Asthma resolved,February 2009,Asthma resolved
+212G.00,11839,64272,0,4,0,Asthma resolved,February 2009,Asthma resolved
+663j.00,10487,18389,0,8,0,Asthma - currently active,February 2009,Asthma - currently active
+663V000,3458,11983,0,26,7,Occasional asthma,February 2009,Occasional asthma
+663V100,3018,22782,0,19,0,Mild asthma,February 2009,Mild asthma
+663V200,13065,16096,0,13,0,Moderate asthma,February 2009,Moderate asthma
+663V300,3366,3141,0,74,0,Severe asthma,February 2009,Severe asthma
+H312000,5798,3946,0,51,0,Chronic asthmatic bronchitis,February 2009,Chronic asthmatic bronchitis
+H33..00,78,5061247,0,48268,247,Asthma,February 2009,Asthma
+H33..11,1555,57065,0,1180,20,Bronchial asthma,February 2009,Bronchial asthma
+H330.00,7146,31175,0,43,0,Extrinsic (atopic) asthma,February 2009,Extrinsic (atopic) asthma
+H330.11,2290,16528,0,491,5,Allergic asthma,February 2009,Allergic asthma
+H330.12,1208,25451,0,117,4,Childhood asthma,February 2009,Childhood asthma
+H330.13,15248,6147,0,18,1,Hay fever with asthma,February 2009,Hay fever with asthma
+H330.14,7731,3826,0,3,3,Pollen asthma,February 2009,Pollen asthma
+H330000,14777,4285,0,1,0,Extrinsic asthma without status asthmaticus,February 2009,Extrinsic asthma without status asthmaticus
+H330011,5627,7308,0,5,0,Hay fever with asthma,February 2009,Hay fever with asthma
+H330100,27926,445,0,5,0,Extrinsic asthma with status asthmaticus,February 2009,Extrinsic asthma with status asthmaticus
+H330111,6707,2903,0,31,0,Extrinsic asthma with asthma attack,February 2009,Extrinsic asthma with asthma attack
+H330z00,45782,3015,0,3,0,Extrinsic asthma NOS,February 2009,Extrinsic asthma NOS
+H331.00,5267,15965,0,16,0,Intrinsic asthma,February 2009,Intrinsic asthma
+H331.11,3665,5880,0,145,2,Late onset asthma,February 2009,Late onset asthma
+H331000,29325,1188,0,1,0,Intrinsic asthma without status asthmaticus,February 2009,Intrinsic asthma without status asthmaticus
+H331100,58196,123,0,1,0,Intrinsic asthma with status asthmaticus,February 2009,Intrinsic asthma with status asthmaticus
+H331111,18323,167,0,5,0,Intrinsic asthma with asthma attack,February 2009,Intrinsic asthma with asthma attack
+H331z00,45073,1763,0,2,0,Intrinsic asthma NOS,February 2009,Intrinsic asthma NOS
+H332.00,25796,1105,0,2,0,Mixed asthma,February 2009,Mixed asthma
+H334.00,40823,1178,0,33,3,Brittle asthma,February 2009,Brittle asthma
+H33z.00,4442,77692,0,992,13,Asthma unspecified,February 2009,Asthma unspecified
+H33z.11,32727,883,0,3,0,Hyperreactive airways disease,February 2009,Hyperreactive airways disease
+H33z200,12987,4260,0,7,2,Late-onset asthma,February 2009,Late-onset asthma
+H33zz00,16070,255606,0,66,0,Asthma NOS,February 2009,Asthma NOS
+H33zz11,4606,9058,0,37,0,Exercise induced asthma,February 2009,Exercise induced asthma
+H33zz12,21232,222,0,0,0,Allergic asthma NEC,February 2009,Allergic asthma NEC
+H35y600,93353,2,0,0,0,Sequoiosis (red-cedar asthma),February 2009,Sequoiosis (red-cedar asthma)
+H35y700,39478,5,0,0,0,Wood asthma,February 2009,Wood asthma
+H47y000,47684,38,0,1,0,Detergent asthma,February 2009,Detergent asthma

@@ -1,0 +1,21 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+    1385	94996	379	1	0	8B39.14	Medication not taken	February 2009
+   31169	267	1	0	0	8B39000	Drug not taken - dislike taste	February 2009
+   18139	298	0	0	0	8B39100	Drug not taken - dislike form	February 2009
+    6658	11586	19	0	0	8B39200	Drug not taken - side-effects	February 2009
+   21968	136	0	0	0	8B39300	Drug not taken - inconvenient	February 2009
+   21630	551	10	2	0	8B39400	Drug not taken - prob.swallow.	February 2009
+   21326	2385	2	0	0	8B39500	Drug not taken - pat disbelief	February 2009
+    9428	9382	7	0	0	8B39700	Drug not taken - patient lost tablets	February 2009
+   21756	319	2	0	0	8B39800	Drug discontinued - reason unknown	February 2009
+    9153	481	0	0	0	8B39900	Drug discontinued - patient fear/risk	February 2009
+   53089	38	0	0	0	8B39A00	Drug discontinued - too expensive	February 2009
+   18703	1515	0	0	0	8B39B00	Drug treatment stopped - patient ran out of tablets	February 2009
+   16701	168	7	0	0	8B39C00	Treatment stopped - patient unable to concentrate	February 2009
+   20981	1456	4	0	0	8B39y00	Drug not taken - other reason	February 2009
+   22209	1695	1	0	0	8B39z00	Drug not taken NOS	February 2009
+   51475	456	0	0	0	8BIj.00	Unable to use medication	February 2009
+  106354	1	0	0	0	8BPN.00	Does not adhere to medication regimen	June 2013
+   41330	367	4	0	0	Z8B1200	Unable to manage medication	February 2009
+   18261	333	6	0	0	Z8B1400	Does not manage medication	February 2009
+   18351	576	3	0	0	Z8B1500	Difficulty managing medication	February 2009

@@ -1,0 +1,13 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+    7674	8434	552	0	0	28E..00	Cognitive decline	February 2009
+   65856	8	0	0	0	3AE1.00	GDS level 2 - very mild cognitive decline	February 2009
+   60263	30	0	0	0	3AE2.00	GDS level 3 - mild cognitive decline	February 2009
+   60726	28	0	0	0	3AE3.00	GDS level 4 - moderate cognitive decline	February 2009
+   70057	28	0	0	0	3AE4.00	GDS level 5 - moderately severe cognitive decline	February 2009
+   94717	13	0	0	0	3AE5.00	GDS level 6 - severe cognitive decline	February 2009
+   72520	4	0	0	0	3AE6.00	GDS level 7 - very severe cognitive decline	February 2009
+   11936	4720	149	0	0	Eu05700	[X]Mild cognitive disorder	February 2009
+   52939	5	0	0	0	Ryu5100	[X]Oth & unspec symptom/sign involv cognit funct/awareness	February 2009
+   35194	158	0	0	0	ZRLfE00	Health of the Nation Outcome Scale item 4 - cognitive probl	February 2009
+   10822	9605	0	430	0	Z7C1.00	Impaired cognition	February 2009
+   18906	364	0	12	0	Z7C..00	Cognitive function observations	February 2009

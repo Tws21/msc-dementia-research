@@ -1,0 +1,63 @@
+readcode,medcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild,description
+G3...00,240,677565,0,11334,1647,Ischaemic heart disease,February 2009,Ischaemic heart disease
+G3...11,24783,925,0,1,0,Arteriosclerotic heart disease,February 2009,Arteriosclerotic heart disease
+G3...12,20416,2393,0,10,0,Atherosclerotic heart disease,February 2009,Atherosclerotic heart disease
+G3...13,1792,161167,0,3154,10,IHD - Ischaemic heart disease,February 2009,IHD - Ischaemic heart disease
+G31..00,27951,226,0,5,0,Other acute and subacute ischaemic heart disease,February 2009,Other acute and subacute ischaemic heart disease
+G310.00,23579,130,0,4,0,Postmyocardial infarction syndrome,February 2009,Postmyocardial infarction syndrome
+G310.11,15661,614,0,16,0,Dressler's syndrome,February 2009,Dressler's syndrome
+G311.00,36523,5461,0,578,0,Preinfarction syndrome,February 2009,Preinfarction syndrome
+G311.11,4656,5672,0,1486,0,Crescendo angina,February 2009,Crescendo angina
+G311.12,39655,5,0,0,0,Impending infarction,February 2009,Impending infarction
+G311.13,1431,37461,0,6184,3,Unstable angina,February 2009,Unstable angina
+G311.14,19655,771,0,65,0,Angina at rest,February 2009,Angina at rest
+G311100,7347,30292,0,1503,0,Unstable angina,February 2009,Unstable angina
+G311200,17307,2011,0,171,0,Angina at rest,February 2009,Angina at rest
+G311300,34328,175,0,20,0,Refractory angina,February 2009,Refractory angina
+G311500,11983,36590,0,218,0,Acute coronary syndrome,February 2009,Acute coronary syndrome
+G311z00,54251,118,0,2,0,Preinfarction syndrome NOS,February 2009,Preinfarction syndrome NOS
+G31y.00,9413,113,0,4,0,Other acute and subacute ischaemic heart disease,February 2009,Other acute and subacute ischaemic heart disease
+G31y000,9276,3056,0,22,0,Acute coronary insufficiency,February 2009,Acute coronary insufficiency
+G31y200,39693,125,0,3,0,Subendocardial ischaemia,February 2009,Subendocardial ischaemia
+G31y300,21844,414,0,5,0,Transient myocardial ischaemia,February 2009,Transient myocardial ischaemia
+G31yz00,27977,85,0,1,0,Other acute and subacute ischaemic heart disease NOS,February 2009,Other acute and subacute ischaemic heart disease NOS
+G32..00,4017,12659,0,270,13,Old myocardial infarction,February 2009,Old myocardial infarction
+G32..11,16408,419,0,26,0,Healed myocardial infarction,February 2009,Healed myocardial infarction
+G32..12,17464,1380,0,35,3,Personal history of myocardial infarction,February 2009,Personal history of myocardial infarction
+G33..00,1430,897761,0,40441,223,Angina pectoris,February 2009,Angina pectoris
+G330.00,20095,2503,0,206,0,Angina decubitus,February 2009,Angina decubitus
+G330000,18125,334,0,16,0,Nocturnal angina,February 2009,Nocturnal angina
+G330z00,29902,55,0,1,0,Angina decubitus NOS,February 2009,Angina decubitus NOS
+G331.00,12986,1012,0,19,0,Prinzmetal's angina,February 2009,Prinzmetal's angina
+G331.11,11048,151,0,22,0,Variant angina pectoris,February 2009,Variant angina pectoris
+G332.00,36854,1596,0,9,0,Coronary artery spasm,February 2009,Coronary artery spasm
+G33z.00,25842,12484,0,81,0,Angina pectoris NOS,February 2009,Angina pectoris NOS
+G33z000,66388,49,0,0,0,Status anginosus,February 2009,Status anginosus
+G33z100,54535,12,0,0,0,Stenocardia,February 2009,Stenocardia
+G33z200,7696,81,0,0,0,Syncope anginosa,February 2009,Syncope anginosa
+G33z300,1414,7847,0,628,2,Angina on effort,February 2009,Angina on effort
+G33z400,32450,1643,0,139,0,Ischaemic chest pain,February 2009,Ischaemic chest pain
+G33z500,9555,272,0,2,0,Post infarct angina,February 2009,Post infarct angina
+G33z600,26863,643,0,7,0,New onset angina,February 2009,New onset angina
+G33z700,12804,8425,0,68,0,Stable angina,February 2009,Stable angina
+G33zz00,28554,20126,0,135,1,Angina pectoris NOS,February 2009,Angina pectoris NOS
+G34..00,28138,780,0,4,0,Other chronic ischaemic heart disease,February 2009,Other chronic ischaemic heart disease
+G340.00,5413,10919,0,102,2,Coronary atherosclerosis,February 2009,Coronary atherosclerosis
+G340.11,1655,11690,0,114,0,Triple vessel disease of the heart,February 2009,Triple vessel disease of the heart
+G340.12,1344,48684,0,670,11,Coronary artery disease,February 2009,Coronary artery disease
+G340000,3999,7123,0,31,0,Single coronary vessel disease,February 2009,Single coronary vessel disease
+G340100,5254,4544,0,19,0,Double coronary vessel disease,February 2009,Double coronary vessel disease
+G342.00,36609,333,0,1,0,Atherosclerotic cardiovascular disease,February 2009,Atherosclerotic cardiovascular disease
+G343.00,7320,2726,0,42,0,Ischaemic cardiomyopathy,February 2009,Ischaemic cardiomyopathy
+G344.00,29421,684,0,25,0,Silent myocardial ischaemia,February 2009,Silent myocardial ischaemia
+G34y.00,34633,76,0,3,0,Other specified chronic ischaemic heart disease,February 2009,Other specified chronic ischaemic heart disease
+G34y000,24540,192,0,2,0,Chronic coronary insufficiency,February 2009,Chronic coronary insufficiency
+G34y100,23078,1662,0,16,0,Chronic myocardial ischaemia,February 2009,Chronic myocardial ischaemia
+G34yz00,35713,62,0,3,0,Other specified chronic ischaemic heart disease NOS,February 2009,Other specified chronic ischaemic heart disease NOS
+G34z.00,15754,398,0,13,0,Other chronic ischaemic heart disease NOS,February 2009,Other chronic ischaemic heart disease NOS
+G34z000,18889,1199,0,7,0,Asymptomatic coronary heart disease,February 2009,Asymptomatic coronary heart disease
+G3y..00,22383,930,0,1,0,Other specified ischaemic heart disease,February 2009,Other specified ischaemic heart disease
+G3z..00,1676,70589,0,303,1,Ischaemic heart disease NOS,February 2009,Ischaemic heart disease NOS
+Gyu3.00,52517,2818,0,14,0,[X]Ischaemic heart diseases,February 2009,[X]Ischaemic heart diseases
+Gyu3200,68401,14,0,0,0,[X]Other forms of acute ischaemic heart disease,February 2009,[X]Other forms of acute ischaemic heart disease
+Gyu3300,47637,16,0,0,0,[X]Other forms of chronic ischaemic heart disease,February 2009,[X]Other forms of chronic ischaemic heart disease

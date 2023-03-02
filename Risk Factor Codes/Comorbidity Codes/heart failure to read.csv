@@ -1,0 +1,26 @@
+readcode,medcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild,description
+1O1..00,9913,9229,0,702,0,Heart failure confirmed,Feb-09,Heart failure confirmed
+G1yz100,22262,170,0,13,0,Rheumatic left ventricular failure,Feb-09,Rheumatic left ventricular failure
+G232.00,21837,35,0,4,0,Hypertensive heart&renal dis wth (congestive) heart failure,Feb-09,Hypertensive heart&renal dis wth (congestive) heart failure
+G234.00,57987,8,0,1,0,Hyperten heart&renal dis+both(congestv)heart and renal fail,Feb-09,Hyperten heart&renal dis+both(congestv)heart and renal fail
+G58..00,2062,123236,0,8309,19,Heart failure,Feb-09,Heart failure
+G58..11,1223,11556,0,448,12,Cardiac failure,Feb-09,Cardiac failure
+G580.00,398,222280,0,15032,80,Congestive heart failure,Feb-09,Congestive heart failure
+G580.11,2906,93417,0,3658,50,Congestive cardiac failure,Feb-09,Congestive cardiac failure
+G580.12,10079,1451,0,44,0,Right heart failure,Feb-09,Right heart failure
+G580.13,10154,644,0,18,0,Right ventricular failure,Feb-09,Right ventricular failure
+G580.14,9524,1470,0,22,0,Biventricular failure,Feb-09,Biventricular failure
+G580000,23707,1198,0,25,0,Acute congestive heart failure,Feb-09,Acute congestive heart failure
+G580100,32671,1728,0,14,0,Chronic congestive heart failure,Feb-09,Chronic congestive heart failure
+G580200,27884,1559,0,28,0,Decompensated cardiac failure,Feb-09,Decompensated cardiac failure
+G580300,11424,233,0,2,0,Compensated cardiac failure,Feb-09,Compensated cardiac failure
+G581.00,884,195728,0,12245,23,Left ventricular failure,Feb-09,Left ventricular failure
+G581.11,23481,475,0,56,0,Asthma - cardiac,Feb-09,Asthma - cardiac
+G581.12,43618,407,0,5,0,Pulmonary oedema - acute,Feb-09,Pulmonary oedema - acute
+G581.13,5942,8861,0,19,0,Impaired left ventricular function,Feb-09,Impaired left ventricular function
+G581000,5255,2151,0,153,0,Acute left ventricular failure,Feb-09,Acute left ventricular failure
+G582.00,27964,655,0,40,0,Acute heart failure,Feb-09,Acute heart failure
+G58z.00,4024,17572,0,1344,14,Heart failure NOS,Feb-09,Heart failure NOS
+G58z.12,17278,941,0,36,1,Cardiac failure NOS,Feb-09,Cardiac failure NOS
+Q48y100,20822,163,0,4,0,Congenital cardiac failure,Feb-09,Congenital cardiac failure
+Q490.00,23566,65,0,1,0,Neonatal cardiac failure,Feb-09,Neonatal cardiac failure

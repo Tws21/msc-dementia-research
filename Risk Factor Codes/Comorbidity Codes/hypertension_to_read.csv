@@ -1,0 +1,168 @@
+readcode,medcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild,description
+2126100,3269,25005,0,44,0,Hypertension resolved,Feb-09,Hypertension resolved
+2126100,3269,25005,0,44,0,Hypertension resolved,Feb-09,Hypertension resolved
+212K.00,19342,9816,0,1,0,Hypertension resolved,Feb-09,Hypertension resolved
+212K.00,19342,9816,0,1,0,Hypertension resolved,Feb-09,Hypertension resolved
+662..12,4444,3217898,0,16947,110,Hypertension monitoring,Feb-09,Hypertension monitoring
+6627,NA,NA,NA,NA,NA,NA,NA,Good hypertension control
+6628,NA,NA,NA,NA,NA,NA,NA,Poor hypertension control
+6629,NA,NA,NA,NA,NA,NA,NA,Hypertension:follow-up default
+662b.00,18590,4582,0,16,0,Moderate hypertension control,Feb-09,Moderate hypertension control
+662c.00,18482,175082,0,166,0,Hypertension six month review,Feb-09,Hypertension six month review
+662d.00,19070,682683,0,76,0,Hypertension annual review,Feb-09,Hypertension annual review
+662F.00,21826,6888,0,22,0,Hypertension treatm. started,Feb-09,Hypertension treatm. started
+662G.00,13188,30809,0,37,0,Hypertensive treatm.changed,Feb-09,Hypertensive treatm.changed
+662O.00,3425,50829,0,781,0,On treatment for hypertension,Feb-09,On treatment for hypertension
+662P.00,13186,1221777,0,1297,21,Hypertension monitoring,Feb-09,Hypertension monitoring
+8B26.00,18057,6927,0,1,0,Antihypertensive therapy,Feb-09,Antihypertensive therapy
+8BL0.00,11056,158593,0,40,0,Patient on maximal tolerated antihypertensive therapy,Feb-09,Patient on maximal tolerated antihypertensive therapy
+8CR4.00,12680,2610,0,1,0,Hypertension clinical management plan,Feb-09,Hypertension clinical management plan
+8HT5.00,5513,3092,0,3145,0,Referral to hypertension clinic,Feb-09,Referral to hypertension clinic
+9N03.00,4344,141299,0,150,2,Seen in hypertension clinic,Feb-09,Seen in hypertension clinic
+9N1y200,27634,41845,0,10,0,Seen in hypertension clinic,Feb-09,Seen in hypertension clinic
+9OI1.00,45149,42919,0,2,0,Attends hypertension monitor.,Feb-09,Attends hypertension monitor.
+9OIA.00,36305,86011,0,60,0,Hypertension monitor.chck done,Feb-09,Hypertension monitor.chck done
+9OIA.11,24127,8607,0,15,0,Hypertension monitored,Feb-09,Hypertension monitored
+F404200,37086,65,0,2,0,Blind hypertensive eye,Feb-09,Blind hypertensive eye
+F421300,6702,5920,0,270,4,Hypertensive retinopathy,Feb-09,Hypertensive retinopathy
+G2...00,204,1681090,0,22234,2204,Hypertensive disease,Feb-09,Hypertensive disease
+G2...00,204,1681090,0,22234,2204,Hypertensive disease,Feb-09,Hypertensive disease
+G2...11,8732,35294,0,221,0,BP - hypertensive disease,Feb-09,BP - hypertensive disease
+G2...11,8732,35294,0,221,0,BP - hypertensive disease,Feb-09,BP - hypertensive disease
+G20..00,799,3418093,0,16904,35,Essential hypertension,Feb-09,Essential hypertension
+G20..00,799,3418093,0,16904,35,Essential hypertension,Feb-09,Essential hypertension
+G20..11,351,239699,0,6820,336,High blood pressure,Feb-09,High blood pressure
+G200.00,15377,3950,0,428,0,Malignant essential hypertension,Feb-09,Malignant essential hypertension
+G200.00,15377,3950,0,428,0,Malignant essential hypertension,Feb-09,Malignant essential hypertension
+G201.00,1894,52718,0,105,0,Benign essential hypertension,Feb-09,Benign essential hypertension
+G201.00,1894,52718,0,105,0,Benign essential hypertension,Feb-09,Benign essential hypertension
+G202.00,4372,19112,0,206,3,Systolic hypertension,Feb-09,Systolic hypertension
+G202.00,4372,19112,0,206,3,Systolic hypertension,Feb-09,Systolic hypertension
+G20z.00,10818,218207,0,2647,9,Essential hypertension NOS,Feb-09,Essential hypertension NOS
+G20z.00,10818,218207,0,2647,9,Essential hypertension NOS,Feb-09,Essential hypertension NOS
+G20z.11,3712,91986,0,711,7,Hypertension NOS,Feb-09,Hypertension NOS
+G20z.11,3712,91986,0,711,7,Hypertension NOS,Feb-09,Hypertension NOS
+G21..00,16292,4002,0,58,1,Hypertensive heart disease,Feb-09,Hypertensive heart disease
+G21..00,16292,4002,0,58,1,Hypertensive heart disease,Feb-09,Hypertensive heart disease
+G210.00,50157,31,0,0,0,Malignant hypertensive heart disease,Feb-09,Malignant hypertensive heart disease
+G210.00,50157,31,0,0,0,Malignant hypertensive heart disease,Feb-09,Malignant hypertensive heart disease
+G210000,95334,4,0,0,0,Malignant hypertensive heart disease without CCF,Feb-09,Malignant hypertensive heart disease without CCF
+G210000,95334,4,0,0,0,Malignant hypertensive heart disease without CCF,Feb-09,Malignant hypertensive heart disease without CCF
+G210100,72668,5,0,0,0,Malignant hypertensive heart disease with CCF,Feb-09,Malignant hypertensive heart disease with CCF
+G210100,72668,5,0,0,0,Malignant hypertensive heart disease with CCF,Feb-09,Malignant hypertensive heart disease with CCF
+G210z00,103046,8,0,0,0,Malignant hypertensive heart disease NOS,Oct-11,Malignant hypertensive heart disease NOS
+G210z00,103046,8,0,0,0,Malignant hypertensive heart disease NOS,Oct-11,Malignant hypertensive heart disease NOS
+G211.00,52427,44,0,0,0,Benign hypertensive heart disease,Feb-09,Benign hypertensive heart disease
+G211.00,52427,44,0,0,0,Benign hypertensive heart disease,Feb-09,Benign hypertensive heart disease
+G211000,61660,13,0,0,0,Benign hypertensive heart disease without CCF,Feb-09,Benign hypertensive heart disease without CCF
+G211000,61660,13,0,0,0,Benign hypertensive heart disease without CCF,Feb-09,Benign hypertensive heart disease without CCF
+G211100,52127,87,0,0,0,Benign hypertensive heart disease with CCF,Feb-09,Benign hypertensive heart disease with CCF
+G211100,52127,87,0,0,0,Benign hypertensive heart disease with CCF,Feb-09,Benign hypertensive heart disease with CCF
+G211z00,105938,7,0,0,0,Benign hypertensive heart disease NOS,Apr-13,Benign hypertensive heart disease NOS
+G21z.00,31464,136,0,2,0,Hypertensive heart disease NOS,Feb-09,Hypertensive heart disease NOS
+G21z.00,31464,136,0,2,0,Hypertensive heart disease NOS,Feb-09,Hypertensive heart disease NOS
+G21z000,61166,92,0,1,0,Hypertensive heart disease NOS without CCF,Feb-09,Hypertensive heart disease NOS without CCF
+G21z000,61166,92,0,1,0,Hypertensive heart disease NOS without CCF,Feb-09,Hypertensive heart disease NOS without CCF
+G21z011,8857,1625,0,244,1,Cardiomegaly - hypertensive,Feb-09,Cardiomegaly - hypertensive
+G21z011,8857,1625,0,244,1,Cardiomegaly - hypertensive,Feb-09,Cardiomegaly - hypertensive
+G21z100,62718,97,0,0,0,Hypertensive heart disease NOS with CCF,Feb-09,Hypertensive heart disease NOS with CCF
+G21z100,62718,97,0,0,0,Hypertensive heart disease NOS with CCF,Feb-09,Hypertensive heart disease NOS with CCF
+G21zz00,16173,536,0,28,0,Hypertensive heart disease NOS,Feb-09,Hypertensive heart disease NOS
+G21zz00,16173,536,0,28,0,Hypertensive heart disease NOS,Feb-09,Hypertensive heart disease NOS
+G22..00,4668,2201,0,63,0,Hypertensive renal disease,Feb-09,Hypertensive renal disease
+G22..00,4668,2201,0,63,0,Hypertensive renal disease,Feb-09,Hypertensive renal disease
+G220.00,39649,132,0,9,0,Malignant hypertensive renal disease,Feb-09,Malignant hypertensive renal disease
+G220.00,39649,132,0,9,0,Malignant hypertensive renal disease,Feb-09,Malignant hypertensive renal disease
+G221.00,43935,56,0,0,0,Benign hypertensive renal disease,Feb-09,Benign hypertensive renal disease
+G221.00,43935,56,0,0,0,Benign hypertensive renal disease,Feb-09,Benign hypertensive renal disease
+G222.00,32423,94,0,0,0,Hypertensive renal disease with renal failure,Feb-09,Hypertensive renal disease with renal failure
+G222.00,32423,94,0,0,0,Hypertensive renal disease with renal failure,Feb-09,Hypertensive renal disease with renal failure
+G22z.00,15106,338,0,12,0,Hypertensive renal disease NOS,Feb-09,Hypertensive renal disease NOS
+G22z.00,15106,338,0,12,0,Hypertensive renal disease NOS,Feb-09,Hypertensive renal disease NOS
+G22z.11,29310,609,0,25,1,Renal hypertension,Feb-09,Renal hypertension
+G22z.11,29310,609,0,25,1,Renal hypertension,Feb-09,Renal hypertension
+G23..00,63466,44,0,0,0,Hypertensive heart and renal disease,Feb-09,Hypertensive heart and renal disease
+G23..00,63466,44,0,0,0,Hypertensive heart and renal disease,Feb-09,Hypertensive heart and renal disease
+G230.00,67232,12,0,0,0,Malignant hypertensive heart and renal disease,Feb-09,Malignant hypertensive heart and renal disease
+G230.00,67232,12,0,0,0,Malignant hypertensive heart and renal disease,Feb-09,Malignant hypertensive heart and renal disease
+G231.00,63000,4,0,0,0,Benign hypertensive heart and renal disease,Feb-09,Benign hypertensive heart and renal disease
+G231.00,63000,4,0,0,0,Benign hypertensive heart and renal disease,Feb-09,Benign hypertensive heart and renal disease
+G232.00,21837,35,0,4,0,Hypertensive heart&renal dis wth (congestive) heart failure,Feb-09,Hypertensive heart&renal dis wth (congestive) heart failure
+G232.00,21837,35,0,4,0,Hypertensive heart&renal dis wth (congestive) heart failure,Feb-09,Hypertensive heart&renal dis wth (congestive) heart failure
+G233.00,28684,53,0,3,0,Hypertensive heart and renal disease with renal failure,Feb-09,Hypertensive heart and renal disease with renal failure
+G233.00,28684,53,0,3,0,Hypertensive heart and renal disease with renal failure,Feb-09,Hypertensive heart and renal disease with renal failure
+G234.00,57987,8,0,1,0,Hyperten heart&renal dis+both(congestv)heart and renal fail,Feb-09,Hyperten heart&renal dis+both(congestv)heart and renal fail
+G234.00,57987,8,0,1,0,Hyperten heart&renal dis+both(congestv)heart and renal fail,Feb-09,Hyperten heart&renal dis+both(congestv)heart and renal fail
+G23z.00,68659,9,0,0,0,Hypertensive heart and renal disease NOS,Feb-09,Hypertensive heart and renal disease NOS
+G23z.00,68659,9,0,0,0,Hypertensive heart and renal disease NOS,Feb-09,Hypertensive heart and renal disease NOS
+G24..00,7329,3697,0,23,0,Secondary hypertension,Feb-09,Secondary hypertension
+G24..00,7329,3697,0,23,0,Secondary hypertension,Feb-09,Secondary hypertension
+G240.00,31755,102,0,5,0,Secondary malignant hypertension,Feb-09,Secondary malignant hypertension
+G240.00,31755,102,0,5,0,Secondary malignant hypertension,Feb-09,Secondary malignant hypertension
+G240000,59383,16,0,1,0,Secondary malignant renovascular hypertension,Feb-09,Secondary malignant renovascular hypertension
+G240000,59383,16,0,1,0,Secondary malignant renovascular hypertension,Feb-09,Secondary malignant renovascular hypertension
+G240z00,73293,9,0,0,0,Secondary malignant hypertension NOS,Feb-09,Secondary malignant hypertension NOS
+G240z00,73293,9,0,0,0,Secondary malignant hypertension NOS,Feb-09,Secondary malignant hypertension NOS
+G241.00,57288,98,0,1,0,Secondary benign hypertension,Feb-09,Secondary benign hypertension
+G241.00,57288,98,0,1,0,Secondary benign hypertension,Feb-09,Secondary benign hypertension
+G241000,25371,159,0,1,0,Secondary benign renovascular hypertension,Feb-09,Secondary benign renovascular hypertension
+G241000,25371,159,0,1,0,Secondary benign renovascular hypertension,Feb-09,Secondary benign renovascular hypertension
+G241z00,51635,85,0,0,0,Secondary benign hypertension NOS,Feb-09,Secondary benign hypertension NOS
+G241z00,51635,85,0,0,0,Secondary benign hypertension NOS,Feb-09,Secondary benign hypertension NOS
+G244.00,34744,193,0,0,0,Hypertension secondary to endocrine disorders,Feb-09,Hypertension secondary to endocrine disorders
+G244.00,34744,193,0,0,0,Hypertension secondary to endocrine disorders,Feb-09,Hypertension secondary to endocrine disorders
+G24z.00,16059,518,0,25,0,Secondary hypertension NOS,Feb-09,Secondary hypertension NOS
+G24z.00,16059,518,0,25,0,Secondary hypertension NOS,Feb-09,Secondary hypertension NOS
+G24z000,31387,253,0,11,0,Secondary renovascular hypertension NOS,Feb-09,Secondary renovascular hypertension NOS
+G24z000,31387,253,0,11,0,Secondary renovascular hypertension NOS,Feb-09,Secondary renovascular hypertension NOS
+G24zz00,42229,280,0,0,0,Secondary hypertension NOS,Feb-09,Secondary hypertension NOS
+G24zz00,42229,280,0,0,0,Secondary hypertension NOS,Feb-09,Secondary hypertension NOS
+G2y..00,18765,1629,0,8,0,Other specified hypertensive disease,Feb-09,Other specified hypertensive disease
+G2y..00,18765,1629,0,8,0,Other specified hypertensive disease,Feb-09,Other specified hypertensive disease
+G2z..00,7057,57386,0,219,0,Hypertensive disease NOS,Feb-09,Hypertensive disease NOS
+G2z..00,7057,57386,0,219,0,Hypertensive disease NOS,Feb-09,Hypertensive disease NOS
+G672.00,3979,647,0,41,9,Hypertensive encephalopathy,Feb-09,Hypertensive encephalopathy
+G672.11,31816,203,0,14,0,Hypertensive crisis,Feb-09,Hypertensive crisis
+Gyu2000,102458,7,0,0,0,[X]Other secondary hypertension,Jun-11,[X]Other secondary hypertension
+Gyu2000,102458,7,0,0,0,[X]Other secondary hypertension,Jun-11,[X]Other secondary hypertension
+Gyu2100,97533,7,0,0,0,[X]Hypertension secondary to other renal disorders,Aug-09,[X]Hypertension secondary to other renal disorders
+Gyu2100,97533,7,0,0,0,[X]Hypertension secondary to other renal disorders,Aug-09,[X]Hypertension secondary to other renal disorders
+L120.00,12604,694,0,3,0,Benign essential hypertension in pregnancy/childbirth/puerp,Feb-09,Benign essential hypertension in pregnancy/childbirth/puerp
+L120.00,12604,694,0,3,0,Benign essential hypertension in pregnancy/childbirth/puerp,Feb-09,Benign essential hypertension in pregnancy/childbirth/puerp
+L120000,37344,116,0,1,0,Benign essential hypertension in preg/childb/puerp unspec,Feb-09,Benign essential hypertension in preg/childb/puerp unspec
+L120000,37344,116,0,1,0,Benign essential hypertension in preg/childb/puerp unspec,Feb-09,Benign essential hypertension in preg/childb/puerp unspec
+L120100,44912,49,0,0,0,Benign essential hypertension in preg/childb/puerp - deliv,Feb-09,Benign essential hypertension in preg/childb/puerp - deliv
+L120100,44912,49,0,0,0,Benign essential hypertension in preg/childb/puerp - deliv,Feb-09,Benign essential hypertension in preg/childb/puerp - deliv
+L120300,61408,17,0,0,0,Benign essential hypertension in preg/childb/puerp-not deliv,Feb-09,Benign essential hypertension in preg/childb/puerp-not deliv
+L120300,61408,17,0,0,0,Benign essential hypertension in preg/childb/puerp-not deliv,Feb-09,Benign essential hypertension in preg/childb/puerp-not deliv
+L120400,73633,0,0,0,0,Benign essential hypertension in preg/childb/puerp +p/n comp,Feb-09,Benign essential hypertension in preg/childb/puerp +p/n comp
+L120400,73633,0,0,0,0,Benign essential hypertension in preg/childb/puerp +p/n comp,Feb-09,Benign essential hypertension in preg/childb/puerp +p/n comp
+L120z00,34136,106,0,0,0,Benign essential hypertension in preg/childb/puerp NOS,Feb-09,Benign essential hypertension in preg/childb/puerp NOS
+L120z00,34136,106,0,0,0,Benign essential hypertension in preg/childb/puerp NOS,Feb-09,Benign essential hypertension in preg/childb/puerp NOS
+L121.00,93143,11,0,0,0,Renal hypertension in pregnancy/childbirth/puerperium,Feb-09,Renal hypertension in pregnancy/childbirth/puerperium
+L121.00,93143,11,0,0,0,Renal hypertension in pregnancy/childbirth/puerperium,Feb-09,Renal hypertension in pregnancy/childbirth/puerperium
+L121000,64127,6,0,0,0,Renal hypertension in pregnancy/childbirth/puerp unspecified,Feb-09,Renal hypertension in pregnancy/childbirth/puerp unspecified
+L121000,64127,6,0,0,0,Renal hypertension in pregnancy/childbirth/puerp unspecified,Feb-09,Renal hypertension in pregnancy/childbirth/puerp unspecified
+L121100,71717,2,0,0,0,Renal hypertension in pregnancy/childbirth/puerp - delivered,Feb-09,Renal hypertension in pregnancy/childbirth/puerp - delivered
+L121100,71717,2,0,0,0,Renal hypertension in pregnancy/childbirth/puerp - delivered,Feb-09,Renal hypertension in pregnancy/childbirth/puerp - delivered
+L121200,108840,1,0,0,0,Renal hypertension in preg/childb/puerp -deliv with p/n comp,Nov-14,Renal hypertension in preg/childb/puerp -deliv with p/n comp
+L121300,97349,2,0,0,0,Renal hypertension in preg/childbirth/puerp - not delivered,Aug-09,Renal hypertension in preg/childbirth/puerp - not delivered
+L121300,97349,2,0,0,0,Renal hypertension in preg/childbirth/puerp - not delivered,Aug-09,Renal hypertension in preg/childbirth/puerp - not delivered
+L121400,NA,NA,NA,NA,NA,NA,NA,Renal hypertension in preg/childb/puerp + p/n complication
+L121z00,94718,1,0,0,0,Renal hypertension in pregnancy/childbirth/puerperium NOS,Feb-09,Renal hypertension in pregnancy/childbirth/puerperium NOS
+L121z00,94718,1,0,0,0,Renal hypertension in pregnancy/childbirth/puerperium NOS,Feb-09,Renal hypertension in pregnancy/childbirth/puerperium NOS
+L122.00,66567,14,0,0,0,Other pre-existing hypertension in preg/childbirth/puerp,Feb-09,Other pre-existing hypertension in preg/childbirth/puerp
+L122.00,66567,14,0,0,0,Other pre-existing hypertension in preg/childbirth/puerp,Feb-09,Other pre-existing hypertension in preg/childbirth/puerp
+L122000,73586,8,0,0,0,Other pre-existing hypertension in preg/childb/puerp unspec,Feb-09,Other pre-existing hypertension in preg/childb/puerp unspec
+L122000,73586,8,0,0,0,Other pre-existing hypertension in preg/childb/puerp unspec,Feb-09,Other pre-existing hypertension in preg/childb/puerp unspec
+L122100,72030,3,0,0,0,Other pre-existing hypertension in preg/childb/puerp - deliv,Feb-09,Other pre-existing hypertension in preg/childb/puerp - deliv
+L122100,72030,3,0,0,0,Other pre-existing hypertension in preg/childb/puerp - deliv,Feb-09,Other pre-existing hypertension in preg/childb/puerp - deliv
+L122300,96743,1,0,0,0,Other pre-exist hypertension in preg/childb/puerp-not deliv,Apr-09,Other pre-exist hypertension in preg/childb/puerp-not deliv
+L122300,96743,1,0,0,0,Other pre-exist hypertension in preg/childb/puerp-not deliv,Apr-09,Other pre-exist hypertension in preg/childb/puerp-not deliv
+L122400,113968,1,0,0,0,Other pre-exist hypertension in preg/childb/puerp + p/n comp,Jul-19,Other pre-exist hypertension in preg/childb/puerp + p/n comp
+L122z00,62432,12,0,1,0,Other pre-existing hypertension in preg/childb/puerp NOS,Feb-09,Other pre-existing hypertension in preg/childb/puerp NOS
+L122z00,62432,12,0,1,0,Other pre-existing hypertension in preg/childb/puerp NOS,Feb-09,Other pre-existing hypertension in preg/childb/puerp NOS
+L128.00,44549,24,0,1,0,Pre-exist hypertension compl preg childbirth and puerperium,Feb-09,Pre-exist hypertension compl preg childbirth and puerperium
+L128.00,44549,24,0,1,0,Pre-exist hypertension compl preg childbirth and puerperium,Feb-09,Pre-exist hypertension compl preg childbirth and puerperium
+L128200,52621,33,0,4,0,Pre-exist 2ndry hypertens comp preg childbth and puerperium,Feb-09,Pre-exist 2ndry hypertens comp preg childbth and puerperium
+L128200,52621,33,0,4,0,Pre-exist 2ndry hypertens comp preg childbth and puerperium,Feb-09,Pre-exist 2ndry hypertens comp preg childbth and puerperium

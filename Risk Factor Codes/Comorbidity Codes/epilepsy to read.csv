@@ -1,0 +1,109 @@
+readcode,medcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild,description
+1B1W.00,38919,101,0,1,0,Transient epileptic amnesia,Feb-09,Transient epileptic amnesia
+2126000,8385,9443,0,40,0,Epilepsy resolved,Feb-09,Epilepsy resolved
+212J.00,12848,5413,0,9,0,Epilepsy resolved,Feb-09,Epilepsy resolved
+667..00,6983,150039,0,2053,1,Epilepsy monitoring,Feb-09,Epilepsy monitoring
+667A.00,20566,777,0,1,0,Epilepsy treatment stopped,Feb-09,Epilepsy treatment stopped
+667B.00,4602,2696,0,156,0,Nocturnal epilepsy,Feb-09,Nocturnal epilepsy
+667C.00,19550,6892,0,2,0,Epilepsy control good,Feb-09,Epilepsy control good
+667D.00,13220,1649,0,30,0,Epilepsy control poor,Feb-09,Epilepsy control poor
+667E.00,19551,316,0,1,0,Epilepsy care arrangement,Feb-09,Epilepsy care arrangement
+667F.00,11015,304555,0,61,0,Seizure free >12 months,Feb-09,Seizure free >12 months
+667G.00,26620,122,0,1,0,Epilepsy restricts employment,Feb-09,Epilepsy restricts employment
+667H.00,50702,106,0,0,0,Epilepsy prevents employment,Feb-09,Epilepsy prevents employment
+667J.00,40863,33,0,1,0,Epilepsy impairs education,Feb-09,Epilepsy impairs education
+667K.00,26619,297,0,10,0,Epilepsy limits activities,Feb-09,Epilepsy limits activities
+667L.00,19552,676,0,0,0,Epilepsy does not limit activities,Feb-09,Epilepsy does not limit activities
+667M.00,55706,2093,0,2,0,Epilepsy management plan given,Feb-09,Epilepsy management plan given
+667N.00,22991,281,0,24,0,Epilepsy severity,Feb-09,Epilepsy severity
+667P.00,13219,11137,0,8,0,No seizures on treatment,Feb-09,No seizures on treatment
+667Q.00,26618,22700,0,42,0,1 to 12 seizures a year,Feb-09,1 to 12 seizures a year
+667R.00,13221,8500,0,43,0,2 to 4 seizures a month,Feb-09,2 to 4 seizures a month
+667S.00,19549,6380,0,39,0,1 to 7 seizures a week,Feb-09,1 to 7 seizures a week
+667T.00,18899,2780,0,74,0,Daily seizures,Feb-09,Daily seizures
+667V.00,39160,910,0,18,0,Many seizures a day,Feb-09,Many seizures a day
+667W.00,46603,135,0,4,0,Emergency epilepsy treatment since last appointment,Feb-09,Emergency epilepsy treatment since last appointment
+667X.00,52632,3286,0,2,0,No epilepsy drug side effects,Feb-09,No epilepsy drug side effects
+8BIF.00,9326,570738,0,652,0,Epilepsy medication review,Feb-09,Epilepsy medication review
+8BL3.00,11752,44794,0,19,0,Patient on maximal tolerated anticonvulsant therapy,Feb-09,Patient on maximal tolerated anticonvulsant therapy
+9N0r.00,47117,15377,0,21,0,Seen in epilepsy clinic,Feb-09,Seen in epilepsy clinic
+9N4V.00,35217,1591,0,15,0,DNA - Did not attend epilepsy clinic,Feb-09,DNA - Did not attend epilepsy clinic
+Eu05212,31877,64,0,3,0,[X]Schizophrenia-like psychosis in epilepsy,Feb-09,[X]Schizophrenia-like psychosis in epilepsy
+Eu05y11,6709,337,0,36,0,[X]Epileptic psychosis NOS,Feb-09,[X]Epileptic psychosis NOS
+Eu06013,48462,16,0,1,0,[X]Limbic epilepsy personality,Feb-09,[X]Limbic epilepsy personality
+Eu80300,43679,61,0,4,0,[X]Acquired aphasia with epilepsy [Landau - Kleffner],Feb-09,[X]Acquired aphasia with epilepsy [Landau - Kleffner]
+F132100,37644,129,0,1,0,Progressive myoclonic epilepsy,Feb-09,Progressive myoclonic epilepsy
+F25..00,573,464470,0,21657,98,Epilepsy,Feb-09,Epilepsy
+F250.00,11186,483,0,13,0,Generalised nonconvulsive epilepsy,Feb-09,Generalised nonconvulsive epilepsy
+F250000,2907,13340,0,1299,1,Petit mal (minor) epilepsy,Feb-09,Petit mal (minor) epilepsy
+F250011,1715,3780,0,1084,1,Epileptic absences,Feb-09,Epileptic absences
+F250100,99548,4,0,0,0,Pykno-epilepsy,May-10,Pykno-epilepsy
+F250200,24309,620,0,80,0,Epileptic seizures - atonic,Feb-09,Epileptic seizures - atonic
+F250300,31830,273,0,17,0,Epileptic seizures - akinetic,Feb-09,Epileptic seizures - akinetic
+F250500,34792,327,0,8,0,Lennox-Gastaut syndrome,Feb-09,Lennox-Gastaut syndrome
+F250y00,59185,29,0,0,0,Other specified generalised nonconvulsive epilepsy,Feb-09,Other specified generalised nonconvulsive epilepsy
+F250z00,44252,120,0,1,0,Generalised nonconvulsive epilepsy NOS,Feb-09,Generalised nonconvulsive epilepsy NOS
+F251.00,26144,1970,0,17,0,Generalised convulsive epilepsy,Feb-09,Generalised convulsive epilepsy
+F251000,988,21988,0,1267,3,Grand mal (major) epilepsy,Feb-09,Grand mal (major) epilepsy
+F251011,22804,552,0,8,0,Tonic-clonic epilepsy,Feb-09,Tonic-clonic epilepsy
+F251111,49340,20,0,0,0,Otohara syndrome,Feb-09,Otohara syndrome
+F251200,18471,4460,0,237,0,Epileptic seizures - clonic,Feb-09,Epileptic seizures - clonic
+F251300,4801,1784,0,87,0,Epileptic seizures - myoclonic,Feb-09,Epileptic seizures - myoclonic
+F251400,5152,5008,0,336,0,Epileptic seizures - tonic,Feb-09,Epileptic seizures - tonic
+F251500,8187,4339,0,90,0,Tonic-clonic epilepsy,Feb-09,Tonic-clonic epilepsy
+F251y00,45927,145,0,0,0,Other specified generalised convulsive epilepsy,Feb-09,Other specified generalised convulsive epilepsy
+F251z00,40806,474,0,1,0,Generalised convulsive epilepsy NOS,Feb-09,Generalised convulsive epilepsy NOS
+F252.00,9886,924,0,36,0,Petit mal status,Feb-09,Petit mal status
+F253.00,5117,1454,0,32,0,Grand mal status,Feb-09,Grand mal status
+F253.11,4093,3330,0,580,0,Status epilepticus,Feb-09,Status epilepticus
+F254.00,32288,666,0,14,0,Partial epilepsy with impairment of consciousness,Feb-09,Partial epilepsy with impairment of consciousness
+F254000,3175,16390,0,695,2,Temporal lobe epilepsy,Feb-09,Temporal lobe epilepsy
+F254100,23634,117,0,6,0,Psychomotor epilepsy,Feb-09,Psychomotor epilepsy
+F254200,36203,12,0,1,0,Psychosensory epilepsy,Feb-09,Psychosensory epilepsy
+F254300,55665,13,0,0,0,Limbic system epilepsy,Feb-09,Limbic system epilepsy
+F254400,34079,74,0,12,0,Epileptic automatism,Feb-09,Epileptic automatism
+F254500,11394,5526,0,91,0,Complex partial epileptic seizure,Feb-09,Complex partial epileptic seizure
+F254z00,31920,279,0,9,0,Partial epilepsy with impairment of consciousness NOS,Feb-09,Partial epilepsy with impairment of consciousness NOS
+F255.00,26015,502,0,15,0,Partial epilepsy without impairment of consciousness,Feb-09,Partial epilepsy without impairment of consciousness
+F255000,9569,1028,0,32,0,"Jacksonian, focal or motor epilepsy",Feb-09,Jacksonian; focal or motor epilepsy
+F255011,5525,4748,0,217,1,Focal epilepsy,Feb-09,Focal epilepsy
+F255012,65699,20,0,0,0,Motor epilepsy,Feb-09,Motor epilepsy
+F255100,48134,45,0,1,0,Sensory induced epilepsy,Feb-09,Sensory induced epilepsy
+F255200,37592,26,0,1,0,Somatosensory epilepsy,Feb-09,Somatosensory epilepsy
+F255300,73542,10,0,0,0,Visceral reflex epilepsy,Feb-09,Visceral reflex epilepsy
+F255311,98870,5,0,0,0,Partial epilepsy with autonomic symptoms,Apr-10,Partial epilepsy with autonomic symptoms
+F255400,55739,8,0,1,0,Visual reflex epilepsy,Feb-09,Visual reflex epilepsy
+F255500,68946,5,0,0,0,Unilateral epilepsy,Feb-09,Unilateral epilepsy
+F255600,40105,1685,0,45,0,Simple partial epileptic seizure,Feb-09,Simple partial epileptic seizure
+F255y00,26733,72,0,1,0,Partial epilepsy without impairment of consciousness OS,Feb-09,Partial epilepsy without impairment of consciousness OS
+F255z00,27526,245,0,4,0,Partial epilepsy without impairment of consciousness NOS,Feb-09,Partial epilepsy without impairment of consciousness NOS
+F257.00,71719,5,0,0,0,Kojevnikov's epilepsy,Feb-09,Kojevnikov's epilepsy
+F25B.00,30604,664,0,2,0,Alcohol-induced epilepsy,Feb-09,Alcohol-induced epilepsy
+F25C.00,30816,38,0,0,0,Drug-induced epilepsy,Feb-09,Drug-induced epilepsy
+F25D.00,56359,15,0,0,0,Menstrual epilepsy,Feb-09,Menstrual epilepsy
+F25E.00,65673,18,0,1,0,Stress-induced epilepsy,Feb-09,Stress-induced epilepsy
+F25F.00,30635,458,0,5,0,Photosensitive epilepsy,Feb-09,Photosensitive epilepsy
+F25X.00,6271,3546,0,99,0,"Status epilepticus, unspecified",Feb-09,Status epilepticus; unspecified
+F25y.00,38307,497,0,11,0,Other forms of epilepsy,Feb-09,Other forms of epilepsy
+F25y000,55260,4,0,1,0,Cursive (running) epilepsy,Feb-09,Cursive (running) epilepsy
+F25y100,53483,42,0,0,0,Gelastic epilepsy,Feb-09,Gelastic epilepsy
+F25y200,9887,668,0,33,0,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset,Feb-09,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset
+F25y300,25330,535,0,16,0,Complex partial status epilepticus,Feb-09,Complex partial status epilepticus
+F25y400,19170,1571,0,15,0,Benign Rolandic epilepsy,Feb-09,Benign Rolandic epilepsy
+F25yz00,9979,493,0,6,0,Other forms of epilepsy NOS,Feb-09,Other forms of epilepsy NOS
+F25z.00,9747,18437,0,304,1,Epilepsy NOS,Feb-09,Epilepsy NOS
+F25z.11,3607,17697,0,871,3,Fit (in known epileptic) NOS,Feb-09,Fit (in known epileptic) NOS
+SC20000,4109,1415,0,37,0,Traumatic epilepsy,Feb-09,Traumatic epilepsy
+6672,26511,10878,0,22,0,Follow-up epilepsy assessment,Feb-09,
+6674,50012,254,0,7,0,Epilepsy associated problems,Feb-09,
+6675,8262,273809,0,507,4,Fit frequency,Feb-09,
+6676,7807,126480,0,281,0,Last fit,Feb-09,
+6678,26512,1962,0,9,0,Epilepsy treatment changed,Feb-09,
+6679,34473,553,0,2,0,Epilepsy treatment started,Feb-09,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

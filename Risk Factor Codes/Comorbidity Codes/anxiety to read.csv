@@ -1,0 +1,309 @@
+readcode,medcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild,description
+2258,13124,NA,NA,NA,NA,NA,NA,O/E - anxious
+225J.00,19000,559,0,8,0,O/E - panic attack,Feb-09,O/E - panic attack
+8G52.00,63521,4,0,0,0,Antiphobic therapy,Feb-09,Antiphobic therapy
+8G94.00,9125,7665,0,331,0,Anxiety management training,Feb-09,Anxiety management training
+8HHp.00,28925,881,0,628,0,Referral for guided self-help for anxiety,Feb-09,Referral for guided self-help for anxiety
+E2...00,9686,1168,0,31,0,"Neurotic, personality and other nonpsychotic disorders",Feb-09,Neurotic; personality and other nonpsychotic disorders
+E20..00,5249,1745,0,34,0,Neurotic disorders,Feb-09,Neurotic disorders
+E200.00,636,1357525,0,49321,17,Anxiety states,Feb-09,Anxiety states
+E200000,6939,34395,0,505,0,Anxiety state unspecified,Feb-09,Anxiety state unspecified
+E200100,4069,147776,0,8498,4,Panic disorder,Feb-09,Panic disorder
+E200111,462,290750,0,11590,23,Panic attack,Feb-09,Panic attack
+E200200,4659,56238,0,1827,0,Generalised anxiety disorder,Feb-09,Generalised anxiety disorder
+E200300,655,961053,0,27566,5,Anxiety with depression,Feb-09,Anxiety with depression
+E200400,1758,54640,0,2325,0,Chronic anxiety,Feb-09,Chronic anxiety
+E200500,4634,11095,0,317,0,Recurrent anxiety,Feb-09,Recurrent anxiety
+E200z00,4534,138540,0,3583,0,Anxiety state NOS,Feb-09,Anxiety state NOS
+E201.00,2188,4213,0,280,1,Hysteria,Feb-09,Hysteria
+E201000,41572,73,0,0,0,Hysteria unspecified,Feb-09,Hysteria unspecified
+E201100,3438,221,0,16,0,Hysterical blindness,Feb-09,Hysterical blindness
+E201200,44739,6,0,1,0,Hysterical deafness,Feb-09,Hysterical deafness
+E201300,23598,105,0,7,0,Hysterical tremor,Feb-09,Hysterical tremor
+E201400,34696,305,0,3,0,Hysterical paralysis,Feb-09,Hysterical paralysis
+E201500,16484,969,0,120,0,Hysterical seizures,Feb-09,Hysterical seizures
+E201511,33702,178,0,13,0,Fit - hysterical,Feb-09,Fit - hysterical
+E201600,15431,4187,0,327,0,Other conversion disorder,Feb-09,Other conversion disorder
+E201611,46399,13,0,5,5,"Astasia - abasia, hysterical",Feb-09,Astasia - abasia; hysterical
+E201612,4143,23135,0,1580,0,Globus hystericus,Feb-09,Globus hystericus
+E201700,4269,220,0,13,0,Hysterical amnesia,Feb-09,Hysterical amnesia
+E201800,4775,366,0,33,0,Hysterical fugue,Feb-09,Hysterical fugue
+E201900,43302,50,0,2,0,Multiple personality,Feb-09,Multiple personality
+E201A00,23490,141,0,16,0,Dissociative reaction unspecified,Feb-09,Dissociative reaction unspecified
+E201B00,29322,71,0,3,0,Compensation neurosis,Feb-09,Compensation neurosis
+E201C00,24525,464,0,22,0,Phantom pregnancy,Feb-09,Phantom pregnancy
+E201z00,23354,333,0,15,0,Hysteria NOS,Feb-09,Hysteria NOS
+E201z11,4105,373,0,18,0,Aphonia - hysterical,Feb-09,Aphonia - hysterical
+E201z12,24638,36,0,1,0,Ataxia - hysterical,Feb-09,Ataxia - hysterical
+E201z13,40066,17,0,2,0,Ganser's syndrome - hysterical,Feb-09,Ganser's syndrome - hysterical
+E202.00,1907,10108,0,683,2,Phobic disorders,Feb-09,Phobic disorders
+E202.11,16638,3867,0,338,0,Social phobic disorders,Feb-09,Social phobic disorders
+E202.12,9944,5449,0,257,0,Phobic anxiety,Feb-09,Phobic anxiety
+E202000,2300,18639,0,2957,0,Phobia unspecified,Feb-09,Phobia unspecified
+E202100,3076,26696,0,1697,0,Agoraphobia with panic attacks,Feb-09,Agoraphobia with panic attacks
+E202200,12838,6892,0,850,0,Agoraphobia without mention of panic attacks,Feb-09,Agoraphobia without mention of panic attacks
+E202300,16199,383,0,64,0,"Social phobia, fear of eating in public",Feb-09,Social phobia; fear of eating in public
+E202400,31957,210,0,3,0,"Social phobia, fear of public speaking",Feb-09,Social phobia; fear of public speaking
+E202500,18603,116,0,26,0,"Social phobia, fear of public washing",Feb-09,Social phobia; fear of public washing
+E202600,28106,165,0,13,0,Acrophobia,Feb-09,Acrophobia
+E202700,28938,430,0,31,0,Animal phobia,Feb-09,Animal phobia
+E202800,1723,10021,0,645,0,Claustrophobia,Feb-09,Claustrophobia
+E202900,31672,119,0,5,0,Fear of crowds,Feb-09,Fear of crowds
+E202A00,4167,101001,0,309,0,Fear of flying,Feb-09,Fear of flying
+E202B00,1510,5790,0,380,0,Cancer phobia,Feb-09,Cancer phobia
+E202C00,2366,5243,0,207,0,Dental phobia,Feb-09,Dental phobia
+E202D00,10390,673,0,89,0,Fear of death,Feb-09,Fear of death
+E202E00,6071,1320,0,168,8,Fear of pregnancy,Feb-09,Fear of pregnancy
+E202z00,14729,4787,0,438,0,Phobic disorder NOS,Feb-09,Phobic disorder NOS
+E202z11,38543,230,0,19,0,Weight fixation,Feb-09,Weight fixation
+E203.00,3208,18800,0,2426,0,Obsessive-compulsive disorders,Feb-09,Obsessive-compulsive disorders
+E203.11,47365,5,0,0,0,Anancastic neurosis,Feb-09,Anancastic neurosis
+E203000,5678,1582,0,357,0,Compulsive neurosis,Feb-09,Compulsive neurosis
+E203100,2030,14296,0,1581,0,Obsessional neurosis,Feb-09,Obsessional neurosis
+E203z00,15566,2264,0,117,0,Obsessive-compulsive disorder NOS,Feb-09,Obsessive-compulsive disorder NOS
+E205.00,3361,54091,0,322,1,Neurasthenia - nervous debility,Feb-09,Neurasthenia - nervous debility
+E205.11,1582,7615,0,537,1,Nervous exhaustion,Feb-09,Nervous exhaustion
+E206.00,5305,1515,0,146,0,Depersonalisation syndrome,Feb-09,Depersonalisation syndrome
+E207.00,966,9071,0,631,0,Hypochondriasis,Feb-09,Hypochondriasis
+E20y.00,42000,106,0,1,0,Other neurotic disorders,Feb-09,Other neurotic disorders
+E20y000,15321,4682,0,252,0,Somatization disorder,Feb-09,Somatization disorder
+E20y011,56941,13,0,0,0,Briquet's disorder,Feb-09,Briquet's disorder
+E20y100,3685,700,0,64,0,Writer's cramp neurosis,Feb-09,Writer's cramp neurosis
+E20y200,39518,16,0,0,0,Other occupational neurosis,Feb-09,Other occupational neurosis
+E20y300,72171,11,0,0,0,Psychasthenic neurosis,Feb-09,Psychasthenic neurosis
+E20yz00,43050,28,0,1,0,Other neurotic disorder NOS,Feb-09,Other neurotic disorder NOS
+E20z.00,14780,9768,0,2006,1,Neurotic disorder NOS,Feb-09,Neurotic disorder NOS
+E20z.11,791,5743,0,213,2,Nervous breakdown,Feb-09,Nervous breakdown
+E26..00,4199,1259,0,87,0,Physiological malfunction arising from mental factors,Feb-09,Physiological malfunction arising from mental factors
+E260.00,44212,56,0,7,0,Psychogenic musculoskeletal symptoms,Feb-09,Psychogenic musculoskeletal symptoms
+E260000,48561,51,0,1,0,Psychogenic paralysis,Feb-09,Psychogenic paralysis
+E260100,56800,29,0,0,0,Psychogenic torticollis,Feb-09,Psychogenic torticollis
+E260z00,15035,37,0,5,0,Psychogenic musculoskeletal symptoms NOS,Feb-09,Psychogenic musculoskeletal symptoms NOS
+E261.00,38134,396,0,3,0,Psychogenic respiratory symptoms,Feb-09,Psychogenic respiratory symptoms
+E261000,32034,299,0,4,0,Psychogenic air hunger,Feb-09,Psychogenic air hunger
+E261100,15483,328,0,15,0,Psychogenic cough,Feb-09,Psychogenic cough
+E261200,47809,11,0,0,0,Psychogenic hiccough,Feb-09,Psychogenic hiccough
+E261300,20053,2748,0,39,0,Psychogenic hyperventilation,Feb-09,Psychogenic hyperventilation
+E261400,23413,201,0,6,1,Psychogenic yawning,Feb-09,Psychogenic yawning
+E261500,41615,86,0,4,0,Psychogenic aphonia,Feb-09,Psychogenic aphonia
+E261z00,34664,4,0,0,0,Psychogenic respiratory symptom NOS,Feb-09,Psychogenic respiratory symptom NOS
+E262.00,29448,132,0,12,0,Psychogenic cardiovascular symptoms,Feb-09,Psychogenic cardiovascular symptoms
+E262000,15292,1230,0,68,0,Cardiac neurosis,Feb-09,Cardiac neurosis
+E262200,15284,455,0,13,0,Neurocirculatory asthenia,Feb-09,Neurocirculatory asthenia
+E262300,30961,10,0,0,0,Psychogenic cardiovascular disorder,Feb-09,Psychogenic cardiovascular disorder
+E262z00,15034,81,0,14,0,Psychogenic cardiovascular symptom NOS,Feb-09,Psychogenic cardiovascular symptom NOS
+E263.00,29461,205,0,6,0,Psychogenic skin symptoms,Feb-09,Psychogenic skin symptoms
+E263000,15959,2094,0,67,5,Psychogenic pruritus,Feb-09,Psychogenic pruritus
+E263z00,15224,176,0,6,0,Psychogenic skin symptoms NOS,Feb-09,Psychogenic skin symptoms NOS
+E264.00,31422,1125,0,9,0,Psychogenic gastrointestinal tract symptoms,Feb-09,Psychogenic gastrointestinal tract symptoms
+E264.11,37695,149,0,4,0,Globus abdominalis,Feb-09,Globus abdominalis
+E264000,4963,1397,0,36,1,Psychogenic aerophagy,Feb-09,Psychogenic aerophagy
+E264011,23774,169,0,5,0,Air swallowing - excessive,Feb-09,Air swallowing - excessive
+E264200,2871,2443,0,167,0,Cyclical vomiting - psychogenic,Feb-09,Cyclical vomiting - psychogenic
+E264300,15371,1078,0,54,1,Psychogenic diarrhoea,Feb-09,Psychogenic diarrhoea
+E264311,10158,753,0,19,0,Spurious diarrhoea,Feb-09,Spurious diarrhoea
+E264400,3869,2880,0,69,0,Psychogenic dyspepsia,Feb-09,Psychogenic dyspepsia
+E264500,15939,368,0,8,0,Psychogenic constipation,Feb-09,Psychogenic constipation
+E264z00,71437,56,0,1,0,Psychogenic gastrointestinal tract symptom NOS,Feb-09,Psychogenic gastrointestinal tract symptom NOS
+E265.00,68379,428,0,0,0,Psychogenic genitourinary tract symptoms,Feb-09,Psychogenic genitourinary tract symptoms
+E265100,20109,447,0,35,0,Psychogenic vaginismus,Feb-09,Psychogenic vaginismus
+E265200,44547,48,0,2,0,Psychogenic dysmenorrhea,Feb-09,Psychogenic dysmenorrhea
+E265300,55781,51,0,1,0,Psychogenic dysuria,Feb-09,Psychogenic dysuria
+E265z00,73547,3,0,0,0,Psychogenic genitourinary tract symptom NOS,Feb-09,Psychogenic genitourinary tract symptom NOS
+E267.00,89237,2,0,0,0,Psychogenic symptom of special sense organ,Feb-09,Psychogenic symptom of special sense organ
+E26y.00,62400,8,0,1,0,Other psychogenic malfunction,Feb-09,Other psychogenic malfunction
+E26y000,10001,5467,0,165,0,Bruxism (teeth grinding),Feb-09,Bruxism (teeth grinding)
+E26yz00,96391,8,0,0,0,Other psychogenic malfunction NOS,Apr-09,Other psychogenic malfunction NOS
+E26z.00,5067,2019,0,169,0,Psychosomatic disorder NOS,Feb-09,Psychosomatic disorder NOS
+E278.00,40311,78,0,6,0,Psychalgia,Feb-09,Psychalgia
+E278000,53766,29,0,0,0,Psychogenic pain unspecified,Feb-09,Psychogenic pain unspecified
+E278100,191,253372,0,2653,1,Tension headache,Feb-09,Tension headache
+E278111,9999,1724,0,5,0,Muscular headache,Feb-09,Muscular headache
+E278200,45205,57,0,0,0,Psychogenic backache,Feb-09,Psychogenic backache
+E278z00,54373,489,0,1,0,Psychalgia NOS,Feb-09,Psychalgia NOS
+E28..00,276,191583,0,10371,7,Acute reaction to stress,Feb-09,Acute reaction to stress
+E28..11,43550,94,0,7,0,Combat fatigue,Feb-09,Combat fatigue
+E280.00,11940,1578,0,32,0,Acute panic state due to acute stress reaction,Feb-09,Acute panic state due to acute stress reaction
+E281.00,42737,106,0,5,0,Acute fugue state due to acute stress reaction,Feb-09,Acute fugue state due to acute stress reaction
+E282.00,15551,124,0,14,0,Acute stupor state due to acute stress reaction,Feb-09,Acute stupor state due to acute stress reaction
+E283.00,38640,142,0,2,0,Other acute stress reactions,Feb-09,Other acute stress reactions
+E283000,20245,4795,0,119,0,Acute situational disturbance,Feb-09,Acute situational disturbance
+E283100,24847,767,0,33,0,Acute posttrauma stress state,Feb-09,Acute posttrauma stress state
+E283z00,29707,177,0,0,0,Other acute stress reaction NOS,Feb-09,Other acute stress reaction NOS
+E284.00,23869,379,0,15,0,Stress reaction causing mixed disturbance of emotion/conduct,Feb-09,Stress reaction causing mixed disturbance of emotion/conduct
+E28z.00,26138,14810,0,44,0,Acute stress reaction NOS,Feb-09,Acute stress reaction NOS
+E28z.11,28129,134,0,0,0,Examination fear,Feb-09,Examination fear
+E28z.12,20802,4689,0,17,0,Flying phobia,Feb-09,Flying phobia
+E28z.13,27742,118,0,1,0,Stage fright,Feb-09,Stage fright
+E29..00,2826,33281,0,1952,0,Adjustment reaction,Feb-09,Adjustment reaction
+E290000,2775,83696,0,2247,0,Grief reaction,Feb-09,Grief reaction
+E290011,10734,30465,0,602,0,Bereavement reaction,Feb-09,Bereavement reaction
+E292.00,24212,145,0,18,0,"Adjustment reaction, predominant disturbance other emotions",Feb-09,Adjustment reaction; predominant disturbance other emotions
+E292000,6221,1110,0,77,0,Separation anxiety disorder,Feb-09,Separation anxiety disorder
+E292100,23327,83,0,11,0,Adolescent emancipation disorder,Feb-09,Adolescent emancipation disorder
+E292200,54658,2,0,0,0,Early adult emancipation disorder,Feb-09,Early adult emancipation disorder
+E292300,62193,14,0,0,0,Specific academic or work inhibition,Feb-09,Specific academic or work inhibition
+E292311,67304,6,0,0,0,Specific academic or work inhibition,Feb-09,Specific academic or work inhibition
+E292312,28302,50,0,1,0,Specific work inhibition,Feb-09,Specific work inhibition
+E292400,56924,132,0,0,0,Adjustment reaction with anxious mood,Feb-09,Adjustment reaction with anxious mood
+E292500,58013,20,0,0,0,Culture shock,Feb-09,Culture shock
+E292y00,48588,63,0,2,0,Adjustment reaction with mixed disturbance of emotion,Feb-09,Adjustment reaction with mixed disturbance of emotion
+E292z00,15665,45,0,6,0,Adjustment reaction with disturbance of other emotion NOS,Feb-09,Adjustment reaction with disturbance of other emotion NOS
+E293.00,16415,118,0,5,0,Adjustment reaction with predominant disturbance of conduct,Feb-09,Adjustment reaction with predominant disturbance of conduct
+E293000,6075,1656,0,239,0,Adjustment reaction with aggression,Feb-09,Adjustment reaction with aggression
+E293100,35914,117,0,10,0,Adjustment reaction with antisocial behaviour,Feb-09,Adjustment reaction with antisocial behaviour
+E293200,66398,6,0,1,0,Adjustment reaction with destructiveness,Feb-09,Adjustment reaction with destructiveness
+E294.00,45603,62,0,1,0,Adjustment reaction with disturbance emotion and conduct,Feb-09,Adjustment reaction with disturbance emotion and conduct
+E29y.00,41455,97,0,3,0,Other adjustment reactions,Feb-09,Other adjustment reactions
+E29y000,53362,11,0,1,0,Concentration camp syndrome,Feb-09,Concentration camp syndrome
+E29y100,32387,932,0,14,0,Other post-traumatic stress disorder,Feb-09,Other post-traumatic stress disorder
+E29y200,35632,4,0,0,0,Adjustment reaction with physical symptoms,Feb-09,Adjustment reaction with physical symptoms
+E29y300,7716,104,0,13,0,Elective mutism due to an adjustment reaction,Feb-09,Elective mutism due to an adjustment reaction
+E29y400,27390,66,0,2,0,Adjustment reaction due to hospitalisation,Feb-09,Adjustment reaction due to hospitalisation
+E29y500,19921,614,0,66,0,Other adjustment reaction with withdrawal,Feb-09,Other adjustment reaction with withdrawal
+E29yz00,23462,65,0,6,0,Other adjustment reactions NOS,Feb-09,Other adjustment reactions NOS
+E29z.00,37669,436,0,4,0,Adjustment reaction NOS,Feb-09,Adjustment reaction NOS
+E2y..00,50106,26,0,3,0,Other specified neuroses or other mental disorders,Feb-09,Other specified neuroses or other mental disorders
+E2z..00,42410,151,0,2,0,Neuroses or other mental disorder NOS,Feb-09,Neuroses or other mental disorder NOS
+Eu05400,20773,405,0,18,0,[X]Organic anxiety disorder,Feb-09,[X]Organic anxiety disorder
+Eu34114,15220,7017,0,309,0,[X]Persistant anxiety depression,Feb-09,[X]Persistant anxiety depression
+Eu4..00,23808,711,0,32,0,"[X]Neurotic, stress - related and somoform disorders",Feb-09,[X]Neurotic; stress - related and somoform disorders
+Eu40.00,9386,14300,0,1036,0,[X]Phobic anxiety disorders,Feb-09,[X]Phobic anxiety disorders
+Eu40000,2571,20233,0,1381,0,[X]Agoraphobia,Feb-09,[X]Agoraphobia
+Eu40011,16729,312,0,18,0,[X]Agoraphobia without history of panic disorder,Feb-09,[X]Agoraphobia without history of panic disorder
+Eu40012,14890,1426,0,57,0,[X]Panic disorder with agoraphobia,Feb-09,[X]Panic disorder with agoraphobia
+Eu40100,11602,6504,0,396,0,[X]Social phobias,Feb-09,[X]Social phobias
+Eu40112,42788,58,0,1,0,[X]Social neurosis,Feb-09,[X]Social neurosis
+Eu40200,9785,3509,0,309,0,[X]Specific (isolated) phobias,Feb-09,[X]Specific (isolated) phobias
+Eu40211,67965,5,0,1,0,[X]Acrophobia,Feb-09,[X]Acrophobia
+Eu40212,18248,776,0,121,0,[X]Animal phobias,Feb-09,[X]Animal phobias
+Eu40213,11280,162,0,2,0,[X]Claustrophobia,Feb-09,[X]Claustrophobia
+Eu40214,12635,2511,0,192,0,[X]Simple phobia,Feb-09,[X]Simple phobia
+Eu40300,12508,8126,0,156,0,[X]Needle phobia,Feb-09,[X]Needle phobia
+Eu40y00,27685,127,0,1,0,[X]Other phobic anxiety disorders,Feb-09,[X]Other phobic anxiety disorders
+Eu40z00,34064,861,0,17,0,"[X]Phobic anxiety disorder, unspecified",Feb-09,[X]Phobic anxiety disorder; unspecified
+Eu40z11,7222,6744,0,517,0,[X]Phobia NOS,Feb-09,[X]Phobia NOS
+Eu40z12,67898,31,0,0,0,[X]Phobic state NOS,Feb-09,[X]Phobic state NOS
+Eu41.00,5385,13124,0,299,0,[X]Other anxiety disorders,Feb-09,[X]Other anxiety disorders
+Eu41000,8205,7353,0,226,0,[X]Panic disorder [episodic paroxysmal anxiety],Feb-09,[X]Panic disorder [episodic paroxysmal anxiety]
+Eu41011,6408,9580,0,157,0,[X]Panic attack,Feb-09,[X]Panic attack
+Eu41012,4081,3977,0,445,2,[X]Panic state,Feb-09,[X]Panic state
+Eu41100,10344,23778,0,607,0,[X]Generalized anxiety disorder,Feb-09,[X]Generalized anxiety disorder
+Eu41111,962,6804,0,288,0,[X]Anxiety neurosis,Feb-09,[X]Anxiety neurosis
+Eu41112,35825,1348,0,66,0,[X]Anxiety reaction,Feb-09,[X]Anxiety reaction
+Eu41113,50191,4843,0,2,0,[X]Anxiety state,Feb-09,[X]Anxiety state
+Eu41200,11913,45850,0,1724,1,[X]Mixed anxiety and depressive disorder,Feb-09,[X]Mixed anxiety and depressive disorder
+Eu41211,7749,10011,0,73,0,[X]Mild anxiety depression,Feb-09,[X]Mild anxiety depression
+Eu41300,44321,256,0,1,0,[X]Other mixed anxiety disorders,Feb-09,[X]Other mixed anxiety disorders
+Eu41y00,24066,208,0,4,0,[X]Other specified anxiety disorders,Feb-09,[X]Other specified anxiety disorders
+Eu41y11,28167,192,0,2,0,[X]Anxiety hysteria,Feb-09,[X]Anxiety hysteria
+Eu41z00,23838,9838,0,340,0,"[X]Anxiety disorder, unspecified",Feb-09,[X]Anxiety disorder; unspecified
+Eu41z11,25638,18503,0,278,0,[X]Anxiety NOS,Feb-09,[X]Anxiety NOS
+Eu42.00,5304,54250,0,4218,0,[X]Obsessive - compulsive disorder,Feb-09,[X]Obsessive - compulsive disorder
+Eu42.11,24251,3,0,0,0,[X]Anankastic neurosis,Feb-09,[X]Anankastic neurosis
+Eu42.12,21836,1094,0,90,0,[X]Obsessive-compulsive neurosis,Feb-09,[X]Obsessive-compulsive neurosis
+Eu42000,20634,1428,0,135,0,[X]Predominantly obsessional thoughts or ruminations,Feb-09,[X]Predominantly obsessional thoughts or ruminations
+Eu42100,22019,1256,0,155,0,[X]Predominantly compulsive acts [obsessional rituals],Feb-09,[X]Predominantly compulsive acts [obsessional rituals]
+Eu42200,18399,1094,0,116,0,[X]Mixed obsessional thoughts and acts,Feb-09,[X]Mixed obsessional thoughts and acts
+Eu42y00,38809,53,0,0,0,[X]Other obsessive-compulsive disorders,Feb-09,[X]Other obsessive-compulsive disorders
+Eu42z00,22721,439,0,11,0,"[X]Obsessive-compulsive disorder, unspecified",Feb-09,[X]Obsessive-compulsive disorder; unspecified
+Eu43.00,11098,4657,0,103,0,"[X]Reaction to severe stress, and adjustment disorders",Feb-09,[X]Reaction to severe stress; and adjustment disorders
+Eu43000,11607,29638,0,550,0,[X]Acute stress reaction,Feb-09,[X]Acute stress reaction
+Eu43011,36374,489,0,12,0,[X]Acute crisis reaction,Feb-09,[X]Acute crisis reaction
+Eu43012,10535,3465,0,81,0,[X]Acute reaction to stress,Feb-09,[X]Acute reaction to stress
+Eu43013,70779,8,0,1,0,[X]Combat fatigue,Feb-09,[X]Combat fatigue
+Eu43014,21559,909,0,27,0,[X]Crisis state,Feb-09,[X]Crisis state
+Eu43015,7813,123,0,3,0,[X]Psychic shock,Feb-09,[X]Psychic shock
+Eu43100,4171,70278,0,5159,0,[X]Post - traumatic stress disorder,Feb-09,[X]Post - traumatic stress disorder
+Eu43111,32182,86,0,8,0,[X]Traumatic neurosis,Feb-09,[X]Traumatic neurosis
+Eu43200,11336,6138,0,42,0,[X]Adjustment disorders,Feb-09,[X]Adjustment disorders
+Eu43211,36228,2,0,0,0,[X]Culture shock,Feb-09,[X]Culture shock
+Eu43212,21197,1398,0,48,0,[X]Grief reaction,Feb-09,[X]Grief reaction
+Eu43213,41235,24,0,0,0,[X]Hospitalism in children,Feb-09,[X]Hospitalism in children
+Eu43300,101785,12,0,1,0,[X]Acute post-traumatic stress disorder follow military comb,Feb-11,[X]Acute post-traumatic stress disorder follow military comb
+Eu43400,101725,17,0,2,0,[X]Chron post-traumatic stress disorder follow military comb,Feb-11,[X]Chron post-traumatic stress disorder follow military comb
+Eu43y00,21753,253,0,8,0,[X]Other reactions to severe stress,Feb-09,[X]Other reactions to severe stress
+Eu43z00,31515,2034,0,47,0,"[X]Reaction to severe stress, unspecified",Feb-09,[X]Reaction to severe stress; unspecified
+Eu44.00,22136,883,0,23,0,[X]Dissociative [conversion] disorders,Feb-09,[X]Dissociative [conversion] disorders
+Eu44.11,35311,266,0,5,0,[X]Conversion hysteria,Feb-09,[X]Conversion hysteria
+Eu44.12,52161,59,0,1,0,[X]Conversion reaction,Feb-09,[X]Conversion reaction
+Eu44.13,27588,78,0,1,0,[X]Hysteria,Feb-09,[X]Hysteria
+Eu44000,40994,76,0,1,0,[X]Dissociative amnesia,Feb-09,[X]Dissociative amnesia
+Eu44100,39826,174,0,12,0,[X]Dissociative fugue,Feb-09,[X]Dissociative fugue
+Eu44200,56141,14,0,0,0,[X]Dissociative stupor,Feb-09,[X]Dissociative stupor
+Eu44300,39747,72,0,9,0,[X]Trance and possession disorders,Feb-09,[X]Trance and possession disorders
+Eu44400,34978,124,0,2,0,[X]Dissociative motor disorders,Feb-09,[X]Dissociative motor disorders
+Eu44411,12147,38,0,0,0,[X]Psychogenic aphonia,Feb-09,[X]Psychogenic aphonia
+Eu44412,18801,377,0,17,0,[X]Psychogenic dysphonia,Feb-09,[X]Psychogenic dysphonia
+Eu44500,56966,193,0,3,0,[X]Dissociative convulsions,Feb-09,[X]Dissociative convulsions
+Eu44511,11354,3140,0,80,0,[X]Pseudoseizures,Feb-09,[X]Pseudoseizures
+Eu44600,27633,301,0,52,0,[X]Dissociative anaesthesia and sensory loss,Feb-09,[X]Dissociative anaesthesia and sensory loss
+Eu44611,50121,18,0,0,0,[X]Psychogenic deafness,Feb-09,[X]Psychogenic deafness
+Eu44700,88758,41,0,0,0,[X]Mixed dissociative [conversion] disorders,Feb-09,[X]Mixed dissociative [conversion] disorders
+Eu44y00,64166,26,0,0,0,[X]Other dissociative [conversion] disorders,Feb-09,[X]Other dissociative [conversion] disorders
+Eu44y11,46567,12,0,0,0,[X]Ganser's syndrome,Feb-09,[X]Ganser's syndrome
+Eu44y12,39919,51,0,3,0,[X]Multiple personality,Feb-09,[X]Multiple personality
+Eu44y13,16988,391,0,82,0,[X]Psychogenic confusion,Feb-09,[X]Psychogenic confusion
+Eu44y14,68259,10,0,0,0,[X]Psychogenic twilight state,Feb-09,[X]Psychogenic twilight state
+Eu44z00,48906,87,0,3,0,"[X]Dissociative [conversion] disorder, unspecified",Feb-09,[X]Dissociative [conversion] disorder; unspecified
+Eu45.00,18049,608,0,15,0,[X]Somatoform disorders,Feb-09,[X]Somatoform disorders
+Eu45000,24439,487,0,15,0,[X]Somatization disorder,Feb-09,[X]Somatization disorder
+Eu45011,23704,230,0,13,0,[X]Multiple psychosomatic disorder,Feb-09,[X]Multiple psychosomatic disorder
+Eu45012,59682,25,0,0,0,[X]Briquet's syndrome,Feb-09,[X]Briquet's syndrome
+Eu45100,57877,18,0,0,0,[X]Undifferentiated somatoform disorder,Feb-09,[X]Undifferentiated somatoform disorder
+Eu45111,34735,106,0,8,0,[X]Undifferentiated psychosomatic disorder,Feb-09,[X]Undifferentiated psychosomatic disorder
+Eu45200,7537,965,0,16,0,[X]Hypochondriacal disorder,Feb-09,[X]Hypochondriacal disorder
+Eu45211,12626,2557,0,192,0,[X]Body dysmorphic disorder,Feb-09,[X]Body dysmorphic disorder
+Eu45212,30680,234,0,16,0,[X]Dysmorphophobia nondelusional,Feb-09,[X]Dysmorphophobia nondelusional
+Eu45213,24264,335,0,19,0,[X]Hypochondriacal neurosis,Feb-09,[X]Hypochondriacal neurosis
+Eu45214,10870,564,0,11,0,[X]Hypochondriasis,Feb-09,[X]Hypochondriasis
+Eu45215,66806,4,0,0,0,[X]Nosophobia,Feb-09,[X]Nosophobia
+Eu45300,41038,307,0,6,0,[X]Somatoform autonomic dysfunction,Feb-09,[X]Somatoform autonomic dysfunction
+Eu45311,44269,56,0,3,0,[X]Cardiac neurosis,Feb-09,[X]Cardiac neurosis
+Eu45312,32632,73,0,0,0,[X]Da Costa's syndrome,Feb-09,[X]Da Costa's syndrome
+Eu45313,63259,16,0,0,0,[X]Gastric neurosis,Feb-09,[X]Gastric neurosis
+Eu45314,50793,5,0,0,0,[X]Neurocirculatory asthenia,Feb-09,[X]Neurocirculatory asthenia
+Eu45316,12715,130,0,3,0,[X]Psychogenic cough,Feb-09,[X]Psychogenic cough
+Eu45317,43316,84,0,0,0,[X]Psychogenic diarrhoea,Feb-09,[X]Psychogenic diarrhoea
+Eu45318,16714,351,0,5,0,[X]Psychogenic dyspepsia,Feb-09,[X]Psychogenic dyspepsia
+Eu45319,53122,16,0,1,0,[X]Psychogenic dysuria,Feb-09,[X]Psychogenic dysuria
+Eu45320,47698,15,0,2,0,[X]Psychogenic flatulence,Feb-09,[X]Psychogenic flatulence
+Eu45321,53737,11,0,0,0,[X]Psychogenic hiccough,Feb-09,[X]Psychogenic hiccough
+Eu45322,12830,823,0,10,0,[X]Psychogenic hyperventilat,Feb-09,[X]Psychogenic hyperventilat
+Eu45323,17081,448,0,20,1,[X]Psychogenic freq micturit,Feb-09,[X]Psychogenic freq micturit
+Eu45324,16560,5741,0,108,0,[X]Psychogenic IBS,Feb-09,[X]Psychogenic IBS
+Eu45325,93067,4,0,0,0,[X]Psychogenic pylorospasm,Feb-09,[X]Psychogenic pylorospasm
+Eu45400,30179,213,0,5,0,[X]Persistent somatoform pain disorder,Feb-09,[X]Persistent somatoform pain disorder
+Eu45411,54382,7,0,0,0,[X]Psychalgia,Feb-09,[X]Psychalgia
+Eu45412,38521,62,0,1,0,[X]Psychogenic backache,Feb-09,[X]Psychogenic backache
+Eu45413,29329,391,0,20,0,[X]Psychogenic headache,Feb-09,[X]Psychogenic headache
+Eu45414,36040,50,0,3,0,[X]Somatoform pain disorder,Feb-09,[X]Somatoform pain disorder
+Eu45500,12453,11374,0,708,0,[X]Globus pharyngeus,Feb-09,[X]Globus pharyngeus
+Eu45511,100086,250,0,19,0,[X]Globus hystericus,Jul-10,[X]Globus hystericus
+Eu45y00,62002,128,0,0,0,[X]Other somatoform disorders,Feb-09,[X]Other somatoform disorders
+Eu45y11,46925,27,0,0,0,[X]Psychogenic dysmenorrhoea,Feb-09,[X]Psychogenic dysmenorrhoea
+Eu45y12,20906,1035,0,50,0,[X]Globus hystericus,Feb-09,[X]Globus hystericus
+Eu45y13,16679,3181,0,97,0,[X]Psychogenic pruritis,Feb-09,[X]Psychogenic pruritis
+Eu45y14,36009,20,0,0,0,[X]Psychogenic torticollis,Feb-09,[X]Psychogenic torticollis
+Eu45y15,47570,113,0,7,0,[X]Teeth-grinding,Feb-09,[X]Teeth-grinding
+Eu45z00,48671,107,0,2,0,"[X]Somatoform disorder, unspecified",Feb-09,[X]Somatoform disorder; unspecified
+Eu45z11,19242,887,0,26,0,[X]Psychosomatic disorder NOS,Feb-09,[X]Psychosomatic disorder NOS
+Eu46.00,28090,22,0,0,0,[X]Other neurotic disorders,Feb-09,[X]Other neurotic disorders
+Eu46000,16561,564,0,12,0,[X]Neurasthenia,Feb-09,[X]Neurasthenia
+Eu46100,9265,404,0,10,0,[X]Depersonalization - derealization syndrome,Feb-09,[X]Depersonalization - derealization syndrome
+Eu46y00,44331,21,0,0,0,[X]Other specified neurotic disorders,Feb-09,[X]Other specified neurotic disorders
+Eu46y11,100116,3,0,0,0,[X]Briquet's disorder,Jul-10,[X]Briquet's disorder
+Eu46y12,47367,16,0,1,0,[X]Dhat syndrome,Feb-09,[X]Dhat syndrome
+Eu46y13,11339,164,0,12,0,"[X]Occupational neurosis, including writer's cramp",Feb-09,[X]Occupational neurosis; including writer's cramp
+Eu46y14,61753,3,0,0,0,[X]Psychasthenia,Feb-09,[X]Psychasthenia
+Eu46y15,90597,3,0,0,0,[X]Psychasthenia neurosis,Feb-09,[X]Psychasthenia neurosis
+Eu46y16,44586,84,0,4,0,[X]Psychogenic syncope,Feb-09,[X]Psychogenic syncope
+Eu46z00,49628,358,0,2,0,"[X]Neurotic disorder, unspecified",Feb-09,[X]Neurotic disorder; unspecified
+Eu46z11,21431,696,0,6,0,[X]Neurosis NOS,Feb-09,[X]Neurosis NOS
+Eu51511,17687,266,0,13,0,[X]Dream anxiety disorder,Feb-09,[X]Dream anxiety disorder
+Eu93000,18032,416,0,32,0,[X]Separation anxiety disorder of childhood,Feb-09,[X]Separation anxiety disorder of childhood
+Eu93100,24351,164,0,17,0,[X]Phobic anxiety disorder of childhood,Feb-09,[X]Phobic anxiety disorder of childhood
+Eu93200,29907,1034,0,65,0,[X]Social anxiety disorder of childhood,Feb-09,[X]Social anxiety disorder of childhood
+Eu93y12,61430,8,0,1,0,[X]Childhood overanxious disorder,Feb-09,[X]Childhood overanxious disorder
+Z4L1.00,7999,2478,0,186,0,Anxiety counselling,Feb-09,Anxiety counselling
+ZS7C700,99609,6,0,0,0,Post-traumatic mutism,Jun-10,Post-traumatic mutism

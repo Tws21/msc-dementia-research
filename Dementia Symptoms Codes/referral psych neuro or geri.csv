@@ -1,0 +1,21 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+    2964	62896	142520	0	0	8H46.00	Neurological referral	February 2009
+    1511	19903	45553	0	0	8H47.00	Geriatric referral	February 2009
+  105235	7	26	0	0	8H47000	Referral to community geriatrician	November 2012
+    2189	92702	163423	1	0	8H49.00	Psychiatric referral	February 2009
+    5338	13098	34797	0	0	8H4D.00	Referral to psychogeriatrician	February 2009
+   95859	1107	2867	0	0	8H4h.00	Referral to neurologist	February 2009
+   55362	498	3059	0	0	8H4Y.00	Referral to neurology special interest general practitioner	February 2009
+   27640	508	102	0	0	8HJ3.00	Psychiatric self-referral	February 2009
+   68924	93	9	0	0	8HJ4.00	Geriatric self-referral	February 2009
+   40890	537	259	0	0	8HJE.00	Neurology self-referral	February 2009
+   95936	77	66	0	0	8HlB.00	Urgent referral to psychiatrist	February 2009
+   13653	1966	4947	0	0	8HVL.00	Private referral to neurologist	February 2009
+   29200	66	204	0	0	8HVM.00	Private referral to geriatrician	February 2009
+   13677	928	2147	0	0	8HVO.00	Private referral to psychiatrist	February 2009
+   34532	17	59	0	0	8HVS.00	Private referral to psychogeriatrician	February 2009
+   12077	1459	7256	0	0	ZL5A200	Referral to care of the elderly physician	February 2009
+   11634	1279	5228	0	0	ZL5A211	Referral to geriatrician	February 2009
+   10448	9642	22116	0	0	ZL5AO00	Referral to neurologist	February 2009
+   10002	10987	20459	0	0	ZL5B.00	Referral to psychiatrist	February 2009
+

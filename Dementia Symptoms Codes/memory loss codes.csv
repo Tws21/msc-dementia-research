@@ -1,0 +1,107 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+    1993	27491	6480	15	0	1B1A.00	Memory loss - amnesia	February 2009
+   40821	37	4	0	0	1B1a.00	Poor auditory sequential memory	February 2009
+    3639	3293	471	0	0	1B1A.11	Amnesia symptom	February 2009
+    5777	118937	22762	0	0	1B1A.12	Memory loss symptom	February 2009
+    2908	17769	3360	0	0	1B1A.13	Memory disturbance	February 2009
+   27788	422	37	0	0	1B1A000	Temporary loss of memory	February 2009
+  103453	207	10	0	0	1B1A100	Short-term memory loss	December 2011
+   28278	1006	75	0	0	1B1S.00	Transient global amnesia	February 2009
+   39507	232	95	0	0	1B1Y.00	Poor visual sequential memory	February 2009
+   67163	5	1	0	0	1S21.00	Disturbance of memory for order of events	February 2009
+    7742	5976	506	3	0	28G..00	Forgetful	February 2009
+   52947	245	0	0	0	3A10.00	Memory: own age not known	February 2009
+   53146	305	0	0	0	3A20.00	Memory: present time not known	February 2009
+   53014	528	0	0	0	3A30.00	Memory: present place not knwn	February 2009
+   52948	391	0	0	0	3A40.00	Memory: present year not known	February 2009
+   53125	187	0	0	0	3A50.00	Memory: own DOB not known	February 2009
+   52825	322	0	0	0	3A60.00	Memory: present month not knwn	February 2009
+   52800	353	0	0	0	3A70.00	Memory: important event not kn	February 2009
+   52801	382	0	0	0	3A80.00	Memory: import.person not knwn	February 2009
+   52805	416	1	0	0	3A91.00	Memory: count down unsuccess.	February 2009
+   53016	472	0	0	0	3AA1.00	Memory: address recall unsucc.	February 2009
+   68703	254	0	0	0	8BIk.00	Patient forgets to take medication	February 2009
+   27414	65	7	0	0	E040.00	Non-alcoholic amnestic syndrome	February 2009
+    4269	188	13	0	0	E201700	Hysterical amnesia	February 2009
+    6387	12527	1993	0	0	E2A1000	Mild memory disturbance	February 2009
+    6061	1524	235	0	0	E2A1100	Organic memory impairment	February 2009
+   37072	42	3	0	0	Eu03.00	[X]Organic amnesic synd not induced alc/oth psychoact subs	February 2009
+   40994	42	1	0	0	Eu44000	[X]Dissociative amnesia	February 2009
+    6489	1467	78	0	0	G655.00	Transient global amnesia	February 2009
+    4284	5844	1113	20	0	R00z000	[D]Amnesia (retrograde)	February 2009
+    7711	1842	225	0	0	R00z011	[D]Memory deficit	February 2009
+   54882	40	1	0	0	R00z500	[D]Anterograde amnesia	February 2009
+   70677	23	0	0	0	Ryu5000	[X]Other amnesia	February 2009
+   51379	16	2	0	0	Z7CE400	Memory disturbance (& amnesia (& symptom))	February 2009
+   67838	23	0	0	0	Z7CE412	Memory loss symptom	February 2009
+  103375	1	0	0	0	Z7CE413	Memory loss - amnesia	December 2011
+  105538	1	0	0	0	Z7CE414	Memory disturbance	January 2013
+  102880	2	0	0	0	Z7CE415	Loss of memory	August 2011
+   24952	630	41	0	0	Z7CE500	Forgetful	February 2009
+   28406	1763	180	0	0	Z7CE600	Amnesia	February 2009
+   10123	2598	344	0	0	Z7CE611	Memory loss	February 2009
+   68230	2	0	0	0	Z7CE612	Memory gone	February 2009
+   66001	7	0	0	0	Z7CE613	Dysmnesia	February 2009
+   12805	182	8	0	0	Z7CE614	Memory loss - amnesia	February 2009
+   19297	494	105	0	0	Z7CE615	Loss of memory	February 2009
+   12277	109	22	0	0	Z7CE616	LOM - Loss of memory	February 2009
+   18996	1723	72	0	0	Z7CE700	Transient global amnesia	February 2009
+   19004	453	28	0	0	Z7CE711	TGA - Transient global amnesia	February 2009
+   36767	13	0	0	0	Z7CE800	Anterograde amnesia	February 2009
+   43905	9	1	0	0	Z7CE811	Antegrade amnesia	February 2009
+   35538	154	1	0	0	Z7CE900	Retrograde amnesia	February 2009
+   70703	6	0	0	0	Z7CE911	RA - Retrograde amnesia	February 2009
+   49897	279	0	0	0	Z7CEA00	Impairment of registration	February 2009
+   32367	92	17	0	0	Z7CEA11	Impairment of working memory	February 2009
+   59844	9	0	0	0	Z7CEA12	Impairment of immediate recall	February 2009
+   65696	13	2	0	0	Z7CEA13	Impairment of primary memory	February 2009
+   66144	1	0	0	0	Z7CEB00	Amnesia for remote events	February 2009
+   37191	53	15	0	0	Z7CEB12	Poor memory for remote events	February 2009
+   61816	17	3	0	0	Z7CEC00	Amnesia for recent events	February 2009
+    9786	150	39	0	0	Z7CEC11	Loss of memory for recent events	February 2009
+   67802	6	0	0	0	Z7CEC12	No memory for recent events	February 2009
+   68392	1	0	0	0	Z7CED00	Amnesia for day to day facts	February 2009
+   57812	6	1	0	0	Z7CEE00	Amnesia for important personal information	February 2009
+   67998	6	0	0	0	Z7CEF00	Temporary loss of memory	February 2009
+   47882	127	7	0	0	Z7CEG00	Transient memory loss	February 2009
+   10514	3642	315	0	0	Z7CEH00	Memory impairment	February 2009
+   39915	111	1	0	0	Z7CEH11	Memory dysfunction	February 2009
+   50418	48	3	0	0	Z7CEH12	Memory deficit	February 2009
+   26434	62	6	0	0	Z7CEH13	Bad memory	February 2009
+   12057	4633	660	0	0	Z7CEH14	Memory problem	February 2009
+   12583	4871	688	0	0	Z7CEH15	Poor memory	February 2009
+  103922	1	0	0	0	Z7CEI00	Mixes past with present	March 2012
+   19073	1263	134	0	0	Z7CEJ00	Memory lapses	February 2009
+   53507	30	2	0	0	Z7CEK00	Minor memory lapses	February 2009
+   51724	14	1	0	0	Z7CEL00	Mild memory disturbance	February 2009
+   51739	5	1	0	0	Z7CEM00	Distortion of memory	February 2009
+   64892	1	0	0	0	Z7CEN11	Invents experiences to compensate for loss of memory	February 2009
+   11410	2099	242	0	0	Z7CF800	Poor short-term memory	February 2009
+   10571	2101	202	0	0	Z7CF811	Short-term memory loss	February 2009
+  106055	1	0	0	0	Z7CFA00	Unable to recall random address at five minutes	May 2013
+  104514	0	0	0	0	Z7CFC00	Unable to recall five digit number at five minutes	July 2012
+   93856	12	0	0	0	Z7CFe00	Unable to remember name of current prime minister	February 2009
+   59515	30	1	0	0	Z7CFF00	Forgets what was going to do	February 2009
+   60600	12	0	0	0	Z7CFG00	Forgets what was going to say	February 2009
+  105793	2	0	0	0	Z7CFg00	Cannot remember names of intimates	February 2013
+   41366	10	1	0	0	Z7CFH00	Forgets recent activities	February 2009
+   54430	8	0	0	0	Z7CFh00	Cannot remember birth dates of children	February 2009
+   40091	8	0	0	0	Z7CFI00	Forgets what has just done	February 2009
+   62749	8	1	0	0	Z7CFi00	Cannot remember wedding anniversary	February 2009
+   93319	5	0	0	0	Z7CFJ00	Forgets what has just said	February 2009
+   70895	1	0	0	0	Z7CFK00	Forgets what has just read	February 2009
+  103479	1	0	0	0	Z7CFL00	Forgets what has just seen	December 2011
+   47994	8	0	0	0	Z7CFM00	Forgets what has just heard	February 2009
+   53978	20	0	0	0	Z7CFO00	Poor long-term memory	February 2009
+   47581	15	2	0	0	Z7CFO11	Long-term memory loss	February 2009
+   46314	4	0	0	0	Z7CFq00	Unable to remember motor skills	February 2009
+   63942	5	0	0	0	Z7CFQ00	Unable to remember own date of birth	February 2009
+   32599	5	0	0	0	Z7CFS00	Unable to remember own age	February 2009
+   57750	1	0	0	0	Z7CFs00	Unable to remember new motor skills	February 2009
+   69118	2	0	0	0	Z7CFS11	Cannot remember own age	February 2009
+   63849	15	0	0	0	Z7CFU00	Unable to remember day of the week	February 2009
+   59830	62	0	0	0	Z7CFw00	Memory aided by use of diary	February 2009
+   66684	2	0	0	0	Z7CFW00	Unable to remember today's date	February 2009
+   98287	2	1	0	0	Z7CFx00	Memory aided by use of labels	December 2009
+   67951	5	0	0	0	Z7CFz00	Memory aided by use of lists	February 2009
+   98798	2	0	0	0	Z7CGP00	Delayed verbal memory	March 2010

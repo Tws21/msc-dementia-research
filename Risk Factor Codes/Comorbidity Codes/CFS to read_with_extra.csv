@@ -1,0 +1,22 @@
+﻿medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm
+4546,32056,1839,0,0,F286.00,Chronic fatigue syndrome
+1042,31394,1620,4,0,R007400,[D]Postviral (asthenic) syndrome
+7529,22491,1918,0,0,F286.11,CFS - Chronic fatigue syndrome
+6190,11608,230,0,0,F286.12,Postviral fatigue syndrome
+1040,5645,333,0,0,F286.15,Myalgic encephalomyelitis
+9127,4073,80,0,0,F286.14,Post-viral fatigue syndrome
+6552,4001,300,0,0,F286.16,ME - Myalgic encephalomyelitis
+9656,3166,185,0,0,Eu46011,[X]Fatigue syndrome
+12411,3087,39,0,0,R007411,[D]Post viral debility
+20414,2626,40,0,0,1684.13,C/O - postviral syndrome
+27877,1751,53,0,0,F286.13,PVFS - Postviral fatigue syn
+99807,981,1848,0,0,8HkW.00,Referral to chronic fatigue syndrome specialist team
+97140,120,30,0,0,8Q1..00,Activity management for chronic fatigue syndrome
+100414,96,108,0,0,8HlL.00,Referral for chronic fatigue syndrome activity management
+98512,65,0,0,0,F286000,Mild chronic fatigue syndrome
+100464,55,55,0,0,8HkW.11,Referral to myalgic encephalomyelitis specialist team
+97688,33,14,0,0,8E7B.00,Graded exercise therapy
+97284,26,1,0,0,F286100,Moderate chronic fatigue syndrome
+98734,16,0,0,0,F286200,Severe chronic fatigue syndrome
+101140,5,2,0,0,8H7q000,Referral for graded exercise therapy
+104407,4,3,0,0,8HlL.11,Referral for myalgic encephalopathy activity management

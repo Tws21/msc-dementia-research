@@ -1,0 +1,311 @@
+﻿medcode,readcode,readterm,consumptionlevel,heavydrinking,drinkingstatus
+27,136..00,alcohol consumption,,,current
+322,1364.00,Moderate drinker - 3-6u/day,moderate,,current
+385,1362.11,Drinks rarely,low,,current
+669,E250000,"Nondependent alcohol abuse, unspecified",high,yes,current
+749,1362.12,Drinks occasionally,low,,current
+956,136J.00,Social drinker,low,,current
+967,1367.00,Stopped drinking alcohol,,yes,former
+1399,E23..12,Alcohol problem drinking,high,yes,current
+1476,E010.12,Delirium tremens,high,yes,current
+1618,1365.00,Heavy drinker - 7-9u/day,high,yes,current
+2081,E23..11,Alcoholism,high,yes,current
+2082,E01y000,Alcohol withdrawal syndrome,high,yes,current
+2083,8BA8.00,Alcohol detoxification,high,yes,current
+2084,E23..00,Alcohol dependence syndrome,high,yes,current
+2689,136G.00,Beer drinker,,,current
+2925,F375.00,Alcoholic polyneuropathy,high,yes,current
+3216,J611.00,Acute alcoholic hepatitis,high,yes,current
+3782,E250.14,Intoxication - alcohol,high,yes,current
+4447,1361.12,Non-drinker alcohol,,,never
+4500,E011000,Korsakov's alcoholic psychosis,high,yes,current
+4506,J153.00,Alcoholic gastritis,high,yes,current
+4743,J612.00,Alcoholic cirrhosis of liver,high,yes,current
+4915,G555.00,Alcoholic cardiomyopathy,high,yes,current
+5611,Eu10.00,[X]Mental and behavioural disorders due to use of alcohol,high,yes,current
+5740,E230.00,Acute alcoholic intoxication in alcoholism,high,yes,current
+5758,Eu10212,[X]Chronic alcoholism,high,yes,current
+6169,E23z.00,Alcohol dependence syndrome NOS,high,yes,current
+6467,Eu10511,[X]Alcoholic hallucinosis,high,yes,current
+7123,ZV11300,[V]Personal history of alcoholism,high,yes,current
+7545,ZV4KC00,[V] Alcohol use,,,current
+7602,J617000,Chronic alcoholic hepatitis,high,yes,current
+7692,8CAM.00,Patient advised about alcohol,,,current
+7746,E250.00,Nondependent alcohol abuse,high,yes,current
+7885,J613.00,Alcoholic liver damage unspecified,high,yes,current
+7943,J617.00,Alcoholic hepatitis,high,yes,current
+8030,ZV6D600,[V]Alcohol abuse counselling and surveillance,high,yes,current
+8363,G852300,Oesophageal varices in alcoholic cirrhosis of the liver,high,yes,current
+8388,ZV57A00,[V]Alcohol rehabilitation,high,yes,current
+8430,1462.00,h/o: alcoholism,,yes,former
+8999,136P.00,Heavy drinker,high,yes,current
+9169,R103.00,[D]Alcohol blood level excessive,high,yes,current
+9489,9NN2.00,Under care of community alcohol team,high,yes,current
+9508,Eu10011,[X]Acute alcoholic drunkenness,high,yes,current
+9849,8H7p.00,Referral to community alcohol team,high,yes,current
+10161,2577.11,O/E - alcoholic breath,high,yes,current
+10458,ZV79100,[v]screening for alcoholism,,,current
+10463,U209.00,[x]intent self poison/exposure to alcohol,,,current
+10658,ZRLfD12,honos item 3 - alcohol/drug problem,high,yes,current
+10691,J610.00,Alcoholic fatty liver,high,yes,current
+11106,E011100,Korsakov's alcoholic psychosis with peripheral neuritis,high,yes,current
+11140,ZG23100,Advice on alcohol consumption,high,yes,current
+11263,SM01100,wood alcohol causing toxic effect,,,current
+11491,6792.00,Health ed. - alcohol,high,yes,current
+11670,Eu10611,"[X]Korsakov's psychosis, alcohol induced",high,yes,current
+11740,9k1..00,Alcohol misuse - enhanced services administration,high,yes,current
+12271,E250.11,Drunkenness NOS,high,yes,current
+12353,Eu10500,[X]Mental & behav dis due to use alcohol: psychotic disorder,high,yes,current
+12442,66e..00,alcohol disorder monitoring,high,yes,current
+12554,8HHe.00,Referral to community drug and alcohol team,high,yes,current
+12949,1361.00,Teetotaller,,,never
+12950,U800.00,[x]eviden of alcohl involv blood alcohl level <20 mg/100 ml,low,,current
+12968,136H.00,Drinks beer and spirits,,,current
+12969,136I.00,Drinks wine,,,current
+12970,1361.11,Non drinker alcohol,,,never
+12971,136F.00,Spirit drinker,,,current
+12972,1363.00,Light drinker - 1-2u/day,low,,current
+12974,E250200,"Nondependent alcohol abuse, episodic",high,yes,current
+12975,1362.00,Trivial drinker - <1u/day,low,,current
+12976,1369.00,Suspect alcohol abuse - denied,,,current
+12977,1366.00,Very heavy drinker - >9u/day,high,yes,current
+12978,1368.00,alcohol consumption unknown,,,current
+12979,136M.00,Current non drinker,,,never
+12980,136N.00,Light drinker,low,,current
+12981,136Z.00,alcohol consumption nos,,,current
+12982,136K.00,Alcohol intake above recommended sensible limits,high,,current
+12983,136E.00,Ex-very heavy drinker-(>9u/d),,yes,former
+12984,136Q.00,Very heavy drinker,high,yes,current
+12985,136O.00,Moderate drinker,moderate,,current
+15503,T901.00,accidental poisoning by other ethyl alcohol and its products,high,yes,current
+16225,E010.00,Alcohol withdrawal delirium,high,yes,current
+16237,E01..00,Alcoholic psychoses,high,yes,current
+16587,ZV11311,[V]Problems related to lifestyle alcohol use,high,yes,current
+17149,ZV70L00,[v]blood-alcohol and blood-drug test,,,current
+17259,Eu10411,"[X]Delirium tremens, alcohol induced",high,yes,current
+17266,63C7.00,maternal alcohol abuse,,,current
+17330,J613000,Alcoholic hepatic failure,high,yes,current
+17607,Eu10514,[X]Alcoholic psychosis NOS,high,yes,current
+17777,E250.13,Inebriety NOS,high,yes,current
+18156,13Y8.00,Alcoholics anonymous,high,yes,current
+18252,T90..00,"accidental poisoning by alcohol, nec",high,yes,current
+18636,E011200,Wernicke-Korsakov syndrome,high,yes,current
+18711,67H0.00,Lifestyle advice regarding alcohol,high,yes,current
+19217,SM0..00,Alcohol causing toxic effect,high,yes,current
+19401,136R.00,Binge drinker,high,yes,current
+19489,6892.00,alcohol consumption screen,,,current
+19493,136D.00,Ex-heavy drinker - (7-9u/day),,yes,former
+19494,136S.00,Hazardous alcohol use,high,yes,current
+19495,136C.00,Ex-moderate drinker - (3-6u/d),,,former
+20407,E014.11,Drunkenness - pathological,high,,current
+20514,Eu10300,[X]Mental and behav dis due to use alcohol: withdrawal state,high,yes,current
+20762,E011.00,Alcohol amnestic syndrome,high,yes,current
+21412,TJH3.00,adverse reaction to alcohol deterrents,high,yes,current
+21624,E230200,Episodic acute alcoholic intoxication in alcoholism,high,yes,current
+21650,8H35.00,Admitted to alcohol detoxification centre,high,yes,current
+21713,J612000,Alcoholic fibrosis and sclerosis of liver,high,yes,current
+21879,Eu10100,[X]Mental and behav dis due to use of alcohol: harmful use,high,yes,current
+22277,E010.11,DTs - delirium tremens,high,yes,current
+22707,ZRBJ.00,Drinking problem scale,high,yes,current
+22933,136A.00,Ex-trivial drinker (<1u/day),,,former
+23610,E250100,"Nondependent alcohol abuse, continuous",high,yes,current
+23978,U81..00,[X]Evid of alcohol involv determind by level of intoxication,,,current
+24064,E231100,Continuous chronic alcoholism,high,yes,current
+24485,E231300,Chronic alcoholism in remission,,,former
+24735,2577.00,O/E - breath - alcohol smell,high,yes,current
+24984,J671000,Alcohol-induced chronic pancreatitis,high,yes,current
+25110,E013.00,Alcohol withdrawal hallucinosis,high,yes,current
+26106,E231200,Episodic chronic alcoholism,high,yes,current
+26323,Eu10711,[X]Alcoholic dementia NOS,high,yes,current
+26471,136B.00,Ex-light drinker - (1-2u/day),,,former
+26472,136L.00,Alcohol intake within recommended sensible limits,low,,current
+27342,E012.11,Alcoholic dementia NOS,high,yes,current
+27518,E250.12,Hangover (alcohol),,,current
+27670,L255300,Maternal care for (suspected) damage to fetus from alcohol,high,yes,current
+28150,E250z00,Nondependent alcohol abuse NOS,high,yes,current
+28780,Eu10211,[X]Alcohol addiction,high,yes,current
+29691,8G32.00,Aversion therapy - alcoholism,high,yes,current
+30036,U409.00,"[x]poisoning/exposure, ? intent, to alcohol",high,yes,current
+30162,Eu10513,[X]Alcoholic paranoia,high,yes,current
+30404,E015.00,Alcoholic paranoia,high,yes,current
+30460,Z4B1.00,Alcoholism counselling,high,yes,current
+30604,F25B.00,Alcohol-induced epilepsy,high,yes,current
+30695,136T.00,Harmful alcohol use,high,yes,current
+31443,E231.00,Chronic alcoholism,high,yes,current
+31569,E250300,Nondependent alcohol abuse in remission,high,yes,current
+31605,U1A9.00,[x]accident poisoning/exposure to alcohol,high,yes,current
+31742,F394100,Alcoholic myopathy,high,yes,current
+32454,U806.00,[x]eviden of alcoh involv blood alcoh level 120-199mg/100ml,moderate,,current
+32850,ZR1F.00,alcohol use disorders identification test,high,yes,current
+32927,Eu10800,[X]Alcohol withdrawal-induced seizure,high,yes,current
+32964,66e0.00,alcohol abuse monitoring,high,yes,current
+33635,E231z00,Chronic alcoholism NOS,high,yes,current
+33670,E01y.00,Other alcoholic psychosis,high,yes,current
+33839,F144000,Cerebellar ataxia due to alcoholism,high,yes,current
+35330,9k11.00,Alcohol consumption counselling,high,yes,current
+35859,67A5.00,pregnancy alcohol advice,,,current
+36296,E230z00,Acute alcoholic intoxication in alcoholism NOS,high,yes,current
+36499,SM0z.00,alcohol causing toxic effect nos,high,yes,current
+36687,SLH3.00,alcohol deterrent poisoning,high,yes,current
+36748,F11x011,Alcoholic encephalopathy,high,yes,current
+37174,T902.00,accidental poisoning by methyl alcohol,high,yes,current
+37264,8CE1.00,Alcohol leaflet given,,,current
+37605,E231.11,Dipsomania,high,yes,current
+37691,Eu10712,[X]Chronic alcoholic brain syndrome,high,yes,current
+37946,E012000,Chronic alcoholic brain syndrome,high,yes,current
+38061,1B1c.00,Alcohol induced hallucinations,high,yes,current
+39327,Eu10200,[X]Mental and behav dis due to use alcohol: dependence syndr,high,yes,current
+39726,U808.00,[x]eviden alcoh involv blood alcoh level 240mg/100ml or more,high,yes,current
+39738,U813.00,[x]evid alcoh invl determ by levl intox very sev alcoh intox,high,yes,current
+39799,Eu10600,[X]Mental and behav dis due to use alcohol: amnesic syndrome,high,yes,current
+40530,E230000,"Acute alcoholic intoxication, unspecified, in alcoholism",high,yes,current
+40541,T900.00,accidental poisoning by alcoholic beverages,,,current
+40602,ZR1E.11,ads - alcohol dependence scale,,,current
+41251,ZRa1111,bmast - brief michigan alcoholism screening test,,,current
+41638,U209000,[x]int self poison/exposure to alcohol at home,,,current
+41920,E011z00,Alcohol amnestic syndrome NOS,high,yes,current
+41983,Z191.00,Alcohol detoxification,,,current
+42305,ZRk6.00,severity of alcohol dependence questionnaire,,,current
+43193,E231000,Unspecified chronic alcoholism,high,yes,current
+43813,9EQ..11,police:venesect-alcohol,,,current
+44019,U80..00,[x]evidence of alcohl involv determin by blood alcohl level,,,current
+44299,Eu10000,[X]Mental & behav dis due to use alcohol: acute intoxication,high,yes,current
+44686,U812.00,[x]evid alcoh invol determ by level of intox sev alcoh intox,high,yes,current
+44783,1D19.00,Pain in lymph nodes after alcohol consumption,,,current
+45169,Eu10y00,[X]Men & behav dis due to use alcohol: oth men & behav dis,high,yes,current
+45557,ZR31.00,cage questionnaire,,,current
+46677,Z191100,Alcohol withdrawal regime,high,yes,current
+46848,ZRBJ.11,DPS - Drinking problem scale,,,current
+47123,9k14.00,Alcohol counselling by other agencies,high,yes,current
+47555,F11x000,Cerebral degeneration due to alcoholism,high,yes,current
+47907,U807.00,[x]eviden of alcoh involv blood alcoh level 200-239mg/100ml,high,yes,current
+48241,U60H311,[x] adverse reaction to alcohol deterrents,high,yes,current
+48514,SM00100,denatured alcohol causing toxic effect,high,yes,current
+48545,9k13.00,alcohol questionnaire completed,,,current
+50507,ZR1E.00,alcohol dependence scale,,,current
+53139,T90y.00,accidental poisoning by other alcohols,high,yes,current
+53428,U804.00,[x]eviden of alcohl involv blood alcohl level 80-99mg/100ml,moderate,,current
+54209,ZC2H.00,Advice to change alcohol intake,high,yes,current
+54504,U805.00,[x]eviden of alcoh involv blood alcoh level 100-119mg/100ml,moderate,,current
+54505,E012.00,Other alcoholic dementia,high,yes,current
+55415,T90z.00,accidental poisoning by alcohol nos,high,yes,current
+55536,SM00z00,ethyl alcohol causing toxic effect nos,high,yes,current
+56410,7P22100,Delivery of rehabilitation for alcohol addiction,high,yes,current
+56441,ZRa1.00,michigan alcoholism screening test,,,current
+56947,E230100,Continuous acute alcoholic intoxication in alcoholism,high,yes,current
+57202,U801.00,[x]eviden of alcohl involv blood alcohl level 20-39mg/100ml,low,,current
+57242,U803.00,[x]eviden of alcohl involv blood alcohl level 60-79mg/100ml,low,,current
+57714,E230.11,Alcohol dependence with acute alcoholic intoxication,high,yes,current
+57939,E014.00,Pathological alcohol intoxication,high,yes,current
+59079,U802.00,[x]eviden of alcohl involv blood alcohl level 40-59mg/100ml,low,,current
+59414,U209z00,[x]intent self poison alcohol unspecif place,,,current
+59574,E230300,"Acute alcoholic intoxication in remission, in alcoholism",high,yes,current
+59776,ZRVK.00,last six months of drinking questionnaire,,,current
+59873,ZR1F.11,audit - alcohol use disorders identification test,,,current
+60752,T903300,accidental poisoning by secondary propyl alcohol,high,yes,current
+61187,U1A9z00,[x]accid poison/expos to alcohol unspecif place,high,yes,current
+61190,U409z00,[x]pois/expos ?intent to alcohol unspecif place,high,yes,current
+61383,Z191200,Planned reduction of alcohol consumption,high,yes,current
+61583,ZV70411,[v]medicolegal blood alcohol test,,,current
+61750,ZR3f.00,comprehensive drinker profile,,,current
+62000,Eu10700,[X]Men & behav dis due alcoh: resid & late-onset psychot dis,high,yes,current
+62299,ZRk9.11,sadd - short alcohol dependence data,,,current
+62300,ZRk9.00,short alcohol dependence data,,,current
+63306,U1A9000,[x]accident poison/exposure to alcohol at home,high,yes,current
+63457,ZR3f.11,cdp - comprehensive drinker profile,,,current
+63529,9k12.00,Alcohol misuse - enhanced service completed,high,yes,current
+63876,U1A9400,[x]accid poison/expos alcohol in street/highway,high,yes,current
+64101,Eu10400,[X]Men & behav dis due alcohl: withdrawl state with delirium,high,yes,current
+64389,Eu10z00,[X]Ment & behav dis due use alcohol: unsp ment & behav dis,high,yes,current
+64396,SM03000,amyl alcohol causing toxic effect,high,yes,current
+64409,Z191400,Self-monitoring of alcohol intake,high,yes,current
+65754,C150500,Alcohol-induced pseudo-Cushing's syndrome,high,yes,current
+65932,Eu10512,[X]Alcoholic jealousy,high,yes,current
+65980,ZR1G.00,alcohol use inventory,,,current
+66019,L254.11,Suspect fetal damage from maternal alcohol,high,yes,current
+66552,ZRR..00,inventory of drinking situations,,,current
+66699,PK83.00,Fetus and newborn affected by maternal use of alcohol,high,yes,current
+66831,ZRk6.11,sadq - severity of alcohol dependence questionnaire,high,yes,current
+67651,E01z.00,Alcoholic psychosis NOS,high,yes,current
+68111,E01yz00,Other alcoholic psychosis NOS,high,yes,current
+68159,U409000,"[x]poison/exposure ?intent, to alcohol at home",high,yes,current
+69331,ZRa1.11,mast - michigan alcoholism screening test,,,current
+69407,U409200,[x]pois/exp ?intent alcohol school/pub admin area,high,yes,current
+69691,Eu10213,cage questionnaire,,,current
+70161,388j.00,cage questionnaire,,,current
+70939,ZRaU.00,munich alcoholism test,,,current
+72757,Q007100,fetus/neonate affected by placental/breast transfer alcohol,high,yes,current
+73480,U811.00,[x]evid alcoh invol determ by level of intox mod alcoh intox,moderate,,current
+73876,U60H300,[x]alcohol deterrents caus adverse effects in therapeut use,,,current
+84218,13ZY.00,Disqualified from driving due to excess alcohol,high,yes,current
+88997,SM01.00,methyl alcohol causing toxic effect,high,yes,current
+90714,9k15.00,alcohol screen - audit completed,,,current
+92908,U1A9500,[x]accid poison/expos alcohol trade/service area,,,current
+93415,136V.00,alcohol units per week,,,current
+93624,388u.00,fast alcohol screening test,,,current
+94485,9k18.00,alcohol screen - audit pc completed,,,current
+94553,8HkG.00,Referral to specialist alcohol treatment service,high,yes,current
+94669,8IA7.00,alcohol consumption screening test declined,high,yes,current
+94670,136W.00,Alcohol misuse,high,yes,current
+94838,38D3.00,alcohol use disorders identification test,high,yes,current
+94963,9k16.00,alcohol screen - fast alcohol screening test completed,,,current
+95181,Z191211,Alcohol reduction programme,high,yes,current
+95410,SyuG000,[x]toxic effect of other alcohols,high,yes,current
+95650,ZC22100,Advice to change drink intake,high,yes,current
+95663,9k17.00,alcohol screen - audit c completed,,,current
+95744,38D4.00,alcohol use disorder identificatn test consumptn questionnre,high,yes,current
+95944,9k19.00,alcohol assesment declined - enhanced services admin,high,yes,current
+96053,9k1A.00,Brief intervention for excessive alcohol consumptn completed,high,yes,current
+96054,9k1B.00,Extended intervention for excessive alcohol consumptn complt,high,yes,current
+96107,38D2.00,single alcohol screening questionnaire,,,current
+96219,U409400,[x]pois/expos ?intent alcohol in street/highway,,,current
+96259,9k19.11,alcohol assessment declined,high,yes,current
+96993,8HkJ.00,Referral to alcohol brief intervention service,high,yes,current
+97085,U209y00,[x]int self poison alcohol other spec place,high,yes,current
+97126,136X.00,alcohol units consumed on heaviest drinking day,,,current
+97163,ZC22200,Advice to change alcoholic drink intake,high,yes,current
+97261,8IAF.00,Brief intervention for excessive alcohol consumpion declined,high,yes,current
+97309,8CAv.00,Advised to contact primary care alcohol worker,high,yes,current
+97501,38D5.00,alcoh use disor id test piccinelli consumption questionnaire,,,current
+97680,8IAJ.00,Declined referral to specialist alcohol treatment service,high,yes,current
+99877,136b.00,Feels should cut down drinking,,,current
+99985,ZRa1100,brief michigan alcoholism screening test,high,,current
+100493,38Df.00,five-shot questionnaire on heavy drinking,high,,current
+100989,4I91.11,breath alcohol level,,,current
+101426,T901z00,accidental poisoning by ethyl alcohol nos,high,yes,current
+101543,SM0y.00,other alcohol causing toxic effect,high,yes,current
+101718,136Y.00,Drinks in morning to get rid of hangover,high,yes,current
+102086,SM02200,rubbing alcohol causing toxic effect,,,current
+102121,9EQ..12,police:venesect-alcohol,,,current
+102247,8IAt.00,Extended interven for excessive alcohol consumption declined,high,yes,current
+102321,SM03100,butyl alcohol causing toxic effect,high,yes,current
+102448,136c.00,Higher risk drinking,high,yes,current
+102564,8CAM000,Advised to abstain from alcohol consumption,,,current
+102577,38Dz.00,severity of alcohol dependence questionnaire,,,current
+102665,136a.00,Increasing risk drinking,moderate,,current
+102770,38Dz.11,sadq - severity of alcohol dependence questionnaire,,,current
+103069,U1A9200,[x]acc poison/expos alcohol school/pub admin area,,,current
+103230,136d.00,Lower risk drinking,low,,current
+103459,8IEA.00,Referral to community alcohol team declined,high,yes,current
+103698,U80z.00,[x]evid alcoh invol detrm by pres alcoh in bld levl not spec,,,current
+104109,ZC67111,Drinks only,,,current
+104611,J670800,Alcohol-induced acute pancreatitis,high,yes,current
+104702,U1A9300,[x]accid pois/expos alcohol in sport/athletic area,,,current
+104734,U1A9y00,[x]accid pois/expos to alcohol other spec place,,,current
+105144,67K6.00,"cycle of change stage, alcohol",,,current
+105273,U810.00,[x]evid alcoh invol determ by levl of intox mild alcoh intox,high,yes,current
+106018,SM02.00,isopropyl alcohol causing toxic effect,,yes,current
+106560,136e.00,declines to state current alcohol consumption,,,current
+108644,9NJz.00,In-house alcohol detoxification,high,yes,current
+109105,8W2..00,Refer to MH services deferred until alcohol misuse resolved,high,yes,current
+109108,2126C00,Alcohol dependence resolved,,yes,former
+109241,8IH4.00,Alcohol Use Disorders Identification Test declined,high,yes,current
+109668,8CdK.00,Specialist alcohol treatment service signposted,high,yes,current
+109675,9EVD.00,Hospital alcohol liaison team report received,high,yes,current
+109800,9NzA.00,Hospital attendance related to personal alcohol consumption,high,yes,current
+110382,9NgzH00,Withdrawn from alcohol detoxification programme,high,yes,current
+110494,8BAu.00,Alcohol harm reduction programme,high,yes,current
+110624,8BAs.00,Alcohol relapse prevention,high,yes,current
+110671,Z191300,Controlled drinking regime,moderate,,current
+110911,T901000,Accidental poisoning by denatured alcohol,high,yes,current
+111683,Z9KF400,Removal of alcohol,,,current

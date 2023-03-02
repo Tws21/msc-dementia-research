@@ -1,0 +1,42 @@
+readcode,medcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild,description
+H3...00,1001,481569,0,12259,148,Chronic obstructive pulmonary disease,Feb-09,Chronic obstructive pulmonary disease
+H31..00,3243,32135,0,731,31,Chronic bronchitis,Feb-09,Chronic bronchitis
+H310.00,25603,958,0,0,0,Simple chronic bronchitis,Feb-09,Simple chronic bronchitis
+H310000,15626,1738,0,46,0,Chronic catarrhal bronchitis,Feb-09,Chronic catarrhal bronchitis
+H310z00,61118,58,0,0,0,Simple chronic bronchitis NOS,Feb-09,Simple chronic bronchitis NOS
+H311.00,11150,398,0,0,0,Mucopurulent chronic bronchitis,Feb-09,Mucopurulent chronic bronchitis
+H311000,40159,64,0,1,0,Purulent chronic bronchitis,Feb-09,Purulent chronic bronchitis
+H311100,37959,6,0,0,0,Fetid chronic bronchitis,Feb-09,Fetid chronic bronchitis
+H311z00,61513,41,0,1,0,Mucopurulent chronic bronchitis NOS,Feb-09,Mucopurulent chronic bronchitis NOS
+H312.00,27819,1302,0,6,0,Obstructive chronic bronchitis,Feb-09,Obstructive chronic bronchitis
+H312000,5798,3946,0,51,0,Chronic asthmatic bronchitis,Feb-09,Chronic asthmatic bronchitis
+H312011,5909,570,0,17,0,Chronic wheezy bronchitis,Feb-09,Chronic wheezy bronchitis
+H312100,14798,1457,0,41,5,Emphysematous bronchitis,Feb-09,Emphysematous bronchitis
+H312300,26125,255,0,3,0,Bronchiolitis obliterans,Feb-09,Bronchiolitis obliterans
+H312z00,44525,1013,0,0,0,Obstructive chronic bronchitis NOS,Feb-09,Obstructive chronic bronchitis NOS
+H313.00,24248,35,0,0,0,Mixed simple and mucopurulent chronic bronchitis,Feb-09,Mixed simple and mucopurulent chronic bronchitis
+H31y.00,66043,32,0,0,0,Other chronic bronchitis,Feb-09,Other chronic bronchitis
+H31y100,45089,65,0,1,0,Chronic tracheobronchitis,Feb-09,Chronic tracheobronchitis
+H31yz00,68066,28,0,0,0,Other chronic bronchitis NOS,Feb-09,Other chronic bronchitis NOS
+H31z.00,15157,4133,0,99,4,Chronic bronchitis NOS,Feb-09,Chronic bronchitis NOS
+H32..00,794,62970,0,1992,31,Emphysema,Feb-09,Emphysema
+H320.00,26306,726,0,24,1,Chronic bullous emphysema,Feb-09,Chronic bullous emphysema
+H320000,56860,26,0,0,0,Segmental bullous emphysema,Feb-09,Segmental bullous emphysema
+H320100,68662,21,0,0,0,Zonal bullous emphysema,Feb-09,Zonal bullous emphysema
+H320200,60188,21,0,0,0,Giant bullous emphysema,Feb-09,Giant bullous emphysema
+H320300,99536,16,0,0,0,Bullous emphysema with collapse,May-10,Bullous emphysema with collapse
+H320z00,23492,116,0,3,0,Chronic bullous emphysema NOS,Feb-09,Chronic bullous emphysema NOS
+H321.00,46578,47,0,0,0,Panlobular emphysema,Feb-09,Panlobular emphysema
+H322.00,10980,379,0,1,0,Centrilobular emphysema,Feb-09,Centrilobular emphysema
+H32y.00,40788,103,0,2,1,Other emphysema,Feb-09,Other emphysema
+H32y000,92955,5,0,0,0,Acute vesicular emphysema,Feb-09,Acute vesicular emphysema
+H32y100,70787,4,0,0,0,Atrophic (senile) emphysema,Feb-09,Atrophic (senile) emphysema
+H32y111,59263,14,0,1,0,Acute interstitial emphysema,Feb-09,Acute interstitial emphysema
+H32y200,63479,33,0,0,0,MacLeod's unilateral emphysema,Feb-09,MacLeod's unilateral emphysema
+H32yz00,16410,89,0,2,0,Other emphysema NOS,Feb-09,Other emphysema NOS
+H32z.00,33450,1589,0,9,0,Emphysema NOS,Feb-09,Emphysema NOS
+H36..00,10863,85919,0,219,69,Mild chronic obstructive pulmonary disease,Feb-09,Mild chronic obstructive pulmonary disease
+H37..00,10802,83659,0,255,119,Moderate chronic obstructive pulmonary disease,Feb-09,Moderate chronic obstructive pulmonary disease
+H38..00,9876,36213,0,340,50,Severe chronic obstructive pulmonary disease,Feb-09,Severe chronic obstructive pulmonary disease
+H3y..11,67040,15,0,0,0,Other specified chronic obstructive pulmonary disease,Feb-09,Other specified chronic obstructive pulmonary disease
+H3z..11,37247,1617,0,15,0,Chronic obstructive pulmonary disease NOS,Feb-09,Chronic obstructive pulmonary disease NOS

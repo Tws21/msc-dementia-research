@@ -1,0 +1,41 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+    3566	26676	3948	0	0	1469.00	H/O: behaviour problem	February 2009
+   11054	42690	3339	0	0	1B1X.00	Behavioural problem	February 2009
+   18893	1247	86	0	0	1P...00	Behaviours and observations relating to behaviour	February 2009
+   47903	79	6	0	0	1P0..00	Motor function behaviour	February 2009
+   10918	6340	691	0	0	1P00.00	Hyperactive behaviour	February 2009
+   49657	267	20	0	0	1P02.00	Disinhibited behaviour	February 2009
+   32370	91	6	0	0	1P1..00	Observations relating to complex and social behaviours	February 2009
+   22212	159	2	0	0	1P10.00	Clinging behaviour	February 2009
+   18790	224	6	0	0	1P11.00	Uncooperative behaviour	February 2009
+   22654	1462	186	0	0	1P3..00	Compulsive behaviour	February 2009
+   38030	142	7	0	0	1P4..00	Vocal and verbal behaviour observations	February 2009
+   10577	20976	1168	0	0	1P5..00	Aggressive behaviour	February 2009
+   12005	649	15	0	0	1P51.00	Physically abusive behaviour	February 2009
+   25471	1356	6	0	0	1P52.00	Verbally abusive behaviour	February 2009
+   39030	549	11	0	0	1P53.00	Argumentative behaviour	February 2009
+   20090	87	18	0	0	28C..00	O/E - embarrassing behaviour	February 2009
+   46713	21	2	0	0	28C..11	O/E - irreverent behaviour	February 2009
+   26155	249	35	0	0	28L..00	O/E - impulsive behaviour	February 2009
+  105015	7	2	0	0	2BY..00	Visual behaviour	September 2012
+    5163	19774	775	0	0	3AB..00	Behaviour assessment	February 2009
+   15834	485	22	0	0	3AB1.00	Mildy abnormal behaviour	February 2009
+   49027	191	20	0	0	3AB2.00	Severely abnormal behaviour	February 2009
+   17515	11719	424	0	0	3AB3.00	Change in behaviour	February 2009
+    1363	88133	21487	6	0	E2C..11	Behaviour disorder	February 2009
+    9971	2685	170	0	0	Eu...00	[X]Mental and behavioural disorders	February 2009
+   21005	480	36	0	0	Eu6..00	[X]Disorders of adult personality and behaviour	February 2009
+   64838	6	3	0	0	Eu6y.00	[X]Other disorders of adult personality and behaviour	February 2009
+   34896	196	1	0	0	Eu6yy00	[X]Other specified disorders of adult personality/behaviour	February 2009
+   39777	73	1	0	0	Eu6z.00	[X]Unspecified disorder of adult personality and behaviour	February 2009
+   21771	365	16	0	0	Ry1..00	[D]Symptoms and signs involving appearance and behaviour	February 2009
+   31014	574	54	0	0	Ry12.00	[D]Strange and inexplicable behaviour	February 2009
+   25128	3271	107	0	0	ZV40.00	[V]Mental and behavioural problems	February 2009
+    1366	88262	14230	0	0	ZV40.11	[V]Behavioural problems	February 2009
+   14667	2009	163	0	0	ZV40300	[V]Other behavioural problems	February 2009
+   55678	33	0	0	0	ZV40y00	[V]Other specified mental or behavioural problem	February 2009
+   45309	113	13	0	0	ZV40z00	[V]Unspecified mental or behavioural problem	February 2009
+   35247	308	5	0	0	ZX1..00	Self-injurious behaviour	February 2009
+   32626	45	2	0	0	ZX1..11	Self-destructive behaviour	February 2009
+   47623	19	1	0	0	ZX1..12	SIB - Self-injurious behaviour	February 2009
+   28683	47	1	0	0	ZX1..14	Self-abusive behaviour	February 2009

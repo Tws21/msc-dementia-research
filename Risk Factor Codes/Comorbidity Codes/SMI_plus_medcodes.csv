@@ -1,0 +1,269 @@
+readcode,medcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild,description
+E100.00,32222,1130,0,22,0,Simple schizophrenia,Feb-09,Simple schizophrenia
+E100.11,73295,5,0,0,0,Schizophrenia simplex,Feb-09,Schizophrenia simplex
+E100000,15733,3075,0,107,0,Unspecified schizophrenia,Feb-09,Unspecified schizophrenia
+E100100,23616,291,0,0,0,Subchronic schizophrenia,Feb-09,Subchronic schizophrenia
+E100200,3984,4245,0,243,0,Chronic schizophrenic,Feb-09,Chronic schizophrenic
+E100300,57666,18,0,0,0,Acute exacerbation of subchronic schizophrenia,Feb-09,Acute exacerbation of subchronic schizophrenia
+E100400,44498,98,0,2,0,Acute exacerbation of chronic schizophrenia,Feb-09,Acute exacerbation of chronic schizophrenia
+E100500,58687,1674,0,2,0,Schizophrenia in remission,Feb-09,Schizophrenia in remission
+E100z00,53625,94,0,0,0,Simple schizophrenia NOS,Feb-09,Simple schizophrenia NOS
+E101.00,30619,433,0,5,0,Hebephrenic schizophrenia,Feb-09,Hebephrenic schizophrenia
+E101000,66506,2,0,0,0,Unspecified hebephrenic schizophrenia,Feb-09,Unspecified hebephrenic schizophrenia
+E101400,97919,1,0,0,0,Acute exacerbation of chronic hebephrenic schizophrenia,Oct-09,Acute exacerbation of chronic hebephrenic schizophrenia
+E101500,67768,14,0,0,0,Hebephrenic schizophrenia in remission,Feb-09,Hebephrenic schizophrenia in remission
+E101z00,48054,14,0,0,0,Hebephrenic schizophrenia NOS,Feb-09,Hebephrenic schizophrenia NOS
+E102.00,25546,318,0,14,0,Catatonic schizophrenia,Feb-09,Catatonic schizophrenia
+E102000,58716,3,0,0,0,Unspecified catatonic schizophrenia,Feb-09,Unspecified catatonic schizophrenia
+E102100,99199,2,0,0,0,Subchronic catatonic schizophrenia,Apr-10,Subchronic catatonic schizophrenia
+E102500,102427,13,0,0,0,Catatonic schizophrenia in remission,Jun-11,Catatonic schizophrenia in remission
+E102z00,63867,10,0,0,0,Catatonic schizophrenia NOS,Feb-09,Catatonic schizophrenia NOS
+E103.00,1494,32348,0,1118,0,Paranoid schizophrenia,Feb-09,Paranoid schizophrenia
+E103000,33383,140,0,2,0,Unspecified paranoid schizophrenia,Feb-09,Unspecified paranoid schizophrenia
+E103200,31362,355,0,5,0,Chronic paranoid schizophrenia,Feb-09,Chronic paranoid schizophrenia
+E103300,51322,21,0,0,0,Acute exacerbation of subchronic paranoid schizophrenia,Feb-09,Acute exacerbation of subchronic paranoid schizophrenia
+E103400,53032,134,0,0,0,Acute exacerbation of chronic paranoid schizophrenia,Feb-09,Acute exacerbation of chronic paranoid schizophrenia
+E103500,36172,432,0,0,0,Paranoid schizophrenia in remission,Feb-09,Paranoid schizophrenia in remission
+E103z00,9281,476,0,4,0,Paranoid schizophrenia NOS,Feb-09,Paranoid schizophrenia NOS
+E104.00,576,1190,0,78,0,Acute schizophrenic episode,Feb-09,Acute schizophrenic episode
+E105.00,66410,20,0,0,0,Latent schizophrenia,Feb-09,Latent schizophrenia
+E105000,102311,4,0,0,0,Unspecified latent schizophrenia,Jun-11,Unspecified latent schizophrenia
+E105200,94299,3,0,0,0,Chronic latent schizophrenia,Feb-09,Chronic latent schizophrenia
+E105500,96883,21,0,0,0,Latent schizophrenia in remission,May-09,Latent schizophrenia in remission
+E105z00,102446,2,0,0,0,Latent schizophrenia NOS,Jun-11,Latent schizophrenia NOS
+E106.00,38063,372,0,1,0,Residual schizophrenia,Feb-09,Residual schizophrenia
+E107.00,2117,7747,0,602,0,Schizo-affective schizophrenia,Feb-09,Schizo-affective schizophrenia
+E107.11,99000,1,0,0,0,Cyclic schizophrenia,Apr-10,Cyclic schizophrenia
+E107000,58862,159,0,1,0,Unspecified schizo-affective schizophrenia,Feb-09,Unspecified schizo-affective schizophrenia
+E107100,61098,11,0,0,0,Subchronic schizo-affective schizophrenia,Feb-09,Subchronic schizo-affective schizophrenia
+E107200,43800,127,0,4,0,Chronic schizo-affective schizophrenia,Feb-09,Chronic schizo-affective schizophrenia
+E107300,58866,9,0,0,0,Acute exacerbation subchronic schizo-affective schizophrenia,Feb-09,Acute exacerbation subchronic schizo-affective schizophrenia
+E107400,63478,28,0,0,0,Acute exacerbation of chronic schizo-affective schizophrenia,Feb-09,Acute exacerbation of chronic schizo-affective schizophrenia
+E107500,56438,274,0,0,0,Schizo-affective schizophrenia in remission,Feb-09,Schizo-affective schizophrenia in remission
+E107z00,10575,275,0,1,0,Schizo-affective schizophrenia NOS,Feb-09,Schizo-affective schizophrenia NOS
+E10y.00,39062,120,0,1,0,Other schizophrenia,Feb-09,Other schizophrenia
+E10y.11,92994,3,0,0,0,Cenesthopathic schizophrenia,Feb-09,Cenesthopathic schizophrenia
+E10y000,33338,101,0,15,0,Atypical schizophrenia,Feb-09,Atypical schizophrenia
+E10y100,99070,1,0,0,0,Coenesthopathic schizophrenia,Apr-10,Coenesthopathic schizophrenia
+E10yz00,49761,66,0,0,0,Other schizophrenia NOS,Feb-09,Other schizophrenia NOS
+E10z.00,8407,16424,0,214,0,Schizophrenia NOS,Feb-09,Schizophrenia NOS
+E11..00,14656,5668,0,245,0,Affective psychoses,Feb-09,Affective psychoses
+E11..12,2560,6201,0,406,0,Depressive psychoses,Feb-09,Depressive psychoses
+E110.00,37070,1404,0,13,0,"Manic disorder, single episode",Feb-09,Manic disorder; single episode
+E110.11,18909,1273,0,54,0,Hypomanic psychoses,Feb-09,Hypomanic psychoses
+E110000,20110,1145,0,220,0,"Single manic episode, unspecified",Feb-09,Single manic episode; unspecified
+E110100,14728,3996,0,578,0,"Single manic episode, mild",Feb-09,Single manic episode; mild
+E110200,24640,24,0,1,0,"Single manic episode, moderate",Feb-09,Single manic episode; moderate
+E110300,43093,11,0,1,0,"Single manic episode, severe without mention of psychosis",Feb-09,Single manic episode; severe without mention of psychosis
+E110400,50218,44,0,3,0,"Single manic episode, severe, with psychosis",Feb-09,Single manic episode; severe; with psychosis
+E110600,70000,723,0,0,0,Single manic episode in full remission,Feb-09,Single manic episode in full remission
+E110z00,36611,93,0,2,0,"Manic disorder, single episode NOS",Feb-09,Manic disorder; single episode NOS
+E111.00,26227,294,0,6,0,Recurrent manic episodes,Feb-09,Recurrent manic episodes
+E111000,19967,305,0,18,0,"Recurrent manic episodes, unspecified",Feb-09,Recurrent manic episodes; unspecified
+E111100,46425,22,0,0,0,"Recurrent manic episodes, mild",Feb-09,Recurrent manic episodes; mild
+E111200,27739,30,0,0,0,"Recurrent manic episodes, moderate",Feb-09,Recurrent manic episodes; moderate
+E111300,65811,27,0,0,0,"Recurrent manic episodes, severe without mention psychosis",Feb-09,Recurrent manic episodes; severe without mention psychosis
+E111400,32295,35,0,0,0,"Recurrent manic episodes, severe, with psychosis",Feb-09,Recurrent manic episodes; severe; with psychosis
+E111500,58863,2,0,0,0,"Recurrent manic episodes, partial or unspecified remission",Feb-09,Recurrent manic episodes; partial or unspecified remission
+E111600,37178,168,0,1,0,"Recurrent manic episodes, in full remission",Feb-09,Recurrent manic episodes; in full remission
+E111z00,46415,283,0,1,0,Recurrent manic episode NOS,Feb-09,Recurrent manic episode NOS
+E112400,32159,437,0,5,0,"Single major depressive episode, severe, with psychosis",Feb-09,Single major depressive episode; severe; with psychosis
+E113400,24171,657,0,9,0,"Recurrent major depressive episodes, severe, with psychosis",Feb-09,Recurrent major depressive episodes; severe; with psychosis
+E114.00,3702,626,0,42,0,"Bipolar affective disorder, currently manic",Feb-09,Bipolar affective disorder; currently manic
+E114.11,17385,633,0,50,0,Manic-depressive - now manic,Feb-09,Manic-depressive - now manic
+E114000,35738,106,0,1,0,"Bipolar affective disorder, currently manic, unspecified",Feb-09,Bipolar affective disorder; currently manic; unspecified
+E114100,36126,61,0,1,0,"Bipolar affective disorder, currently manic, mild",Feb-09,Bipolar affective disorder; currently manic; mild
+E114200,46434,55,0,1,0,"Bipolar affective disorder, currently manic, moderate",Feb-09,Bipolar affective disorder; currently manic; moderate
+E114300,16347,23,0,1,0,"Bipolar affect disord, currently manic, severe, no psychosis",Feb-09,Bipolar affect disord; currently manic; severe; no psychosis
+E114400,55829,57,0,1,0,"Bipolar affect disord, currently manic,severe with psychosis",Feb-09,Bipolar affect disord; currently manic;severe with psychosis
+E114500,59011,13,0,0,0,"Bipolar affect disord,currently manic, part/unspec remission",Feb-09,Bipolar affect disord;currently manic; part/unspec remission
+E114600,63784,76,0,1,0,"Bipolar affective disorder, currently manic, full remission",Feb-09,Bipolar affective disorder; currently manic; full remission
+E114z00,57605,90,0,2,0,"Bipolar affective disorder, currently manic, NOS",Feb-09,Bipolar affective disorder; currently manic; NOS
+E115.00,4677,704,0,41,0,"Bipolar affective disorder, currently depressed",Feb-09,Bipolar affective disorder; currently depressed
+E115.11,12831,1034,0,66,0,Manic-depressive - now depressed,Feb-09,Manic-depressive - now depressed
+E115000,15923,83,0,4,0,"Bipolar affective disorder, currently depressed, unspecified",Feb-09,Bipolar affective disorder; currently depressed; unspecified
+E115100,35734,75,0,1,0,"Bipolar affective disorder, currently depressed, mild",Feb-09,Bipolar affective disorder; currently depressed; mild
+E115200,27890,82,0,1,0,"Bipolar affective disorder, currently depressed, moderate",Feb-09,Bipolar affective disorder; currently depressed; moderate
+E115300,35607,33,0,0,0,"Bipolar affect disord, now depressed, severe, no psychosis",Feb-09,Bipolar affect disord; now depressed; severe; no psychosis
+E115400,63701,21,0,0,0,"Bipolar affect disord, now depressed, severe with psychosis",Feb-09,Bipolar affect disord; now depressed; severe with psychosis
+E115500,72026,11,0,0,0,"Bipolar affect disord, now depressed, part/unspec remission",Feb-09,Bipolar affect disord; now depressed; part/unspec remission
+E115600,57465,105,0,0,0,"Bipolar affective disorder, now depressed, in full remission",Feb-09,Bipolar affective disorder; now depressed; in full remission
+E115z00,37296,104,0,3,0,"Bipolar affective disorder, currently depressed, NOS",Feb-09,Bipolar affective disorder; currently depressed; NOS
+E116.00,31316,1822,0,50,0,Mixed bipolar affective disorder,Feb-09,Mixed bipolar affective disorder
+E116000,31535,468,0,1,0,"Mixed bipolar affective disorder, unspecified",Feb-09,Mixed bipolar affective disorder; unspecified
+E116100,24689,35,0,0,0,"Mixed bipolar affective disorder, mild",Feb-09,Mixed bipolar affective disorder; mild
+E116200,63150,62,0,0,0,"Mixed bipolar affective disorder, moderate",Feb-09,Mixed bipolar affective disorder; moderate
+E116300,63284,23,0,0,0,"Mixed bipolar affective disorder, severe, without psychosis",Feb-09,Mixed bipolar affective disorder; severe; without psychosis
+E116400,54195,56,0,0,0,"Mixed bipolar affective disorder, severe, with psychosis",Feb-09,Mixed bipolar affective disorder; severe; with psychosis
+E116500,63651,8,0,0,0,"Mixed bipolar affective disorder, partial/unspec remission",Feb-09,Mixed bipolar affective disorder; partial/unspec remission
+E116600,55064,134,0,0,0,"Mixed bipolar affective disorder, in full remission",Feb-09,Mixed bipolar affective disorder; in full remission
+E116z00,63583,223,0,1,0,"Mixed bipolar affective disorder, NOS",Feb-09,Mixed bipolar affective disorder; NOS
+E117.00,14784,6826,0,562,0,Unspecified bipolar affective disorder,Feb-09,Unspecified bipolar affective disorder
+E117000,49763,111,0,0,0,"Unspecified bipolar affective disorder, unspecified",Feb-09,Unspecified bipolar affective disorder; unspecified
+E117100,63698,15,0,0,0,"Unspecified bipolar affective disorder, mild",Feb-09,Unspecified bipolar affective disorder; mild
+E117200,68647,17,0,0,0,"Unspecified bipolar affective disorder, moderate",Feb-09,Unspecified bipolar affective disorder; moderate
+E117300,73423,3,0,0,0,"Unspecified bipolar affective disorder, severe, no psychosis",Feb-09,Unspecified bipolar affective disorder; severe; no psychosis
+E117400,68326,17,0,0,0,"Unspecified bipolar affective disorder,severe with psychosis",Feb-09,Unspecified bipolar affective disorder;severe with psychosis
+E117500,70721,8,0,0,0,"Unspecified bipolar affect disord, partial/unspec remission",Feb-09,Unspecified bipolar affect disord; partial/unspec remission
+E117600,24230,380,0,0,0,"Unspecified bipolar affective disorder, in full remission",Feb-09,Unspecified bipolar affective disorder; in full remission
+E117z00,27986,408,0,7,0,"Unspecified bipolar affective disorder, NOS",Feb-09,Unspecified bipolar affective disorder; NOS
+E11y.00,60178,340,0,4,0,Other and unspecified manic-depressive psychoses,Feb-09,Other and unspecified manic-depressive psychoses
+E11y000,11596,973,0,2,0,Unspecified manic-depressive psychoses,Feb-09,Unspecified manic-depressive psychoses
+E11y100,70925,3,0,0,0,Atypical manic disorder,Feb-09,Atypical manic disorder
+E11y300,70399,17,0,0,0,Other mixed manic-depressive psychoses,Feb-09,Other mixed manic-depressive psychoses
+E11yz00,33426,62,0,1,0,Other and unspecified manic-depressive psychoses NOS,Feb-09,Other and unspecified manic-depressive psychoses NOS
+E11z.00,41992,179,0,5,0,Other and unspecified affective psychoses,Feb-09,Other and unspecified affective psychoses
+E11z000,54607,128,0,1,0,Unspecified affective psychoses NOS,Feb-09,Unspecified affective psychoses NOS
+E11zz00,33425,312,0,2,0,Other affective psychosis NOS,Feb-09,Other affective psychosis NOS
+E120.00,14743,3226,0,568,0,Simple paranoid state,Feb-09,Simple paranoid state
+E121.00,3890,2237,0,316,1,Chronic paranoid psychosis,Feb-09,Chronic paranoid psychosis
+E122.00,14971,2535,0,196,0,Paraphrenia,Feb-09,Paraphrenia
+E123.00,62680,10,0,0,0,Shared paranoid disorder,Feb-09,Shared paranoid disorder
+E123.11,50868,28,0,1,0,Folie a deux,Feb-09,Folie a deux
+E12y.00,31589,137,0,3,0,Other paranoid states,Feb-09,Other paranoid states
+E12y000,66766,6,0,1,0,Paranoia querulans,Feb-09,Paranoia querulans
+E12yz00,31455,167,0,4,0,Other paranoid states NOS,Feb-09,Other paranoid states NOS
+E12z.00,12771,6488,0,465,0,Paranoid psychosis NOS,Feb-09,Paranoid psychosis NOS
+E13..00,31984,480,0,4,0,Other nonorganic psychoses,Feb-09,Other nonorganic psychoses
+E13..11,20228,350,0,36,4,Reactive psychoses,Feb-09,Reactive psychoses
+E130.00,8478,1695,0,50,0,Reactive depressive psychosis,Feb-09,Reactive depressive psychosis
+E130.11,17770,2348,0,77,0,Psychotic reactive depression,Feb-09,Psychotic reactive depression
+E131.00,29937,227,0,4,0,Acute hysterical psychosis,Feb-09,Acute hysterical psychosis
+E132.00,7332,4863,0,734,0,Reactive confusion,Feb-09,Reactive confusion
+E133.00,15053,806,0,86,1,Acute paranoid reaction,Feb-09,Acute paranoid reaction
+E133.11,68058,2,0,1,0,Bouffee delirante,Feb-09,Bouffee delirante
+E134.00,24345,86,0,1,0,Psychogenic paranoid psychosis,Feb-09,Psychogenic paranoid psychosis
+E13y.00,16333,235,0,48,0,Other reactive psychoses,Feb-09,Other reactive psychoses
+E13y000,22117,25,0,2,0,Psychogenic stupor,Feb-09,Psychogenic stupor
+E13y100,23538,96,0,8,0,Brief reactive psychosis,Feb-09,Brief reactive psychosis
+E13yz00,26119,71,0,0,0,Other reactive psychoses NOS,Feb-09,Other reactive psychoses NOS
+E13z.00,14965,11673,0,1683,0,Nonorganic psychosis NOS,Feb-09,Nonorganic psychosis NOS
+E13z.11,3636,18365,0,511,0,Psychotic episode NOS,Feb-09,Psychotic episode NOS
+E1z..00,22188,494,0,19,0,Non-organic psychosis NOS,Feb-09,Non-organic psychosis NOS
+E212200,61969,156,0,0,0,Schizotypal personality,Feb-09,Schizotypal personality
+Eu20.00,34236,4911,0,95,0,[X]Schizophrenia,Feb-09,[X]Schizophrenia
+Eu20000,16764,2390,0,34,0,[X]Paranoid schizophrenia,Feb-09,[X]Paranoid schizophrenia
+Eu20011,50060,19,0,0,0,[X]Paraphrenic schizophrenia,Feb-09,[X]Paraphrenic schizophrenia
+Eu20100,43405,37,0,0,0,[X]Hebephrenic schizophrenia,Feb-09,[X]Hebephrenic schizophrenia
+Eu20111,53985,8,0,1,0,[X]Disorganised schizophrenia,Feb-09,[X]Disorganised schizophrenia
+Eu20200,61501,27,0,0,0,[X]Catatonic schizophrenia,Feb-09,[X]Catatonic schizophrenia
+Eu20211,20572,111,0,7,0,[X]Catatonic stupor,Feb-09,[X]Catatonic stupor
+Eu20212,64533,4,0,0,0,[X]Schizophrenic catalepsy,Feb-09,[X]Schizophrenic catalepsy
+Eu20213,35877,80,0,2,0,[X]Schizophrenic catatonia,Feb-09,[X]Schizophrenic catatonia
+Eu20214,31493,2,0,0,0,[X]Schizophrenic flexibilatis cerea,Feb-09,[X]Schizophrenic flexibilatis cerea
+Eu20300,60013,65,0,0,0,[X]Undifferentiated schizophrenia,Feb-09,[X]Undifferentiated schizophrenia
+Eu20311,91547,4,0,0,0,[X]Atypical schizophrenia,Feb-09,[X]Atypical schizophrenia
+Eu20400,20785,63,0,0,0,[X]Post-schizophrenic depression,Feb-09,[X]Post-schizophrenic depression
+Eu20500,64264,37,0,0,0,[X]Residual schizophrenia,Feb-09,[X]Residual schizophrenia
+Eu20511,24107,632,0,23,0,[X]Chronic undifferentiated schizophrenia,Feb-09,[X]Chronic undifferentiated schizophrenia
+Eu20600,35848,189,0,6,0,[X]Simple schizophrenia,Feb-09,[X]Simple schizophrenia
+Eu20y00,49420,46,0,1,0,[X]Other schizophrenia,Feb-09,[X]Other schizophrenia
+Eu20y12,94001,16,0,0,0,[X]Schizophreniform disord NOS,Feb-09,[X]Schizophreniform disord NOS
+Eu20y13,18053,169,0,19,0,[X]Schizophrenifrm psychos NOS,Feb-09,[X]Schizophrenifrm psychos NOS
+Eu20z00,34966,245,0,2,0,"[X]Schizophrenia, unspecified",Feb-09,[X]Schizophrenia; unspecified
+Eu21.00,39316,268,0,1,0,[X]Schizotypal disorder,Feb-09,[X]Schizotypal disorder
+Eu21.11,91511,6,0,0,0,[X]Latent schizophrenic reaction,Feb-09,[X]Latent schizophrenic reaction
+Eu21.12,54387,17,0,0,0,[X]Borderline schizophrenia,Feb-09,[X]Borderline schizophrenia
+Eu21.13,64993,3,0,0,0,[X]Latent schizophrenia,Feb-09,[X]Latent schizophrenia
+Eu21.14,62449,5,0,0,0,[X]Prepsychotic schizophrenia,Feb-09,[X]Prepsychotic schizophrenia
+Eu21.15,40386,31,0,0,0,[X]Prodromal schizophrenia,Feb-09,[X]Prodromal schizophrenia
+Eu21.16,49852,8,0,0,0,[X]Pseudoneurotic schizophrenia,Feb-09,[X]Pseudoneurotic schizophrenia
+Eu21.17,71250,1,0,0,0,[X]Pseudopsychopathic schizophrenia,Feb-09,[X]Pseudopsychopathic schizophrenia
+Eu21.18,26859,123,0,6,0,[X]Schizotypal personality disorder,Feb-09,[X]Schizotypal personality disorder
+Eu22.00,28562,796,0,7,0,[X]Persistent delusional disorders,Feb-09,[X]Persistent delusional disorders
+Eu22000,34389,2093,0,39,0,[X]Delusional disorder,Feb-09,[X]Delusional disorder
+Eu22011,2113,11843,0,741,1,[X]Paranoid psychosis,Feb-09,[X]Paranoid psychosis
+Eu22012,11172,2124,0,211,0,[X]Paranoid state,Feb-09,[X]Paranoid state
+Eu22013,47947,73,0,0,0,[X]Paraphrenia - late,Feb-09,[X]Paraphrenia - late
+Eu22014,65127,9,0,0,0,[X]Sensitiver Beziehungswahn,Feb-09,[X]Sensitiver Beziehungswahn
+Eu22015,4843,13199,0,1902,0,[X]Paranoia,Feb-09,[X]Paranoia
+Eu22100,62405,7,0,0,0,[X]Delusional misidentification syndrome,Feb-09,[X]Delusional misidentification syndrome
+Eu22111,55221,50,0,1,0,[X]Capgras syndrome,Feb-09,[X]Capgras syndrome
+Eu22200,98821,7,0,1,0,[X]Cotard syndrome,Mar-10,[X]Cotard syndrome
+Eu22300,101720,1888,0,3,0,[X]Paranoid state in remission,Feb-11,[X]Paranoid state in remission
+Eu22y00,66077,33,0,0,0,[X]Other persistent delusional disorders,Feb-09,[X]Other persistent delusional disorders
+Eu22y11,40981,154,0,7,0,[X]Delusional dysmorphophobia,Feb-09,[X]Delusional dysmorphophobia
+Eu22y12,50248,11,0,0,0,[X]Involutional paranoid state,Feb-09,[X]Involutional paranoid state
+Eu22y13,55236,8,0,2,0,[X]Paranoia querulans,Feb-09,[X]Paranoia querulans
+Eu22z00,49223,130,0,1,0,"[X]Persistent delusional disorder, unspecified",Feb-09,[X]Persistent delusional disorder; unspecified
+Eu23.00,25019,1939,0,32,0,[X]Acute and transient psychotic disorders,Feb-09,[X]Acute and transient psychotic disorders
+Eu23000,36720,236,0,0,0,[X]Acute polymorphic psychot disord without symp of schizoph,Feb-09,[X]Acute polymorphic psychot disord without symp of schizoph
+Eu23011,50023,1,0,1,0,[X]Bouffee delirante,Feb-09,[X]Bouffee delirante
+Eu23012,21455,45,0,2,0,[X]Cycloid psychosis,Feb-09,[X]Cycloid psychosis
+Eu23100,21595,170,0,1,0,[X]Acute polymorphic psychot disord with symp of schizophren,Feb-09,[X]Acute polymorphic psychot disord with symp of schizophren
+Eu23112,26143,12,0,4,0,[X]Cycloid psychosis with symptoms of schizophrenia,Feb-09,[X]Cycloid psychosis with symptoms of schizophrenia
+Eu23200,11778,176,0,2,0,[X]Acute schizophrenia-like psychotic disorder,Feb-09,[X]Acute schizophrenia-like psychotic disorder
+Eu23211,59096,4,0,0,0,[X]Brief schizophreniform disorder,Feb-09,[X]Brief schizophreniform disorder
+Eu23212,70884,4,0,0,0,[X]Brief schizophrenifrm psych,Feb-09,[X]Brief schizophrenifrm psych
+Eu23214,94604,19,0,0,0,[X]Schizophrenic reaction,Feb-09,[X]Schizophrenic reaction
+Eu23300,44307,95,0,3,0,[X]Other acute predominantly delusional psychotic disorders,Feb-09,[X]Other acute predominantly delusional psychotic disorders
+Eu23312,27770,184,0,8,0,[X]Psychogenic paranoid psychosis,Feb-09,[X]Psychogenic paranoid psychosis
+Eu23y00,44503,72,0,3,0,[X]Other acute and transient psychotic disorders,Feb-09,[X]Other acute and transient psychotic disorders
+Eu23z00,34168,298,0,4,0,"[X]Acute and transient psychotic disorder, unspecified",Feb-09,[X]Acute and transient psychotic disorder; unspecified
+Eu23z11,31707,156,0,2,0,[X]Brief reactive psychosis NOS,Feb-09,[X]Brief reactive psychosis NOS
+Eu23z12,29651,446,0,19,0,[X]Reactive psychosis,Feb-09,[X]Reactive psychosis
+Eu24.00,51302,101,0,0,0,[X]Induced delusional disorder,Feb-09,[X]Induced delusional disorder
+Eu24.12,47230,30,0,1,0,[X]Induced paranoid disorder,Feb-09,[X]Induced paranoid disorder
+Eu24.13,11973,285,0,1,0,[X]Induced psychotic disorder,Feb-09,[X]Induced psychotic disorder
+Eu25.00,9422,11498,0,329,0,[X]Schizoaffective disorders,Feb-09,[X]Schizoaffective disorders
+Eu25000,33847,175,0,0,0,"[X]Schizoaffective disorder, manic type",Feb-09,[X]Schizoaffective disorder; manic type
+Eu25011,16905,59,0,2,0,"[X]Schizoaffective psychosis, manic type",Feb-09,[X]Schizoaffective psychosis; manic type
+Eu25012,51903,51,0,1,0,"[X]Schizophreniform psychosis, manic type",Feb-09,[X]Schizophreniform psychosis; manic type
+Eu25100,11055,526,0,4,0,"[X]Schizoaffective disorder, depressive type",Feb-09,[X]Schizoaffective disorder; depressive type
+Eu25111,35274,135,0,7,0,"[X]Schizoaffective psychosis, depressive type",Feb-09,[X]Schizoaffective psychosis; depressive type
+Eu25112,41022,49,0,0,0,"[X]Schizophreniform psychosis, depressive type",Feb-09,[X]Schizophreniform psychosis; depressive type
+Eu25200,33693,287,0,1,0,"[X]Schizoaffective disorder, mixed type",Feb-09,[X]Schizoaffective disorder; mixed type
+Eu25212,37580,146,0,5,0,[X]Mixed schizophrenic and affective psychosis,Feb-09,[X]Mixed schizophrenic and affective psychosis
+Eu25y00,58532,50,0,0,0,[X]Other schizoaffective disorders,Feb-09,[X]Other schizoaffective disorders
+Eu25z00,37681,841,0,1,0,"[X]Schizoaffective disorder, unspecified",Feb-09,[X]Schizoaffective disorder; unspecified
+Eu25z11,33410,271,0,7,0,[X]Schizoaffective psychosis NOS,Feb-09,[X]Schizoaffective psychosis NOS
+Eu26.00,101987,1581,0,1,0,[X]Nonorganic psychosis in remission,Apr-11,[X]Nonorganic psychosis in remission
+Eu2y.00,30985,396,0,6,0,[X]Other nonorganic psychotic disorders,Feb-09,[X]Other nonorganic psychotic disorders
+Eu2y.11,31738,132,0,10,0,[X]Chronic hallucinatory psychosis,Feb-09,[X]Chronic hallucinatory psychosis
+Eu2z.00,11244,1325,0,16,0,[X]Unspecified nonorganic psychosis,Feb-09,[X]Unspecified nonorganic psychosis
+Eu2z.11,694,22254,0,1801,3,[X]Psychosis NOS,Feb-09,[X]Psychosis NOS
+Eu30.00,12173,2738,0,59,0,[X]Manic episode,Feb-09,[X]Manic episode
+Eu30.11,9521,939,0,70,0,"[X]Bipolar disorder, single manic episode",Feb-09,[X]Bipolar disorder; single manic episode
+Eu30000,2741,16355,0,1204,3,[X]Hypomania,Feb-09,[X]Hypomania
+Eu30100,13024,1093,0,126,0,[X]Mania without psychotic symptoms,Feb-09,[X]Mania without psychotic symptoms
+Eu30200,21065,1004,0,38,0,[X]Mania with psychotic symptoms,Feb-09,[X]Mania with psychotic symptoms
+Eu30211,37102,36,0,4,0,[X]Mania with mood-congruent psychotic symptoms,Feb-09,[X]Mania with mood-congruent psychotic symptoms
+Eu30212,48632,22,0,0,0,[X]Mania with mood-incongruent psychotic symptoms,Feb-09,[X]Mania with mood-incongruent psychotic symptoms
+Eu30y00,32088,44,0,0,0,[X]Other manic episodes,Feb-09,[X]Other manic episodes
+Eu30z00,44513,284,0,3,0,"[X]Manic episode, unspecified",Feb-09,[X]Manic episode; unspecified
+Eu30z11,4678,2082,0,249,0,[X]Mania NOS,Feb-09,[X]Mania NOS
+Eu31.00,6874,56096,0,2004,0,[X]Bipolar affective disorder,Feb-09,[X]Bipolar affective disorder
+Eu31.11,1531,8605,0,756,14,[X]Manic-depressive illness,Feb-09,[X]Manic-depressive illness
+Eu31.12,6710,1694,0,35,0,[X]Manic-depressive psychosis,Feb-09,[X]Manic-depressive psychosis
+Eu31.13,66153,25,0,1,0,[X]Manic-depressive reaction,Feb-09,[X]Manic-depressive reaction
+Eu31000,16808,1176,0,19,0,"[X]Bipolar affective disorder, current episode hypomanic",Feb-09,[X]Bipolar affective disorder; current episode hypomanic
+Eu31100,26299,77,0,0,0,[X]Bipolar affect disorder cur epi manic wout psychotic symp,Feb-09,[X]Bipolar affect disorder cur epi manic wout psychotic symp
+Eu31200,28277,183,0,1,0,[X]Bipolar affect disorder cur epi manic with psychotic symp,Feb-09,[X]Bipolar affect disorder cur epi manic with psychotic symp
+Eu31300,16562,498,0,9,0,[X]Bipolar affect disorder cur epi mild or moderate depressn,Feb-09,[X]Bipolar affect disorder cur epi mild or moderate depressn
+Eu31400,23713,135,0,9,0,"[X]Bipol aff disord, curr epis sev depress, no psychot symp",Feb-09,[X]Bipol aff disord; curr epis sev depress; no psychot symp
+Eu31500,4732,123,0,2,1,[X]Bipolar affect dis cur epi severe depres with psyc symp,Feb-09,[X]Bipolar affect dis cur epi severe depres with psyc symp
+Eu31600,44693,149,0,4,0,"[X]Bipolar affective disorder, current episode mixed",Feb-09,[X]Bipolar affective disorder; current episode mixed
+Eu31700,27584,1998,0,2,0,"[X]Bipolar affective disorder, currently in remission",Feb-09,[X]Bipolar affective disorder; currently in remission
+Eu31800,104065,37,0,0,0,[X]Bipolar affective disorder type I,May-12,
+Eu31900,103915,479,0,2,0,[X]Bipolar affective disorder type II,Mar-12,
+Eu31911,104051,45,0,0,0,[X]Bipolar II disorder,May-12,
+Eu31y00,53840,137,0,1,0,[X]Other bipolar affective disorders,Feb-09,[X]Other bipolar affective disorders
+Eu31y11,73924,140,0,1,0,[X]Bipolar II disorder,Feb-09,[X]Bipolar II disorder
+Eu31y12,51032,170,0,8,0,[X]Recurrent manic episodes,Feb-09,[X]Recurrent manic episodes
+Eu31z00,33751,791,0,5,0,"[X]Bipolar affective disorder, unspecified",Feb-09,[X]Bipolar affective disorder; unspecified
+Eu32300,12099,5546,0,85,0,[X]Severe depressive episode with psychotic symptoms,Feb-09,[X]Severe depressive episode with psychotic symptoms
+Eu32311,24117,271,0,18,0,[X]Single episode of major depression and psychotic symptoms,Feb-09,[X]Single episode of major depression and psychotic symptoms
+Eu32312,52678,61,0,4,0,[X]Single episode of psychogenic depressive psychosis,Feb-09,[X]Single episode of psychogenic depressive psychosis
+Eu32313,24112,777,0,12,0,[X]Single episode of psychotic depression,Feb-09,[X]Single episode of psychotic depression
+Eu32314,28863,185,0,4,0,[X]Single episode of reactive depressive psychosis,Feb-09,[X]Single episode of reactive depressive psychosis
+Eu32800,98417,447,0,5,0,"[X]Major depression, severe with psychotic symptoms",Jan-10,[X]Major depression; severe with psychotic symptoms
+Eu33213,29451,133,0,7,0,"[X]Manic-depress psychosis,depressd,no psychotic symptoms",Feb-09,[X]Manic-depress psychosis;depressd;no psychotic symptoms
+Eu33300,47009,1133,0,11,0,[X]Recurrent depress disorder cur epi severe with psyc symp,Feb-09,[X]Recurrent depress disorder cur epi severe with psyc symp
+Eu33311,23731,536,0,25,0,[X]Endogenous depression with psychotic symptoms,Feb-09,[X]Endogenous depression with psychotic symptoms
+Eu33312,28677,142,0,2,0,"[X]Manic-depress psychosis,depressed type+psychotic symptoms",Feb-09,[X]Manic-depress psychosis;depressed type+psychotic symptoms
+Eu33313,32941,347,0,24,0,[X]Recurr severe episodes/major depression+psychotic symptom,Feb-09,[X]Recurr severe episodes/major depression+psychotic symptom
+Eu33314,31757,52,0,3,0,[X]Recurr severe episodes/psychogenic depressive psychosis,Feb-09,[X]Recurr severe episodes/psychogenic depressive psychosis
+Eu33315,16861,463,0,15,0,[X]Recurrent severe episodes of psychotic depression,Feb-09,[X]Recurrent severe episodes of psychotic depression
+Eu33316,37764,91,0,7,0,[X]Recurrent severe episodes/reactive depressive psychosis,Feb-09,[X]Recurrent severe episodes/reactive depressive psychosis
+Eu3z.11,31633,226,0,6,0,[X]Affective psychosis NOS,Feb-09,[X]Affective psychosis NOS
+Eu44.14,28168,95,0,2,0,[X]Hysterical psychosis,Feb-09,[X]Hysterical psychosis

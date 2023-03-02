@@ -1,0 +1,188 @@
+readcode,medcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild,description
+1465,2716,NA,NA,NA,NA,NA,NA,H/O: depression
+1B17.00,1996,487649,0,16936,0,Depressed,Feb-09,Depressed
+1B17.00,1996,487649,0,16936,0,Depressed,Feb-09,Depressed
+1B17.11,4824,341299,0,14047,0,C/O - feeling depressed,Feb-09,C/O - feeling depressed
+1B1U.00,9796,249326,0,10738,0,Symptoms of depression,Feb-09,Symptoms of depression
+1B1U.11,10438,31100,0,1655,0,Depressive symptoms,Feb-09,Depressive symptoms
+1BT..00,10015,451363,0,14107,0,Depressed mood,Feb-09,Depressed mood
+212S.00,19439,67316,0,95,0,Depression resolved,Feb-09,Depression resolved
+212S.00,19439,67316,0,95,0,Depression resolved,Feb-09,Depression resolved
+2257,1908,NA,NA,NA,NA,NA,NA,O/E - depressed
+62T1.00,2923,10061,0,476,0,Puerperal depression,Feb-09,Puerperal depression
+62T1.00,2923,10061,0,476,0,Puerperal depression,Feb-09,Puerperal depression
+8CAa.00,30483,47172,0,8,0,Patient given advice about management of depression,Feb-09,Patient given advice about management of depression
+8HHq.00,32841,1918,0,970,0,Referral for guided self-help for depression,Feb-09,Referral for guided self-help for depression
+9H90.00,12399,24867,0,89,0,Depression annual review,Feb-09,Depression annual review
+9H91.00,12122,103986,0,245,0,Depression medication review,Feb-09,Depression medication review
+9H92.00,30405,777209,0,5408,0,Depression interim review,Feb-09,Depression interim review
+9HA0.00,42931,15330,0,3,0,On depression register,Feb-09,On depression register
+9HA1.00,44936,4013,0,0,0,Removed from depression register,Feb-09,Removed from depression register
+9HA1.00,44936,4013,0,0,0,Removed from depression register,Feb-09,Removed from depression register
+E001300,27677,129,0,5,0,Presenile dementia with depression,Feb-09,Presenile dementia with depression
+E001300,27677,129,0,5,0,Presenile dementia with depression,Feb-09,Presenile dementia with depression
+E002100,21887,807,0,48,0,Senile dementia with depression,Feb-09,Senile dementia with depression
+E002100,21887,807,0,48,0,Senile dementia with depression,Feb-09,Senile dementia with depression
+E004300,43292,111,0,1,0,Arteriosclerotic dementia with depression,Feb-09,Arteriosclerotic dementia with depression
+E004300,43292,111,0,1,0,Arteriosclerotic dementia with depression,Feb-09,Arteriosclerotic dementia with depression
+E112.00,10610,52158,0,1077,0,Single major depressive episode,Feb-09,Single major depressive episode
+E112.00,10610,52158,0,1077,0,Single major depressive episode,Feb-09,Single major depressive episode
+E112.11,5879,49800,0,3832,0,Agitated depression,Feb-09,Agitated depression
+E112.11,5879,49800,0,3832,0,Agitated depression,Feb-09,Agitated depression
+E112.12,6546,18129,0,354,0,Endogenous depression first episode,Feb-09,Endogenous depression first episode
+E112.12,6546,18129,0,354,0,Endogenous depression first episode,Feb-09,Endogenous depression first episode
+E112.13,6950,76955,0,4285,0,Endogenous depression first episode,Feb-09,Endogenous depression first episode
+E112.13,6950,76955,0,4285,0,Endogenous depression first episode,Feb-09,Endogenous depression first episode
+E112.14,595,67424,0,2540,0,Endogenous depression,Feb-09,Endogenous depression
+E112.14,595,67424,0,2540,0,Endogenous depression,Feb-09,Endogenous depression
+E112000,34390,1693,0,17,0,"Single major depressive episode, unspecified",Feb-09,Single major depressive episode; unspecified
+E112000,34390,1693,0,17,0,"Single major depressive episode, unspecified",Feb-09,Single major depressive episode; unspecified
+E112100,16506,9199,0,191,0,"Single major depressive episode, mild",Feb-09,Single major depressive episode; mild
+E112100,16506,9199,0,191,0,"Single major depressive episode, mild",Feb-09,Single major depressive episode; mild
+E112200,15155,12724,0,170,0,"Single major depressive episode, moderate",Feb-09,Single major depressive episode; moderate
+E112200,15155,12724,0,170,0,"Single major depressive episode, moderate",Feb-09,Single major depressive episode; moderate
+E112300,15219,2802,0,41,0,"Single major depressive episode, severe, without psychosis",Feb-09,Single major depressive episode; severe; without psychosis
+E112300,15219,2802,0,41,0,"Single major depressive episode, severe, without psychosis",Feb-09,Single major depressive episode; severe; without psychosis
+E112500,43324,322,0,5,0,"Single major depressive episode, partial or unspec remission",Feb-09,Single major depressive episode; partial or unspec remission
+E112500,43324,322,0,5,0,"Single major depressive episode, partial or unspec remission",Feb-09,Single major depressive episode; partial or unspec remission
+E112600,57409,167,0,2,0,"Single major depressive episode, in full remission",Feb-09,Single major depressive episode; in full remission
+E112600,57409,167,0,2,0,"Single major depressive episode, in full remission",Feb-09,Single major depressive episode; in full remission
+E112z00,7011,2742,0,287,0,Single major depressive episode NOS,Feb-09,Single major depressive episode NOS
+E112z00,7011,2742,0,287,0,Single major depressive episode NOS,Feb-09,Single major depressive episode NOS
+E113.00,15099,20177,0,753,0,Recurrent major depressive episode,Feb-09,Recurrent major depressive episode
+E113.00,15099,20177,0,753,0,Recurrent major depressive episode,Feb-09,Recurrent major depressive episode
+E113.11,6932,98864,0,4752,0,Endogenous depression - recurrent,Feb-09,Endogenous depression - recurrent
+E113.11,6932,98864,0,4752,0,Endogenous depression - recurrent,Feb-09,Endogenous depression - recurrent
+E113000,35671,645,0,12,0,"Recurrent major depressive episodes, unspecified",Feb-09,Recurrent major depressive episodes; unspecified
+E113000,35671,645,0,12,0,"Recurrent major depressive episodes, unspecified",Feb-09,Recurrent major depressive episodes; unspecified
+E113100,29342,3335,0,25,0,"Recurrent major depressive episodes, mild",Feb-09,Recurrent major depressive episodes; mild
+E113100,29342,3335,0,25,0,"Recurrent major depressive episodes, mild",Feb-09,Recurrent major depressive episodes; mild
+E113200,14709,12940,0,318,0,"Recurrent major depressive episodes, moderate",Feb-09,Recurrent major depressive episodes; moderate
+E113200,14709,12940,0,318,0,"Recurrent major depressive episodes, moderate",Feb-09,Recurrent major depressive episodes; moderate
+E113300,25697,2339,0,33,0,"Recurrent major depressive episodes, severe, no psychosis",Feb-09,Recurrent major depressive episodes; severe; no psychosis
+E113300,25697,2339,0,33,0,"Recurrent major depressive episodes, severe, no psychosis",Feb-09,Recurrent major depressive episodes; severe; no psychosis
+E113500,56273,231,0,9,0,"Recurrent major depressive episodes,partial/unspec remission",Feb-09,Recurrent major depressive episodes;partial/unspec remission
+E113500,56273,231,0,9,0,"Recurrent major depressive episodes,partial/unspec remission",Feb-09,Recurrent major depressive episodes;partial/unspec remission
+E113600,55384,519,0,1,0,"Recurrent major depressive episodes, in full remission",Feb-09,Recurrent major depressive episodes; in full remission
+E113600,55384,519,0,1,0,"Recurrent major depressive episodes, in full remission",Feb-09,Recurrent major depressive episodes; in full remission
+E113700,6482,57468,0,1970,0,Recurrent depression,Feb-09,Recurrent depression
+E113700,6482,57468,0,1970,0,Recurrent depression,Feb-09,Recurrent depression
+E113z00,25563,2099,0,11,0,Recurrent major depressive episode NOS,Feb-09,Recurrent major depressive episode NOS
+E113z00,25563,2099,0,11,0,Recurrent major depressive episode NOS,Feb-09,Recurrent major depressive episode NOS
+E118.00,10825,4395,0,52,0,Seasonal affective disorder,Feb-09,Seasonal affective disorder
+E118.00,10825,4395,0,52,0,Seasonal affective disorder,Feb-09,Seasonal affective disorder
+E11y200,27491,232,0,13,0,Atypical depressive disorder,Feb-09,Atypical depressive disorder
+E11y200,27491,232,0,13,0,Atypical depressive disorder,Feb-09,Atypical depressive disorder
+E11z200,9183,3739,0,78,0,Masked depression,Feb-09,Masked depression
+E11z200,9183,3739,0,78,0,Masked depression,Feb-09,Masked depression
+E135.00,1055,50628,0,2977,0,Agitated depression,Feb-09,Agitated depression
+E135.00,1055,50628,0,2977,0,Agitated depression,Feb-09,Agitated depression
+E200300,655,961053,0,27566,5,Anxiety with depression,Feb-09,Anxiety with depression
+E200300,655,961053,0,27566,5,Anxiety with depression,Feb-09,Anxiety with depression
+E204.00,1131,270938,0,7859,2,Neurotic depression reactive type,Feb-09,Neurotic depression reactive type
+E204.00,1131,270938,0,7859,2,Neurotic depression reactive type,Feb-09,Neurotic depression reactive type
+E204.11,2639,158413,0,4422,5,Postnatal depression,Feb-09,Postnatal depression
+E204.11,2639,158413,0,4422,5,Postnatal depression,Feb-09,Postnatal depression
+E211200,10455,4214,0,198,0,Depressive personality disorder,Feb-09,Depressive personality disorder
+E290.00,1533,4392,0,371,0,Brief depressive reaction,Feb-09,Brief depressive reaction
+E290.00,1533,4392,0,371,0,Brief depressive reaction,Feb-09,Brief depressive reaction
+E290z00,36246,153,0,1,0,Brief depressive reaction NOS,Feb-09,Brief depressive reaction NOS
+E290z00,36246,153,0,1,0,Brief depressive reaction NOS,Feb-09,Brief depressive reaction NOS
+E291.00,16632,2687,0,122,0,Prolonged depressive reaction,Feb-09,Prolonged depressive reaction
+E291.00,16632,2687,0,122,0,Prolonged depressive reaction,Feb-09,Prolonged depressive reaction
+E2B..00,324,2013192,0,90742,94,Depressive disorder NEC,Feb-09,Depressive disorder NEC
+E2B..00,324,2013192,0,90742,94,Depressive disorder NEC,Feb-09,Depressive disorder NEC
+E2B0.00,2972,1456,0,33,0,Postviral depression,Feb-09,Postviral depression
+E2B0.00,2972,1456,0,33,0,Postviral depression,Feb-09,Postviral depression
+E2B1.00,4323,62660,0,1929,2,Chronic depression,Feb-09,Chronic depression
+E2B1.00,4323,62660,0,1929,2,Chronic depression,Feb-09,Chronic depression
+Eu32.00,4639,430442,0,5947,0,[X]Depressive episode,Feb-09,[X]Depressive episode
+Eu32.00,4639,430442,0,5947,0,[X]Depressive episode,Feb-09,[X]Depressive episode
+Eu32.11,9055,9996,0,145,0,[X]Single episode of depressive reaction,Feb-09,[X]Single episode of depressive reaction
+Eu32.11,9055,9996,0,145,0,[X]Single episode of depressive reaction,Feb-09,[X]Single episode of depressive reaction
+Eu32.12,18510,571,0,25,0,[X]Single episode of psychogenic depression,Feb-09,[X]Single episode of psychogenic depression
+Eu32.12,18510,571,0,25,0,[X]Single episode of psychogenic depression,Feb-09,[X]Single episode of psychogenic depression
+Eu32.13,7604,7695,0,138,0,[X]Single episode of reactive depression,Feb-09,[X]Single episode of reactive depression
+Eu32.13,7604,7695,0,138,0,[X]Single episode of reactive depression,Feb-09,[X]Single episode of reactive depression
+Eu32000,11717,47153,0,862,0,[X]Mild depressive episode,Feb-09,[X]Mild depressive episode
+Eu32000,11717,47153,0,862,0,[X]Mild depressive episode,Feb-09,[X]Mild depressive episode
+Eu32100,9211,105970,0,2304,0,[X]Moderate depressive episode,Feb-09,[X]Moderate depressive episode
+Eu32100,9211,105970,0,2304,0,[X]Moderate depressive episode,Feb-09,[X]Moderate depressive episode
+Eu32200,9667,27725,0,586,0,[X]Severe depressive episode without psychotic symptoms,Feb-09,[X]Severe depressive episode without psychotic symptoms
+Eu32200,9667,27725,0,586,0,[X]Severe depressive episode without psychotic symptoms,Feb-09,[X]Severe depressive episode without psychotic symptoms
+Eu32211,41989,166,0,2,0,[X]Single episode agitated depressn w'out psychotic symptoms,Feb-09,[X]Single episode agitated depressn w'out psychotic symptoms
+Eu32211,41989,166,0,2,0,[X]Single episode agitated depressn w'out psychotic symptoms,Feb-09,[X]Single episode agitated depressn w'out psychotic symptoms
+Eu32212,22806,2833,0,30,0,[X]Single episode major depression w'out psychotic symptoms,Feb-09,[X]Single episode major depression w'out psychotic symptoms
+Eu32212,22806,2833,0,30,0,[X]Single episode major depression w'out psychotic symptoms,Feb-09,[X]Single episode major depression w'out psychotic symptoms
+Eu32213,59386,64,0,1,0,[X]Single episode vital depression w'out psychotic symptoms,Feb-09,[X]Single episode vital depression w'out psychotic symptoms
+Eu32213,59386,64,0,1,0,[X]Single episode vital depression w'out psychotic symptoms,Feb-09,[X]Single episode vital depression w'out psychotic symptoms
+Eu32400,10667,17631,0,150,0,[X]Mild depression,Feb-09,[X]Mild depression
+Eu32400,10667,17631,0,150,0,[X]Mild depression,Feb-09,[X]Mild depression
+Eu32y00,6854,3425,0,43,0,[X]Other depressive episodes,Feb-09,[X]Other depressive episodes
+Eu32y00,6854,3425,0,43,0,[X]Other depressive episodes,Feb-09,[X]Other depressive episodes
+Eu32y11,10720,418,0,6,0,[X]Atypical depression,Feb-09,[X]Atypical depression
+Eu32y11,10720,418,0,6,0,[X]Atypical depression,Feb-09,[X]Atypical depression
+Eu32y12,56609,115,0,1,0,[X]Single episode of masked depression NOS,Feb-09,[X]Single episode of masked depression NOS
+Eu32y12,56609,115,0,1,0,[X]Single episode of masked depression NOS,Feb-09,[X]Single episode of masked depression NOS
+Eu32z00,2970,131143,0,2101,0,"[X]Depressive episode, unspecified",Feb-09,[X]Depressive episode; unspecified
+Eu32z00,2970,131143,0,2101,0,"[X]Depressive episode, unspecified",Feb-09,[X]Depressive episode; unspecified
+Eu32z11,543,852943,0,22212,0,[X]Depression NOS,Feb-09,[X]Depression NOS
+Eu32z11,543,852943,0,22212,0,[X]Depression NOS,Feb-09,[X]Depression NOS
+Eu32z12,3291,18652,0,469,0,[X]Depressive disorder NOS,Feb-09,[X]Depressive disorder NOS
+Eu32z12,3291,18652,0,469,0,[X]Depressive disorder NOS,Feb-09,[X]Depressive disorder NOS
+Eu32z13,28248,602,0,20,0,[X]Prolonged single episode of reactive depression,Feb-09,[X]Prolonged single episode of reactive depression
+Eu32z13,28248,602,0,20,0,[X]Prolonged single episode of reactive depression,Feb-09,[X]Prolonged single episode of reactive depression
+Eu32z14,5987,96338,0,2025,0,[X] Reactive depression NOS,Feb-09,[X] Reactive depression NOS
+Eu32z14,5987,96338,0,2025,0,[X] Reactive depression NOS,Feb-09,[X] Reactive depression NOS
+Eu33.00,3292,48370,0,618,0,[X]Recurrent depressive disorder,Feb-09,[X]Recurrent depressive disorder
+Eu33.00,3292,48370,0,618,0,[X]Recurrent depressive disorder,Feb-09,[X]Recurrent depressive disorder
+Eu33.11,8851,3099,0,38,0,[X]Recurrent episodes of depressive reaction,Feb-09,[X]Recurrent episodes of depressive reaction
+Eu33.11,8851,3099,0,38,0,[X]Recurrent episodes of depressive reaction,Feb-09,[X]Recurrent episodes of depressive reaction
+Eu33.12,19696,774,0,27,0,[X]Recurrent episodes of psychogenic depression,Feb-09,[X]Recurrent episodes of psychogenic depression
+Eu33.12,19696,774,0,27,0,[X]Recurrent episodes of psychogenic depression,Feb-09,[X]Recurrent episodes of psychogenic depression
+Eu33.13,8902,3863,0,75,0,[X]Recurrent episodes of reactive depression,Feb-09,[X]Recurrent episodes of reactive depression
+Eu33.13,8902,3863,0,75,0,[X]Recurrent episodes of reactive depression,Feb-09,[X]Recurrent episodes of reactive depression
+Eu33.14,28756,139,0,2,0,[X]Seasonal depressive disorder,Feb-09,[X]Seasonal depressive disorder
+Eu33.14,28756,139,0,2,0,[X]Seasonal depressive disorder,Feb-09,[X]Seasonal depressive disorder
+Eu33.15,8826,4368,0,51,0,[X]SAD - Seasonal affective disorder,Feb-09,[X]SAD - Seasonal affective disorder
+Eu33.15,8826,4368,0,51,0,[X]SAD - Seasonal affective disorder,Feb-09,[X]SAD - Seasonal affective disorder
+Eu33000,29784,2796,0,16,0,"[X]Recurrent depressive disorder, current episode mild",Feb-09,[X]Recurrent depressive disorder; current episode mild
+Eu33000,29784,2796,0,16,0,"[X]Recurrent depressive disorder, current episode mild",Feb-09,[X]Recurrent depressive disorder; current episode mild
+Eu33100,29520,7784,0,79,0,"[X]Recurrent depressive disorder, current episode moderate",Feb-09,[X]Recurrent depressive disorder; current episode moderate
+Eu33100,29520,7784,0,79,0,"[X]Recurrent depressive disorder, current episode moderate",Feb-09,[X]Recurrent depressive disorder; current episode moderate
+Eu33200,33469,1904,0,39,0,[X]Recurr depress disorder cur epi severe without psyc sympt,Feb-09,[X]Recurr depress disorder cur epi severe without psyc sympt
+Eu33200,33469,1904,0,39,0,[X]Recurr depress disorder cur epi severe without psyc sympt,Feb-09,[X]Recurr depress disorder cur epi severe without psyc sympt
+Eu33211,11329,1182,0,18,0,[X]Endogenous depression without psychotic symptoms,Feb-09,[X]Endogenous depression without psychotic symptoms
+Eu33211,11329,1182,0,18,0,[X]Endogenous depression without psychotic symptoms,Feb-09,[X]Endogenous depression without psychotic symptoms
+Eu33212,11252,397,0,16,0,"[X]Major depression, recurrent without psychotic symptoms",Feb-09,[X]Major depression; recurrent without psychotic symptoms
+Eu33212,11252,397,0,16,0,"[X]Major depression, recurrent without psychotic symptoms",Feb-09,[X]Major depression; recurrent without psychotic symptoms
+Eu33214,73991,20,0,0,0,"[X]Vital depression, recurrent without psychotic symptoms",Feb-09,[X]Vital depression; recurrent without psychotic symptoms
+Eu33214,73991,20,0,0,0,"[X]Vital depression, recurrent without psychotic symptoms",Feb-09,[X]Vital depression; recurrent without psychotic symptoms
+Eu33400,22116,716,0,2,0,"[X]Recurrent depressive disorder, currently in remission",Feb-09,[X]Recurrent depressive disorder; currently in remission
+Eu33400,22116,716,0,2,0,"[X]Recurrent depressive disorder, currently in remission",Feb-09,[X]Recurrent depressive disorder; currently in remission
+Eu33y00,47731,270,0,3,0,[X]Other recurrent depressive disorders,Feb-09,[X]Other recurrent depressive disorders
+Eu33y00,47731,270,0,3,0,[X]Other recurrent depressive disorders,Feb-09,[X]Other recurrent depressive disorders
+Eu33z00,44300,3137,0,22,0,"[X]Recurrent depressive disorder, unspecified",Feb-09,[X]Recurrent depressive disorder; unspecified
+Eu33z00,44300,3137,0,22,0,"[X]Recurrent depressive disorder, unspecified",Feb-09,[X]Recurrent depressive disorder; unspecified
+Eu33z11,36616,38,0,2,0,[X]Monopolar depression NOS,Feb-09,[X]Monopolar depression NOS
+Eu33z11,36616,38,0,2,0,[X]Monopolar depression NOS,Feb-09,[X]Monopolar depression NOS
+Eu34100,7953,11177,0,182,0,[X]Dysthymia,Feb-09,[X]Dysthymia
+Eu34100,7953,11177,0,182,0,[X]Dysthymia,Feb-09,[X]Dysthymia
+Eu34111,8584,1424,0,19,0,[X]Depressive neurosis,Feb-09,[X]Depressive neurosis
+Eu34111,8584,1424,0,19,0,[X]Depressive neurosis,Feb-09,[X]Depressive neurosis
+Eu34113,7737,4381,0,20,0,[X]Neurotic depression,Feb-09,[X]Neurotic depression
+Eu34113,7737,4381,0,20,0,[X]Neurotic depression,Feb-09,[X]Neurotic depression
+Eu34114,15220,7017,0,309,0,[X]Persistant anxiety depression,Feb-09,[X]Persistant anxiety depression
+Eu34114,15220,7017,0,309,0,[X]Persistant anxiety depression,Feb-09,[X]Persistant anxiety depression
+Eu3y111,19054,247,0,1,0,[X]Recurrent brief depressive episodes,Feb-09,[X]Recurrent brief depressive episodes
+Eu3y111,19054,247,0,1,0,[X]Recurrent brief depressive episodes,Feb-09,[X]Recurrent brief depressive episodes
+Eu41200,11913,45850,0,1724,1,[X]Mixed anxiety and depressive disorder,Feb-09,[X]Mixed anxiety and depressive disorder
+Eu41200,11913,45850,0,1724,1,[X]Mixed anxiety and depressive disorder,Feb-09,[X]Mixed anxiety and depressive disorder
+Eu41211,7749,10011,0,73,0,[X]Mild anxiety depression,Feb-09,[X]Mild anxiety depression
+Eu41211,7749,10011,0,73,0,[X]Mild anxiety depression,Feb-09,[X]Mild anxiety depression
+Eu53011,13307,5872,0,76,0,[X]Postnatal depression NOS,Feb-09,[X]Postnatal depression NOS
+Eu53011,13307,5872,0,76,0,[X]Postnatal depression NOS,Feb-09,[X]Postnatal depression NOS
+Eu53012,4979,427,0,9,0,[X]Postpartum depression NOS,Feb-09,[X]Postpartum depression NOS
+Eu53012,4979,427,0,9,0,[X]Postpartum depression NOS,Feb-09,[X]Postpartum depression NOS
+Eu92000,32845,112,0,5,0,[X]Depressive conduct disorder,Feb-09,[X]Depressive conduct disorder
+Eu92000,32845,112,0,5,0,[X]Depressive conduct disorder,Feb-09,[X]Depressive conduct disorder

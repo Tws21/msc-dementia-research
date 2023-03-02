@@ -1,0 +1,8 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+   82481	47289	214	0	0	388m.00	Mini-mental state examination	February 2009
+   83484	6263	5	0	0	388m.11	MMSE score	February 2009
+   11862	9081	33	0	0	388V.00	Mini mental state score	February 2009
+   10503	4814	47	0	0	ZRaA.00	Mini-mental state examination	February 2009
+   10493	15520	112	0	0	ZRaA.11	MMSE - Mini-mental state examination	February 2009
+   59387	7	0	0	0	ZRaA100	Modified mini-mental state 3MS examination	February 2009
+   36637	51	1	0	0	ZRaA200	Modified mini-mental state examination	February 2009

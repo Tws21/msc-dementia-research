@@ -1,0 +1,6 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+   10577	20976	1168	0	0	1P5..00	Aggressive behaviour	February 2009
+   28865	997	26	0	0	1P50.00	Violent acts towards others	February 2009
+   12005	649	15	0	0	1P51.00	Physically abusive behaviour	February 2009
+    2641	15559	2423	0	0	E2C0000	Aggressive outburst	February 2009
+    8215	2662	199	0	0	R00zA00	[D]Physical violence	February 2009

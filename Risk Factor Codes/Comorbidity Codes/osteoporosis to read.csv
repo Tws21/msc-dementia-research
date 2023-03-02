@@ -1,0 +1,67 @@
+readcode,medcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild,coding_system,description,entity,list_name,upload_date
+585O.00,51891,2,0,2,29,Quantitative ultrasound scan of heel - result osteoporotic,Feb-09,Read,Quantitative ultrasound scan of heel - result osteoporotic,diagnostic,34 - Osteoporosis,24/06/2014
+58E4.00,13987,78,0,15,1182,Forearm DXA scan result osteoporotic,Feb-09,Read,Forearm DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,24/06/2014
+58E8.00,37972,15,0,1,729,Heel DXA scan T score,Feb-09,Read,Heel DXA scan T score,diagnostic,34 - Osteoporosis,07/11/2013
+58EA.00,46510,25,0,6,643,Heel DXA scan result osteoporotic,Feb-09,Read,Heel DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,07/11/2013
+58EA.00,46510,25,0,6,643,Heel DXA scan result osteoporotic,Feb-09,Read,Heel DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,24/06/2014
+58EE.00,40904,76,0,2,26683,Hip DXA scan T score,Feb-09,Read,Hip DXA scan T score,diagnostic,34 - Osteoporosis,07/11/2013
+58EG.00,42354,424,0,4,6491,Hip DXA scan result osteoporotic,Feb-09,Read,Hip DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,07/11/2013
+58EG.00,42354,424,0,4,6491,Hip DXA scan result osteoporotic,Feb-09,Read,Hip DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,24/06/2014
+58EK.00,11581,170,0,5,32848,Lumbar spine DXA scan T score,Feb-09,Read,Lumbar spine DXA scan T score,diagnostic,34 - Osteoporosis,07/11/2013
+58EM.00,39217,607,0,5,11165,Lumbar DXA scan result osteoporotic,Feb-09,Read,Lumbar DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,07/11/2013
+58EM.00,39217,607,0,5,11165,Lumbar DXA scan result osteoporotic,Feb-09,Read,Lumbar DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,24/06/2014
+58ES.00,97266,98,0,3,17288,Femoral neck DEXA scan T score,Aug-09,Read,Femoral neck DEXA scan T score,diagnostic,34 - Osteoporosis,07/11/2013
+58EV.00,96342,140,0,1,4002,Femoral neck DEXA scan result osteoporotic,Apr-09,Read,Femoral neck DEXA scan result osteoporotic,diagnostic,34 - Osteoporosis,07/11/2013
+N330.00,277,403139,0,15981,330,Osteoporosis,Feb-09,Read,Osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+N330.00,277,403139,0,15981,330,Osteoporosis,Feb-09,Read,Osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014
+N330000,14967,3051,0,142,1,"Osteoporosis, unspecified",Feb-09,Read,Osteoporosis; unspecified,diagnostic,34 - Osteoporosis,24/06/2014
+N330000,14967,3051,0,142,1,"Osteoporosis, unspecified",Feb-09,Read,Osteoporosis; unspecified,diagnostic,34 - Osteoporosis,07/11/2013
+N330100,16307,674,0,12,0,Senile osteoporosis,Feb-09,Read,Senile osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014
+N330100,16307,674,0,12,0,Senile osteoporosis,Feb-09,Read,Senile osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+N330200,9700,1500,0,76,0,Postmenopausal osteoporosis,Feb-09,Read,Postmenopausal osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014
+N330200,9700,1500,0,76,0,Postmenopausal osteoporosis,Feb-09,Read,Postmenopausal osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+N330300,40428,154,0,3,0,Idiopathic osteoporosis,Feb-09,Read,Idiopathic osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014
+N330300,40428,154,0,3,0,Idiopathic osteoporosis,Feb-09,Read,Idiopathic osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+N330400,62702,45,0,0,0,Dissuse osteoporosis,Feb-09,Read,Dissuse osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+N330400,62702,45,0,0,0,Dissuse osteoporosis,Feb-09,Read,Dissuse osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014
+N330500,24093,315,0,1,0,Drug-induced osteoporosis,Feb-09,Read,Drug-induced osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+N330500,24093,315,0,1,0,Drug-induced osteoporosis,Feb-09,Read,Drug-induced osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014
+N330600,70349,14,0,0,0,Postoophorectomy osteoporosis,Feb-09,Read,Postoophorectomy osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014
+N330600,70349,14,0,0,0,Postoophorectomy osteoporosis,Feb-09,Read,Postoophorectomy osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+N330700,93655,5,0,0,0,Postsurgical malabsorption osteoporosis,Feb-09,Read,Postsurgical malabsorption osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014
+N330700,93655,5,0,0,0,Postsurgical malabsorption osteoporosis,Feb-09,Read,Postsurgical malabsorption osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+N330800,54232,12,0,0,0,Localized osteoporosis - Lequesne,Feb-09,Read,Localized osteoporosis - Lequesne,diagnostic,34 - Osteoporosis,07/11/2013
+N330800,54232,12,0,0,0,Localized osteoporosis - Lequesne,Feb-09,Read,Localized osteoporosis - Lequesne,diagnostic,34 - Osteoporosis,24/06/2014
+N330900,60433,17,0,0,0,Osteoporosis in multiple myelomatosis,Feb-09,Read,Osteoporosis in multiple myelomatosis,diagnostic,34 - Osteoporosis,24/06/2014
+N330900,60433,17,0,0,0,Osteoporosis in multiple myelomatosis,Feb-09,Read,Osteoporosis in multiple myelomatosis,diagnostic,34 - Osteoporosis,07/11/2013
+N330A00,31580,11,0,0,0,Osteoporosis in endocrine disorders,Feb-09,Read,Osteoporosis in endocrine disorders,diagnostic,34 - Osteoporosis,24/06/2014
+N330A00,31580,11,0,0,0,Osteoporosis in endocrine disorders,Feb-09,Read,Osteoporosis in endocrine disorders,diagnostic,34 - Osteoporosis,07/11/2013
+N330B00,3346,3051,0,128,0,Vertebral osteoporosis,Feb-09,Read,Vertebral osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+N330B00,3346,3051,0,128,0,Vertebral osteoporosis,Feb-09,Read,Vertebral osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014
+N330C00,16857,658,0,7,0,Osteoporosis localized to spine,Feb-09,Read,Osteoporosis localized to spine,diagnostic,34 - Osteoporosis,07/11/2013
+N330C00,16857,658,0,7,0,Osteoporosis localized to spine,Feb-09,Read,Osteoporosis localized to spine,diagnostic,34 - Osteoporosis,24/06/2014
+N330D00,25650,81,0,2,0,Osteoporosis due to corticosteroids,Feb-09,Read,Osteoporosis due to corticosteroids,diagnostic,34 - Osteoporosis,24/06/2014
+N330D00,25650,81,0,2,0,Osteoporosis due to corticosteroids,Feb-09,Read,Osteoporosis due to corticosteroids,diagnostic,34 - Osteoporosis,07/11/2013
+N330z00,34798,6519,0,122,0,Osteoporosis NOS,Feb-09,Read,Osteoporosis NOS,diagnostic,34 - Osteoporosis,07/11/2013
+N330z00,34798,6519,0,122,0,Osteoporosis NOS,Feb-09,Read,Osteoporosis NOS,diagnostic,34 - Osteoporosis,24/06/2014
+N331200,39334,16,0,0,0,Postoophorectomy osteoporosis with pathological fracture,Feb-09,Read,Postoophorectomy osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,07/11/2013
+N331200,39334,16,0,0,0,Postoophorectomy osteoporosis with pathological fracture,Feb-09,Read,Postoophorectomy osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014
+N331300,33526,65,0,0,0,Osteoporosis of disuse with pathological fracture,Feb-09,Read,Osteoporosis of disuse with pathological fracture,diagnostic,34 - Osteoporosis,07/11/2013
+N331300,33526,65,0,0,0,Osteoporosis of disuse with pathological fracture,Feb-09,Read,Osteoporosis of disuse with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014
+N331400,68019,3,0,0,0,Postsurgical malabsorption osteoporosis with path fracture,Feb-09,Read,Postsurgical malabsorption osteoporosis with path fracture,diagnostic,34 - Osteoporosis,24/06/2014
+N331500,46894,42,0,1,0,Drug-induced osteoporosis with pathological fracture,Feb-09,Read,Drug-induced osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014
+N331600,27597,147,0,6,0,Idiopathic osteoporosis with pathological fracture,Feb-09,Read,Idiopathic osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014
+N331600,27597,147,0,6,0,Idiopathic osteoporosis with pathological fracture,Feb-09,Read,Idiopathic osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,07/11/2013
+N331800,17377,1816,0,38,0,Osteoporosis + pathological fracture lumbar vertebrae,Feb-09,Read,Osteoporosis + pathological fracture lumbar vertebrae,diagnostic,34 - Osteoporosis,24/06/2014
+N331900,12673,1621,0,49,0,Osteoporosis + pathological fracture thoracic vertebrae,Feb-09,Read,Osteoporosis + pathological fracture thoracic vertebrae,diagnostic,34 - Osteoporosis,24/06/2014
+N331A00,48772,41,0,2,0,Osteoporosis + pathological fracture cervical vertebrae,Feb-09,Read,Osteoporosis + pathological fracture cervical vertebrae,diagnostic,34 - Osteoporosis,24/06/2014
+N331B00,38395,140,0,3,0,Postmenopausal osteoporosis with pathological fracture,Feb-09,Read,Postmenopausal osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014
+N331M00,11503,10338,0,77,0,Fragility fracture due to unspecified osteoporosis,Feb-09,Read,Fragility fracture due to unspecified osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+N331N00,93497,72450,0,576,0,Fragility fracture,Feb-09,Read,Fragility fracture,diagnostic,34 - Osteoporosis,07/11/2013
+NyuB000,57301,33,0,1,0,[X]Other osteoporosis with pathological fracture,Feb-09,Read,[X]Other osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,07/11/2013
+NyuB000,57301,33,0,1,0,[X]Other osteoporosis with pathological fracture,Feb-09,Read,[X]Other osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014
+NyuB100,41755,224,0,6,0,[X]Other osteoporosis,Feb-09,Read,[X]Other osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013
+NyuB100,41755,224,0,6,0,[X]Other osteoporosis,Feb-09,Read,[X]Other osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014
+NyuB200,102730,13,0,0,0,[X]Osteoporosis in other disorders classified elsewhere,Aug-11,Read,[X]Osteoporosis in other disorders classified elsewhere,diagnostic,34 - Osteoporosis,24/06/2014
+NyuB800,18825,445,0,13,0,[X]Unspecified osteoporosis with pathological fracture,Feb-09,Read,[X]Unspecified osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,07/11/2013
+NyuB800,18825,445,0,13,0,[X]Unspecified osteoporosis with pathological fracture,Feb-09,Read,[X]Unspecified osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014

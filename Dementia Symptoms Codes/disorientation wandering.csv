@@ -1,0 +1,20 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+    9090	3165	172	0	0	1BN..00	Wandering	February 2009
+   46758	254	2	0	0	1BN0.00	Wanders during the day	February 2009
+   30385	424	13	0	0	1BN1.00	Wanders at night	February 2009
+   94508	31	0	0	0	1BN2.00	Wanders during the day and at night	February 2009
+   20683	1071	97	0	0	R00zX00	[D]Disorientation unspecified	February 2009
+   52811	8	1	0	0	Ryu5700	[X]Disorientation unspecified	February 2009
+   11735	527	24	0	0	Z7CC300	Disorientated	February 2009
+   19719	110	9	0	0	Z7CC311	Orientation confused	February 2009
+   64219	8	0	0	0	Z7CC312	Orientation poor	February 2009
+   41993	146	3	0	0	Z7CC400	Disorientated in time	February 2009
+   41994	68	2	0	0	Z7CC500	Disorientated in place	February 2009
+   66012	10	0	0	0	Z7CC600	Disorientation for person	February 2009
+   41995	6	0	0	0	Z7CC611	Disorientated in person	February 2009
+   55460	26	5	0	0	Z7CC700	Spatial disorientation	February 2009
+   44967	58	0	0	0	Z7CC900	Getting lost	February 2009
+   62110	6	0	0	0	Z7CCA00	Getting lost inside the home	February 2009
+   26009	81	4	0	0	Z7CCB00	Wandering	February 2009
+   43397	72	2	0	0	Z7CCC00	Found wandering the streets	February 2009
+   44820	12	1	0	0	Z7CMC11	Visual disorientation syndrome	February 2009

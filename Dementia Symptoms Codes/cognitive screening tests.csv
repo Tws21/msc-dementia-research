@@ -1,0 +1,20 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+  101074	2076	17	0	0	38Dv.00	GPCOG - general practitioner assessment of cognition	December 2010
+  103076	945	0	0	0	38Dv000	GPCOG (GP assessment of cognition) patient examination	October 2011
+  101710	250	0	0	0	38Dv100	GPCOG (GP assessment of cognition) informant interview	February 2011
+   35305	13038	56	0	0	3AD3.00	Six item cognitive impairment test	February 2009
+  100140	1240	1	0	0	3AF..00	Addenbrooke's cognitive examination revised	July 2010
+   50693	24	0	0	0	ZR1H.00	Allen cognitive level screening tool	February 2009
+   50815	47	0	0	0	ZR1I.00	Allen cognitive performance test	February 2009
+   36650	139	0	0	0	ZR3a.00	Cognitions questionnaire	February 2009
+   66080	7	0	0	0	ZR3b.00	Cognitive failures questionnaire	February 2009
+   22257	492	2	0	0	ZRa2.00	Microcog - assessment of cognitive function	February 2009
+   42059	117	3	0	0	ZRaY.00	Neurobehavioural cognitive status examination	February 2009
+   92756	1	0	0	0	ZRd..00	Rancho scale - levels of cognitive functioning	February 2009
+   96881	5	0	0	0	ZRh6.00	Recognition memory test	May 2009
+   93236	0	0	0	0	ZRh6.11	RMT - Recognition memory test	February 2009
+   96828	1	0	0	0	ZRkL.00	Smith cognitive questionnaire	May 2009
+   35194	158	0	0	0	ZRLfE00	Health of the Nation Outcome Scale item 4 - cognitive probl	February 2009
+   63604	17	0	0	0	ZRV9.11	Kendrick cognitive tests for the elderly	February 2009
+   26264	24	4	0	0	ZRVa.00	Lowenstein OT cognitive assessment	February 2009
+   98256	3	0	0	0	ZRVa.11	LOTCA - Lowenstein OT cognitive assessment	December 2009
