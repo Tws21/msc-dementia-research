@@ -1,0 +1,37 @@
+,Value,Feature
+285,30,hypertension
+284,30,binned_age_at_dx_80-95
+283,28,ckd
+281,27,drinking_status_Unspecified
+280,25,smi
+277,20,drinking_status_Ex drinker
+273,16,weight_category_Unspecified
+271,14,gender
+270,14,epilepsy
+265,13,binned_age_at_dx_50-65
+264,13,anxiety_or_depression_in_last_3y
+268,13,heart_failure
+263,12,weight_category_Obese
+254,11,drinking_status_Current drinker
+243,9,e2015_imd_5_2.0
+242,9,asthma
+244,9,e2015_imd_5_3.0
+235,8,binned_age_at_dx_95-110
+234,8,binned_age_at_dx_65-80
+199,5,chd
+200,5,copd
+201,5,e2015_imd_5_1.0
+202,5,e2015_imd_5_4.0
+218,5,osteoporosis
+186,4,Ethnicity_Mixed
+187,4,Ethnicity_White
+188,4,e2015_imd_5_5.0
+162,2,drinking_status_Non drinker
+173,2,weight_category_Underweight
+161,1,weight_category_Healthy weight
+1,0,Ethnicity_Other
+4,0,cfs
+3,0,binned_age_at_dx_35-50
+2,0,Ethnicity_S_Asian
+137,0,weight_category_Overweight
+0,0,Ethnicity_Black
